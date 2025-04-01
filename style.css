@@ -15,6 +15,7 @@ body, a {
   
   img {
     width: 3rem;
+    transform: translate(0, 1rem);
   }
   
   .responsive-img {
