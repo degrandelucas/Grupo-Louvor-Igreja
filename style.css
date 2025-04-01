@@ -1,11 +1,16 @@
 /* Style.css Site Grupo de Louvor*/
 
 /* Formatacao Global */
-body, a{
+body, a {
     font-family: "Montserrat", "Open Sans", "Roboto", Verdana, Tahoma, sans-serif;
-    background-color: darken-3;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-align: justify;
+  }
+
+  nav a{
+    color: black !important;
+    font-size: 1.2rem;
+    font-weight: 600;
   }
   
   img {
@@ -18,30 +23,34 @@ body, a{
   }
   
   h1 {
-    font-size: 3.052rem;
-    font-weight: 600;
-  }
-  
-  h2 {
     font-size: 2.488rem;
     text-align: center;
     font-weight: 600;
   }
   
-  h3 {
+  h2 {
     font-size: 2.074rem;
+    text-align: center;
+    font-weight: 600;
   }
   
-  h4 {
+  h3 {
     font-size: 1.728rem;
   }
   
-  h5 {
+  h4 {
     font-size: 1.44rem;
   }
   
+  h5 {
+    font-size: 1.2rem;
+    color: black;
+  }
+  
   p {
-    font-size: 1.1rem
+    font-size: 1rem;
+    color: black;
+
   }
   
   legend {

@@ -13,14 +13,14 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> <!--  bibliotecas de ícones -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-    <!-- <link rel="stylesheet" href="style.css"> -->
+    <link rel="stylesheet" href="style.css">
   </head>
-  <body>
-    <h1>Louvores Grupo de Louvor - Renascer</h1>
+  <body class="#efebe9 brown lighten-5">
     <!-- Menu navegacao do Site -->
-    <header class="cabecalho">
-      <nav>
-        <ul>
+    <header class="navbar-fixed">
+      <nav class="nav-wrapper #bdbdbd grey lighten-1">
+        <a data-target="mobile" class="sidenav-trigger hide-on-large-only"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
           <li class="menu-cabecalho"><a href="#louvores-ensaiados">Louvores Ensaiados</a></li>
           <li class="menu-cabecalho"><a href="#proximos-louvores">Próximo Ensaio</a></li>
         </ul>
@@ -28,47 +28,55 @@
     </header>
   
     <!-- Menu para telas de smartphones -->
-    <ul class="sidenav hide-on-large-only #00796b teal darken-2" id="mobile">
+    <ul class="sidenav hide-on-large-only #f5f5f5 grey lighten-4" id="mobile">
       <li><a href="#louvores-ensaiados">Louvores Ensaiados</a></li>
       <li><a href="#proximos-louvores">Próximo Ensaio</a></li>
     </ul>
 
-    <!-- Secao Louvores Ensaiados -->\
+    <h1>Grupo Renascer</h1>
+
+    <!-- Secao Louvores Ensaiados -->
     <section id="louvores-ensaiados">
-        <div>
-            <h2>Louvores Ensaiados</h2>
-            <ul>
-                <li>
-                    <span>PHP</span>
-                    <img
-                    src="https://www.svgrepo.com/show/375846/microphone.svg"
-                    alt="Simbolo-Microfone"
-                    />
-                    <img
-                    src="https://www.svgrepo.com/show/475700/youtube-color.svg"
-                    alt="Simbolo-Youtube"
-                    />
-                </li>
+        <div class="container z-depth-3">
+          <div class="row">
+            <div class="col s12 m12 l12">
+              <h2>Louvores Ensaiados</h2>
+              <ul>
+                  <li>
+                      <span>PHP</span>
+                      <img
+                      src="https://www.svgrepo.com/show/375846/microphone.svg"
+                      alt="Simbolo-Microfone"
+                      />
+                      <img
+                      src="https://www.svgrepo.com/show/475700/youtube-color.svg"
+                      alt="Simbolo-Youtube"
+                      />
+                  </li>
 
-                <li>
-                    <span>Laravel</span>
-                    <img
-                    src="https://www.svgrepo.com/show/375846/microphone.svg"
-                    alt="Simbolo-Microfone"
-                    />
-                    <img
-                    src="https://www.svgrepo.com/show/475700/youtube-color.svg"
-                    alt="Simbolo-Youtube"
-                    />
-                </li>
-            </ul>
+                  <li>
+                      <span>Laravel</span>
+                      <img
+                      src="https://www.svgrepo.com/show/375846/microphone.svg"
+                      alt="Simbolo-Microfone"
+                      />
+                      <img
+                      src="https://www.svgrepo.com/show/475700/youtube-color.svg"
+                      alt="Simbolo-Youtube"
+                      />
+                  </li>
+              </ul>
+            </div>
+          </div>
         </div>
     </section>
 
-    <!-- Secao Louvores Proximo ensaio -->\
+    <!-- Secao Louvores Proximo ensaio -->
     <section id="proximos-louvores">
-        <div>
-            <h2>Próximos Louvores</h2>
+      <div class="container z-depth-3">
+        <div class="row">
+          <div class="col s12 m12 l12">
+            <h2>Próximo Ensaio</h2>
             <ul>
                 <li>
                     <span>PHP</span>
@@ -94,55 +102,47 @@
                     />
                 </li>
             </ul>
+          </div>
         </div>
-    </section>
+      </div>
+  </section>
+
 
     <!-- Rodape do Site -->
     <!-- Secao #contato-->
-    <footer class="page-footer #37474f blue-grey darken-3" id="contato">
+    <footer class="page-footer #bdbdbd grey lighten-1" id="contato">
       <div class="container">
         <div class="row">
           <div class="col l6 s12">
-            <h5 class="white-text">Contato</h5>
-            <p class="grey-text text-lighten-4">Links para entrar em contato</p>
+            <h5>Contato</h5>
+            <p class="text-lighten-3">Links para entrar em contato</p>
           </div>
           <div class="col l4 offset-l2 s12">
-            <h5 class="white-text">Links</h5>
+            <h5>Links</h5>
             <ul>
-              <li class="row"><a class="grey-text text-lighten-3"
-                href="https://wa.me/553492517716" id="whatsapp-link"
-                target="_blank"
-                ><img class="image-footer" src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="whatsapp-logo">(34) 9 9251-7716</a></li>
-              <li class="row"><a class="grey-text text-lighten-3"
-                href="https://www.linkedin.com/in/lucasdegrande/" target="_blank"><img class="image-footer"
-                src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg"
-                 alt="Simbolo-Linkedin"
-                />Linkedin</a></li>
-              <li class="row"><a class="grey-text text-lighten-3"
-                href="https://github.com/degrandelucas" target="_blank"><img class="image-footer"
-                src="https://www.svgrepo.com/show/439171/github.svg"
-                alt="Simbolo-Github"
-                />Github</a></li>
-              <li class="row"><a class="grey-text text-lighten-3"
-                href="mailto:lucasdegrande15@gmail.com" target="_blank"
-                ><img class="image-footer" src="https://www.svgrepo.com/show/258704/email-mail.svg" alt="email-logo">lucasdegrande15@gmail.com</a></li>
-              <li class="row"><a class="grey-text text-lighten-3"
-                href="https://www.google.com/maps/dir//Extrema+-+MG,+37640-000/@-22.8118658,-46.3582616,12z/data=!4m9!4m8!1m0!1m5!1m1!1s0x94ceab79fd99d01b:0x4c540f3e47cbde1f!2m2!1d-46.3259686!2d-22.8564841!3e0?entry=ttu" target="_blank"
-                  ><img class="image-footer" src="https://www.svgrepo.com/show/513552/location-pin.svg" alt="local-logo">Extrema - MG - Brasil</a></li>
+              <li class="row"><a class="text-lighten-3"
+                href="mailto:adbaextrema@gmail.com" target="_blank"
+                ><img class="image-footer" src="https://www.svgrepo.com/show/258704/email-mail.svg" alt="email-logo">adbaextrema@gmail.com</a></li>
+              <li class="row"><a class="text-lighten-3"
+                href="https://maps.app.goo.gl/BrYdMDgdTqyLJ5EJ8" target="_blank"
+                  ><img class="image-footer" src="https://www.svgrepo.com/show/513552/location-pin.svg" alt="local-logo">Localização em Extrema - MG</a></li>
+                  <li class="row"><a class="text-lighten-3"
+                    href="https://maps.app.goo.gl/BrYdMDgdTqyLJ5EJ8" target="_blank"
+                      ><img class="image-footer" src="https://www.svgrepo.com/show/352865/car-blue.svg" alt="como-chegar-maps">Como Chegar ao Local?</a></li>
             </ul>
           </div>
         </div>
       </div>
       <!-- Secao copyright -->
-      <div class="footer-copyright">
-        <div class="container">
-          <p>Copyright &copy; 2025 Lucas Degrande</p>
+      <div class="footer-copyright #bdbdbd grey lighten-1">
+        <div class="container #bdbdbd grey lighten-1">
+          <p>Copyright &copy; 2025 Grupo de Louvor - Assembléia de Deus Extrema (Campo de Amparo/SP)</p>
         </div>
       </div>
     </footer>
 
-    <!-- abrir o WhatsAppWeb no navegador ou o WhatsApp no dispositivo móvel -->
-    <script src="./scriptMaterialize.js"></script>
+    <!-- abrir o script-materialize para funcionalidades interativas -->
+    <script src="./script-materialize.js"></script>
      
   </body>
 </html>
