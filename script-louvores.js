@@ -232,11 +232,15 @@ function renderizarLouvores(louvores, idUlLista) {
     });
 }
 
+function removerAcentos(texto) {
+    return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
 function ordenarLouvores(louvores) {
     return louvores.sort((a, b) => {
         // Transforma em maiúsculas para comparação
-        const tituloA = a.titulo.toUpperCase(); 
-        const tituloB = b.titulo.toUpperCase();
+        const tituloA = removerAcentos(a.titulo.toUpperCase()); 
+        const tituloB = removerAcentos(b.titulo.toUpperCase());
         if (tituloA < tituloB) {
             return -1;
         }
