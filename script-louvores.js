@@ -228,21 +228,22 @@ function renderizarLouvores(louvores, idUlLista) {
         div.appendChild(linkLetra);
         div.appendChild(linkVideo);
         li.appendChild(div);
-        lista.appendChild(li); // Adiciona o item à lista
+        lista.appendChild(li); // Adiciona o item à lista, seguindo a ordem correta
     });
 }
 
 function ordenarLouvores(louvores) {
     return louvores.sort((a, b) => {
-        const tituloA = a.titulo.toUpperCase(); // Ignora maiúsculas e minúsculas
-        const tituloB = b.titulo.toUpperCase(); // Ignora maiúsculas e minúsculas
+        // Transforma em maiúsculas para comparação
+        const tituloA = a.titulo.toUpperCase(); 
+        const tituloB = b.titulo.toUpperCase();
         if (tituloA < tituloB) {
             return -1;
         }
         if (tituloA > tituloB) {
             return 1;
         }
-        return 0; // Os títulos são iguais
+        return 0;
     });
 }
 
