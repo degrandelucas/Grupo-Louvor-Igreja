@@ -51,8 +51,9 @@ body, a {
     color: black;
   }
 
-  li {
+  li div {
     font-weight: 600;
+    margin: 0.5rem;
   }
 
   .second-icon {
