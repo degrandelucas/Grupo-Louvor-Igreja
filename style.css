@@ -12,15 +12,9 @@ body, a {
     font-size: 1.2rem;
     font-weight: 600;
   }
-  
-  img {
-    width: 3rem;
-    transform: translate(0, 1rem);
-  }
 
   footer img {
     width: 2rem;
-    transform: translate(0, 0);
   }
   
   .responsive-img {
@@ -36,7 +30,6 @@ body, a {
   
   h2 {
     font-size: 2.074rem;
-    text-align: center;
     font-weight: 600;
   }
   
@@ -58,9 +51,13 @@ body, a {
     color: black;
   }
 
-  span {
+  li {
     font-weight: 600;
   }
+
+  .second-icon {
+    margin-right: 0.2rem;
+}
   
   legend {
     display: inline-block;
