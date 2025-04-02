@@ -27,17 +27,17 @@ Este projeto é uma aplicação web que facilita o acesso aos louvores do Grupo 
 
 ## Estrutura de Pastas
 
-grupo-renascer/
-├── css/
-│   └── style.css
-├── js/
-│   ├── script-materialize.js
-│   ├── script-louvores.js
-│   ├── ordenacao.js
-│   ├── renderizacao.js
-│   ├── funcoesAuxiliares.js
-│   └── main.js
-└── index.html
+Grupo-Louvor-Igreja/
+|- css/
+│   |- style.css
+│- js/
+│   |- script-materialize.js
+│   |- script-louvores.js
+│   |- ordenacao.js
+│   |- renderizacao.js
+│   |- funcoesAuxiliares.js
+│   |- main.js
+│- index.html
 
 ## Autor
 
