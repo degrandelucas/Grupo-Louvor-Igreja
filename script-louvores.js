@@ -70,11 +70,6 @@ const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=ozBlvwVizXI'
     },
     {
-        titulo: 'Oceanos - Ana Nóbrega',
-        linkLetra: 'https://www.letras.mus.br/ana-nobrega/oceanos-oceans/',
-        linkVideo: 'https://www.youtube.com/watch?v=rNA8QlQI_dI'
-    },
-    {
         titulo: 'Santo Pra Sempre - Ana Nóbrega',
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
         linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30'
