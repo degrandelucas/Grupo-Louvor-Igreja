@@ -1,4 +1,6 @@
-const louvoresEnsaiados = [
+// script-louvores.js
+
+export const louvoresEnsaiados = [
     {
         titulo: 'Pode Morar Aqui - Theo Rubia',
         linkLetra: 'https://www.letras.mus.br/theo-rubia/pode-morar-aqui/',
@@ -97,7 +99,7 @@ const louvoresEnsaiados = [
     }
 ];
 
-const louvoresProximoEnsaio = [
+export const louvoresProximoEnsaio = [
     {
         titulo: 'Quem É Esse? - Julliany Souza',
         linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
@@ -142,7 +144,7 @@ const louvoresProximoEnsaio = [
     }
 ];
 
-const louvoresFuturo = [
+export const louvoresFuturo = [
     {
         titulo: 'Meu Respirar / Meu Prazer - Gabriela Rocha',
         linkLetra: 'https://www.letras.mus.br/gabriela-rocha/meu-prazer-meu-respirar/',
