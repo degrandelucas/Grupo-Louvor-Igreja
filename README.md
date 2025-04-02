@@ -27,7 +27,7 @@ Este projeto é uma aplicação web que facilita o acesso aos louvores do Grupo 
 
 ## Estrutura de Pastas
 
-grupo-renascer
+grupo-renascer/
 ├── css/
 │   └── style.css
 ├── js/
