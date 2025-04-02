@@ -257,8 +257,19 @@ function renderizarLouvores(louvores, idUlLista) {
         iconeVideo.textContent = 'ondemand_video';
         linkVideo.appendChild(iconeVideo);
 
+        const linkCifra = document.createElement('a');
+        linkCifra.href = louvor.linkCifra;
+        linkCifra.target = '_blank';
+        linkCifra.className = 'secondary-content third-icon blue-text';
+
+        const iconeCifra = document.createElement('i');
+        iconeCifra.className = 'material-icons';
+        iconeCifra.textContent = 'queue_music';
+        linkCifra.appendChild(iconeCifra);
+
         div.appendChild(linkLetra);
         div.appendChild(linkVideo);
+        div.appendChild(linkCifra);
         li.appendChild(div);
         lista.appendChild(li); // Adiciona o item à lista, seguindo a ordem correta
     });
