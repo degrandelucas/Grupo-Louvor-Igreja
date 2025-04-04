@@ -40,7 +40,7 @@ Grupo-Louvor-Igreja/
 └── index.html
 
 ## Site
-[GitHub](https://degrandelucas.github.io/Grupo-Louvor-Igreja/)
+[Site - Louvores Grupo Renascer](https://degrandelucas.github.io/Grupo-Louvor-Igreja/)
 
 ## Autor
 
