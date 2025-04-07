@@ -218,6 +218,12 @@ export const louvoresFuturo = [
         linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/#instrument=guitar'
     },
     {
+        titulo: 'Eu vou Clamar (Multidão) - Oséas Silva',
+        linkLetra: 'https://www.letras.mus.br/oseas-silva/multidao/',
+        linkVideo: 'https://www.youtube.com/watch?v=026Ejys6Uzw&t=2s',
+        linkCifra: 'https://www.cifraclub.com.br/oseas-silva/multidao/#instrument=guitar'
+    },
+    {
         titulo: 'Digno de Tudo - Sarah Oliveira',
         linkLetra: 'https://www.letras.mus.br/sarah-oliveira/digno-de-tudo/',
         linkVideo: 'https://www.youtube.com/watch?v=OyDKAhdAP9U',
