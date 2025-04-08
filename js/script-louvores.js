@@ -79,12 +79,12 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
         linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
     },
-    {
-        titulo: 'Enche-me - Isaías Saad',
-        linkLetra: 'https://www.letras.mus.br/isaias-saad/enche-me-part-gabriela-rocha/',
-        linkVideo: 'https://www.youtube.com/watch?v=ozBlvwVizXI',
-        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/enche-me-part-gabriela-rocha/#instrument=guitar'
-    },
+    // {
+    //     titulo: 'Enche-me - Isaías Saad',
+    //     linkLetra: 'https://www.letras.mus.br/isaias-saad/enche-me-part-gabriela-rocha/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=ozBlvwVizXI',
+    //     linkCifra: 'https://www.cifraclub.com.br/isaias-saad/enche-me-part-gabriela-rocha/#instrument=guitar'
+    // },
     {
         titulo: 'Santo Pra Sempre - Ana Nóbrega',
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
