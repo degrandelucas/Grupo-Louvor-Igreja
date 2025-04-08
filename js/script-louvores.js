@@ -218,7 +218,7 @@ export const louvoresFuturo = [
         linkCifra: 'https://www.cifraclub.com.br/oseas-silva/multidao/#instrument=guitar'
     },
     {
-        titulo: 'O Fogo Arderá + Reacende a Chama + Acende Outra Vez - Yasmin Teixeira',
+        titulo: 'O Fogo Arderá / Reacende a Chama / Acende Outra Vez - Yasmin Teixeira',
         linkLetra: 'https://www.letras.mus.br/yasmin-teixeira/o-fogo-ardera-reacende-a-chama-acende-outra-vez/',
         linkVideo: 'https://www.youtube.com/watch?v=zkszWxIkS7Y',
         linkCifra: 'https://www.cifraclub.com.br/yasmin-teixeira/o-fogo-ardera-reacende-a-chama-acende-outra-vez/#instrument=guitar'
