@@ -44,12 +44,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/nivea-soares/a-boa-parte-part-florianopolis-house-of-prayer/#instrument=guitar'
     },
     {
-        titulo: 'Acende Outra Vez - Jefferson & Suellen',
-        linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/acenda-outra-vez/',
-        linkVideo: 'https://www.youtube.com/watch?v=86cC5jqPPBI',
-        linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/acende-outra-vez/#instrument=guitar&capo=0&key=4'
-    },
-    {
         titulo: 'Cordeiro e Leão - Jefferson & Suellen',
         linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/cordeiro-e-leao/',
         linkVideo: 'https://www.youtube.com/watch?v=SKS7zkEEqrM',
@@ -222,6 +216,18 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/oseas-silva/multidao/',
         linkVideo: 'https://www.youtube.com/watch?v=026Ejys6Uzw&t=2s',
         linkCifra: 'https://www.cifraclub.com.br/oseas-silva/multidao/#instrument=guitar'
+    },
+    {
+        titulo: 'O Fogo Arderá + Reacende a Chama + Acende Outra Vez - Yasmin Teixeira',
+        linkLetra: 'https://www.letras.mus.br/yasmin-teixeira/o-fogo-ardera-reacende-a-chama-acende-outra-vez/',
+        linkVideo: 'https://www.youtube.com/watch?v=zkszWxIkS7Y',
+        linkCifra: 'https://www.cifraclub.com.br/yasmin-teixeira/o-fogo-ardera-reacende-a-chama-acende-outra-vez/#instrument=guitar'
+    },
+    {
+        titulo: 'Se Tua Glória - Samuel Dias',
+        linkLetra: 'https://www.letras.mus.br/samuel-dias/se-tua-gloria/',
+        linkVideo: 'https://www.youtube.com/watch?v=ybLwCOpPzDA',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-dias/se-tua-gloria/#instrument=guitar'
     },
     {
         titulo: 'Digno de Tudo - Sarah Oliveira',
