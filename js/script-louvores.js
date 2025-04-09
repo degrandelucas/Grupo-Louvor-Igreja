@@ -90,33 +90,12 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
         linkVideo: 'https://www.youtube.com/watch?v=Ot8KIh6-uEU',
         linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
-    }
-];
-
-export const louvoresProximoEnsaio = [
-    {
-        titulo: 'Quem É Esse? - Julliany Souza',
-        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
-        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
-        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#key=8'
-    },
-    {
-        titulo: 'Único - Fernandinho',
-        linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
-        linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
-        linkCifra: 'https://www.cifraclub.com.br/fernandinho/unico/simplificada.html#instrument=guitar&key=7&capo=0'
     },
     {
         titulo: 'Rendido Estou - Isaías Saad',
         linkLetra: 'https://www.letras.mus.br/isaias-saad/rendido-estou-part-debora-buzas/',
         linkVideo: 'https://www.youtube.com/watch?v=EhRoefQgV_U',
-        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/rendido-estou/#instrument=guitar&capo=0'
-    },
-    {
-        titulo: 'Te Louvarei / Aclame Ao Senhor - Guilherme Baptista',
-        linkLetra: 'https://www.letras.mus.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/',
-        linkVideo: 'https://www.youtube.com/watch?v=doA85EYrfPc',
-        linkCifra: 'https://www.cifraclub.com.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/#instrument=guitar&key=10&capo=0'
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/rendido-estou/sgwwmkk.html#instrument=guitar'
     },
     {
         titulo: 'Cadeias Quebrar - Sarah Oliveira',
@@ -137,6 +116,27 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/isaias-saad/aguas-purificadoras-oceanos-pot-pourri/#instrument=guitar'
     }
 ];
+
+export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Quem É Esse? - Julliany Souza',
+        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
+        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
+        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#key=8'
+    },
+    {
+        titulo: 'Único - Fernandinho',
+        linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
+        linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
+        linkCifra: 'https://www.cifraclub.com.br/fernandinho/unico/simplificada.html#instrument=guitar&key=7&capo=0'
+    },
+    {
+        titulo: 'Te Louvarei / Aclame Ao Senhor - Guilherme Baptista',
+        linkLetra: 'https://www.letras.mus.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/',
+        linkVideo: 'https://www.youtube.com/watch?v=doA85EYrfPc',
+        linkCifra: 'https://www.cifraclub.com.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/#instrument=guitar&key=10&capo=0'
+    }
+    ];
 
 export const louvoresFuturo = [
     {
