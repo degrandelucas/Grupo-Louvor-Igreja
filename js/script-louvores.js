@@ -135,16 +135,28 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/',
         linkVideo: 'https://www.youtube.com/watch?v=doA85EYrfPc',
         linkCifra: 'https://www.cifraclub.com.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/#instrument=guitar&key=10&capo=0'
-    }
-    ];
-
-export const louvoresFuturo = [
+    },
     {
         titulo: 'Meu Respirar / Meu Prazer - Gabriela Rocha',
         linkLetra: 'https://www.letras.mus.br/gabriela-rocha/meu-prazer-meu-respirar/',
         linkVideo: 'https://www.youtube.com/watch?v=hrqfviD97r0',
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/meu-respirar-meu-prazer-pot-pourri/#instrument=guitar&key=7&capo=0'
     },
+    {
+        titulo: 'Vitorioso És - Gabriel Guedes',
+        linkLetra: 'https://www.letras.mus.br/gabriel-guedes/vitorioso-es/',
+        linkVideo: 'https://www.youtube.com/watch?v=k7tGP-vidwc',
+        linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/vitorioso-es/simplificada.html#instrument=guitar&key=7&capo=0'
+    },
+    {
+        titulo: 'Eu vou Clamar (Multidão) - Oséas Silva',
+        linkLetra: 'https://www.letras.mus.br/oseas-silva/multidao/',
+        linkVideo: 'https://www.youtube.com/watch?v=026Ejys6Uzw&t=2s',
+        linkCifra: 'https://www.cifraclub.com.br/oseas-silva/multidao/#instrument=guitar'
+    }
+    ];
+
+export const louvoresFuturo = [
     {
         titulo: 'Essência da Adoração - David Quinlan',
         linkLetra: 'https://www.letras.mus.br/david-quinlan/essencia-da-adoracao-part-lu-alone/',
@@ -176,12 +188,6 @@ export const louvoresFuturo = [
         linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
     },
     {
-        titulo: 'Vitorioso És - Gabriel Guedes',
-        linkLetra: 'https://www.letras.mus.br/gabriel-guedes/vitorioso-es/',
-        linkVideo: 'https://www.youtube.com/watch?v=k7tGP-vidwc',
-        linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/vitorioso-es/simplificada.html#instrument=guitar&key=7&capo=0'
-    },
-    {
         titulo: 'Nada Mais - Gabriel Guedes',
         linkLetra: 'https://www.letras.mus.br/gabriel-guedes/nada-mais/',
         linkVideo: 'https://www.youtube.com/watch?v=OUyLQ4LwEBE',
@@ -210,12 +216,6 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
         linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
         linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/#instrument=guitar'
-    },
-    {
-        titulo: 'Eu vou Clamar (Multidão) - Oséas Silva',
-        linkLetra: 'https://www.letras.mus.br/oseas-silva/multidao/',
-        linkVideo: 'https://www.youtube.com/watch?v=026Ejys6Uzw&t=2s',
-        linkCifra: 'https://www.cifraclub.com.br/oseas-silva/multidao/#instrument=guitar'
     },
     {
         titulo: 'O Fogo Arderá / Reacende a Chama / Acende Outra Vez - Yasmin Teixeira',
