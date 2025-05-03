@@ -26,12 +26,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/simplificada.html#instrument=guitar'
     },
     {
-        titulo: 'Bondade de Deus - Isaías Saad',
-        linkLetra: 'https://www.letras.mus.br/isaias-saad/bondade-de-deus/',
-        linkVideo: 'https://www.youtube.com/watch?v=mZ9yZYo9Mmk',
-        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/bondade-de-deus/#instrument=guitar&key=3&capo=0'
-    },
-    {
         titulo: 'Caminho No Deserto - Soraya Moraes',
         linkLetra: 'https://www.letras.mus.br/soraya-moraes/caminho-no-deserto-way-maker/',
         linkVideo: 'https://www.youtube.com/watch?v=AAvjEp7u9tA&t=97s',
@@ -123,6 +117,12 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
         linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
         linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#key=8'
+    },
+    {
+        titulo: 'Bondade de Deus - Isaías Saad',
+        linkLetra: 'https://www.letras.mus.br/isaias-saad/bondade-de-deus/',
+        linkVideo: 'https://www.youtube.com/watch?v=mZ9yZYo9Mmk',
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/bondade-de-deus/#instrument=guitar&key=3&capo=0'
     },
     {
         titulo: 'Único - Fernandinho',
