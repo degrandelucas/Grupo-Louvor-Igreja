@@ -143,16 +143,16 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/meu-respirar-meu-prazer-pot-pourri/#instrument=guitar&key=7&capo=0'
     },
     {
+        titulo: 'Ele Vem - Gabriel Guedes',
+        linkLetra: 'https://www.letras.mus.br/gabriel-guedes/ele-vem/',
+        linkVideo: 'https://www.youtube.com/watch?v=YudXB8MZRTs',
+        linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/ele-vem/simplificada.html#instrument=guitar&key=10&capo=0'
+    },
+    {
         titulo: 'Vitorioso És - Gabriel Guedes',
         linkLetra: 'https://www.letras.mus.br/gabriel-guedes/vitorioso-es/',
         linkVideo: 'https://www.youtube.com/watch?v=k7tGP-vidwc',
         linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/vitorioso-es/simplificada.html#instrument=guitar&key=7&capo=0'
-    },
-    {
-        titulo: 'Eu vou Clamar (Multidão) - Oséas Silva',
-        linkLetra: 'https://www.letras.mus.br/oseas-silva/multidao/',
-        linkVideo: 'https://www.youtube.com/watch?v=026Ejys6Uzw&t=2s',
-        linkCifra: 'https://www.cifraclub.com.br/oseas-silva/multidao/#instrument=guitar'
     }
     ];
 
@@ -168,6 +168,12 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/aline-barros/178166/',
         linkVideo: 'https://www.youtube.com/watch?v=60CuZyzGf5U',
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/ao-unico/#instrument=guitar'
+    },
+    {
+        titulo: 'Eu vou Clamar (Multidão) - Oséas Silva',
+        linkLetra: 'https://www.letras.mus.br/oseas-silva/multidao/',
+        linkVideo: 'https://www.youtube.com/watch?v=026Ejys6Uzw&t=2s',
+        linkCifra: 'https://www.cifraclub.com.br/oseas-silva/multidao/#instrument=guitar'
     },
     {
         titulo: 'Deus Está Aqui / O Espírito de Deus / Manancial - Gabriela Rocha',
@@ -204,12 +210,6 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/sandra-pires/poderosamente-vivo/',
         linkVideo: 'https://www.youtube.com/watch?v=rhNLlFmRHK4',
         linkCifra: 'https://www.cifraclub.com.br/sandra-pires/poderosamente-vivo/#instrument=guitar&key=7'
-    },
-    {
-        titulo: 'Ele Vem - Gabriel Guedes',
-        linkLetra: 'https://www.letras.mus.br/gabriel-guedes/ele-vem/',
-        linkVideo: 'https://www.youtube.com/watch?v=YudXB8MZRTs',
-        linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/ele-vem/simplificada.html#instrument=guitar&key=10&capo=0'
     },
     {
         titulo: 'Clamo Jesus - Paulo César Baruk',
