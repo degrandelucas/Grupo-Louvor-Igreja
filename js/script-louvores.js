@@ -38,6 +38,12 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/nivea-soares/a-boa-parte-part-florianopolis-house-of-prayer/#instrument=guitar'
     },
     {
+        titulo: 'Bondade de Deus - Isaías Saad',
+        linkLetra: 'https://www.letras.mus.br/isaias-saad/bondade-de-deus/',
+        linkVideo: 'https://www.youtube.com/watch?v=mZ9yZYo9Mmk',
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/bondade-de-deus/#instrument=guitar&key=3&capo=0'
+    },
+    {
         titulo: 'Cordeiro e Leão - Jefferson & Suellen',
         linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/cordeiro-e-leao/',
         linkVideo: 'https://www.youtube.com/watch?v=SKS7zkEEqrM',
@@ -119,18 +125,6 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#key=8'
     },
     {
-        titulo: 'Bondade de Deus - Isaías Saad',
-        linkLetra: 'https://www.letras.mus.br/isaias-saad/bondade-de-deus/',
-        linkVideo: 'https://www.youtube.com/watch?v=mZ9yZYo9Mmk',
-        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/bondade-de-deus/#instrument=guitar&key=3&capo=0'
-    },
-    {
-        titulo: 'Único - Fernandinho',
-        linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
-        linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
-        linkCifra: 'https://www.cifraclub.com.br/fernandinho/unico/simplificada.html#instrument=guitar&key=7&capo=0'
-    },
-    {
         titulo: 'Te Louvarei / Aclame Ao Senhor - Guilherme Baptista',
         linkLetra: 'https://www.letras.mus.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/',
         linkVideo: 'https://www.youtube.com/watch?v=doA85EYrfPc',
@@ -153,6 +147,18 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/gabriel-guedes/vitorioso-es/',
         linkVideo: 'https://www.youtube.com/watch?v=k7tGP-vidwc',
         linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/vitorioso-es/simplificada.html#instrument=guitar&key=7&capo=0'
+    },
+    {
+        titulo: 'Saudade de Casa - Jefferson & Suellen',
+        linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/saudade-de-casa/',
+        linkVideo: 'https://www.youtube.com/watch?v=zB2K6nG8sVw',
+        linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
+    },
+    {
+        titulo: 'Eu Vou Subir - Lauriete',
+        linkLetra: 'https://www.letras.mus.br/lauriete/996195/',
+        linkVideo: 'https://www.youtube.com/watch?v=lk90CBIcbAE',
+        linkCifra: 'https://www.cifraclub.com.br/lauriete/eu-vou-subir/'
     }
     ];
 
@@ -162,6 +168,12 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/david-quinlan/essencia-da-adoracao-part-lu-alone/',
         linkVideo: 'https://www.youtube.com/watch?v=lxo6Fgm_n38',
         linkCifra: 'https://www.cifraclub.com.br/david-quinlan/essencia-da-adoracao/simplificada.html#instrument=guitar'
+    },
+    {
+        titulo: 'Único - Fernandinho',
+        linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
+        linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
+        linkCifra: 'https://www.cifraclub.com.br/fernandinho/unico/simplificada.html#instrument=guitar&key=7&capo=0'
     },
     {
         titulo: 'Ao Único - Aline Barros',
@@ -204,12 +216,6 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
         linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
-    },
-    {
-        titulo: 'Saudade de Casa - Jefferson & Suellen',
-        linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/saudade-de-casa/',
-        linkVideo: 'https://www.youtube.com/watch?v=zB2K6nG8sVw',
-        linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
     },
     {
         titulo: 'Clamo Jesus - Paulo César Baruk',
