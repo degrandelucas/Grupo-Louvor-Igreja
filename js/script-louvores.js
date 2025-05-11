@@ -206,10 +206,10 @@ export const louvoresFuturo = [
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
     },
     {
-        titulo: 'Poderosamente Vivo - Sandra Pires',
-        linkLetra: 'https://www.letras.mus.br/sandra-pires/poderosamente-vivo/',
-        linkVideo: 'https://www.youtube.com/watch?v=rhNLlFmRHK4',
-        linkCifra: 'https://www.cifraclub.com.br/sandra-pires/poderosamente-vivo/#instrument=guitar&key=7'
+        titulo: 'Saudade de Casa - Jefferson & Suellen',
+        linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/saudade-de-casa/',
+        linkVideo: 'https://www.youtube.com/watch?v=zB2K6nG8sVw',
+        linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
     },
     {
         titulo: 'Clamo Jesus - Paulo César Baruk',
