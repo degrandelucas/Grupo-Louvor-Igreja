@@ -114,6 +114,24 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/isaias-saad/aguas-purificadoras-oceanos/',
         linkVideo: 'https://www.youtube.com/watch?v=XUDifaNsjtA',
         linkCifra: 'https://www.cifraclub.com.br/isaias-saad/aguas-purificadoras-oceanos-pot-pourri/#instrument=guitar'
+    },
+    {
+        titulo: 'Ele Vem - Gabriel Guedes',
+        linkLetra: 'https://www.letras.mus.br/gabriel-guedes/ele-vem/',
+        linkVideo: 'https://www.youtube.com/watch?v=YudXB8MZRTs',
+        linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/ele-vem/simplificada.html#instrument=guitar&key=10&capo=0'
+    },
+    {
+        titulo: 'Eu Vou Subir - Lauriete',
+        linkLetra: 'https://www.letras.mus.br/lauriete/996195/',
+        linkVideo: 'https://www.youtube.com/watch?v=lk90CBIcbAE',
+        linkCifra: 'https://www.cifraclub.com.br/lauriete/eu-vou-subir/'
+    },
+    {
+        titulo: 'Bem Mais Que Tudo - Aline Barros',
+        linkLetra: 'https://www.letras.mus.br/aline-barros/178167/',
+        linkVideo: 'https://www.youtube.com/watch?v=tG0ZM8xqAhg',
+        linkCifra: 'https://www.cifraclub.com.br/aline-barros/bem-mais-que-tudo/simplificada.html#instrument=guitar'
     }
 ];
 
@@ -137,12 +155,6 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/meu-respirar-meu-prazer-pot-pourri/#instrument=guitar&key=7&capo=0'
     },
     {
-        titulo: 'Ele Vem - Gabriel Guedes',
-        linkLetra: 'https://www.letras.mus.br/gabriel-guedes/ele-vem/',
-        linkVideo: 'https://www.youtube.com/watch?v=YudXB8MZRTs',
-        linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/ele-vem/simplificada.html#instrument=guitar&key=10&capo=0'
-    },
-    {
         titulo: 'Vitorioso És - Gabriel Guedes',
         linkLetra: 'https://www.letras.mus.br/gabriel-guedes/vitorioso-es/',
         linkVideo: 'https://www.youtube.com/watch?v=k7tGP-vidwc',
@@ -153,12 +165,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/saudade-de-casa/',
         linkVideo: 'https://www.youtube.com/watch?v=zB2K6nG8sVw',
         linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
-    },
-    {
-        titulo: 'Eu Vou Subir - Lauriete',
-        linkLetra: 'https://www.letras.mus.br/lauriete/996195/',
-        linkVideo: 'https://www.youtube.com/watch?v=lk90CBIcbAE',
-        linkCifra: 'https://www.cifraclub.com.br/lauriete/eu-vou-subir/'
     }
     ];
 
