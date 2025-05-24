@@ -132,16 +132,43 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/aline-barros/178167/',
         linkVideo: 'https://www.youtube.com/watch?v=tG0ZM8xqAhg',
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/bem-mais-que-tudo/simplificada.html#instrument=guitar'
+    },
+    {
+        titulo: 'Quem É Esse? - Julliany Souza',
+        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
+        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
+        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=8'
+    },
+    {
+        titulo: 'Deus do Impossível - Davi Sacer',
+        linkLetra: 'https://www.letras.mus.br/davi-sacer/1129992/',
+        linkVideo: 'https://www.youtube.com/watch?v=Apot7wbsO1o',
+        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/deus-do-impossivel/#instrument=guitar'
+    },
+    {
+        titulo: 'Você Não Vai Parar - Samuel Messias [R]',
+        linkLetra: 'https://www.letras.mus.br/samuel-messias/voce-nao-vai-parar/',
+        linkVideo: 'https://www.youtube.com/watch?v=ju-VN3hRp7Q&t=115s',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/voce-nao-vai-parar/#instrument=guitar'
     }
 ];
 
 export const louvoresProximoEnsaio = [
     {
-        titulo: 'Quem É Esse? - Julliany Souza',
-        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
-        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
-        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#key=8'
+        titulo: 'O Fogo Arderá - Alexsander Lúcio [R]',
+        linkLetra: 'https://www.letras.mus.br/alexsander-lucio/o-fogo-ardera/',
+        linkVideo: 'https://www.youtube.com/watch?v=Bqc6B5LzTN0',
+        linkCifra: 'https://www.cifraclub.com.br/alexsander-lucio/o-fogo-ardera/simplificada.html#instrument=guitar'
     },
+    {
+        titulo: 'Teu Toque - Gabi Sampaio [R]',
+        linkLetra: 'https://www.letras.mus.br/gabi-sampaio/teu-toque/',
+        linkVideo: 'https://www.youtube.com/watch?v=4-mUSeCl_Js&t=123s',
+        linkCifra: 'https://www.cifraclub.com.br/gabi-sampaio/teu-toque/sgphgst.html#instrument=guitar&key=0'
+    }
+    ];
+
+export const louvoresFuturo = [
     {
         titulo: 'Te Louvarei / Aclame Ao Senhor - Guilherme Baptista',
         linkLetra: 'https://www.letras.mus.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/',
@@ -165,10 +192,7 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/saudade-de-casa/',
         linkVideo: 'https://www.youtube.com/watch?v=zB2K6nG8sVw',
         linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
-    }
-    ];
-
-export const louvoresFuturo = [
+    },
     {
         titulo: 'Essência da Adoração - David Quinlan',
         linkLetra: 'https://www.letras.mus.br/david-quinlan/essencia-da-adoracao-part-lu-alone/',
