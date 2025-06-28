@@ -73,12 +73,12 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
         linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
     },
-    // {
-    //     titulo: 'Enche-me - Isaías Saad',
-    //     linkLetra: 'https://www.letras.mus.br/isaias-saad/enche-me-part-gabriela-rocha/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=ozBlvwVizXI',
-    //     linkCifra: 'https://www.cifraclub.com.br/isaias-saad/enche-me-part-gabriela-rocha/#instrument=guitar'
-    // },
+    {
+        titulo: 'Saudade de Casa - Jefferson & Suellen',
+        linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/saudade-de-casa/',
+        linkVideo: 'https://www.youtube.com/watch?v=zB2K6nG8sVw',
+        linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
+    },
     {
         titulo: 'Santo Pra Sempre - Ana Nóbrega',
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
@@ -210,12 +210,6 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/gabriela-rocha/meu-prazer-meu-respirar/',
         linkVideo: 'https://www.youtube.com/watch?v=hrqfviD97r0',
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/meu-respirar-meu-prazer-pot-pourri/#instrument=guitar&key=7&capo=0'
-    },
-    {
-        titulo: 'Saudade de Casa - Jefferson & Suellen',
-        linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/saudade-de-casa/',
-        linkVideo: 'https://www.youtube.com/watch?v=zB2K6nG8sVw',
-        linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
     },
     {
         titulo: 'Essência da Adoração - David Quinlan',
