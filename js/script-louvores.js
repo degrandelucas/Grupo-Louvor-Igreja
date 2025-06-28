@@ -191,7 +191,7 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
     {
-        titulo: 'Clamo Jesus - Paulo César Baruk',
+        titulo: 'Clamo Jesus - Paulo César Baruk [DE]',
         linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
         linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
         linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
