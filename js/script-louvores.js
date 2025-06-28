@@ -150,6 +150,12 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/samuel-messias/voce-nao-vai-parar/',
         linkVideo: 'https://www.youtube.com/watch?v=ju-VN3hRp7Q&t=115s',
         linkCifra: 'https://www.cifraclub.com.br/samuel-messias/voce-nao-vai-parar/#instrument=guitar'
+    },
+    {
+        titulo: 'Te Adorar - Fernandinho [G]',
+        linkLetra: 'https://www.letras.mus.br/fernandinho/te-adorar/',
+        linkVideo: 'https://www.youtube.com/watch?v=9GnhyxvjfdQ',
+        linkCifra: 'https://www.cifraclub.com.br/fernandinho/te-adorar/simplificada.html#instrument=guitar&key=2&capo=0'
     }
 ];
 
@@ -165,6 +171,36 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/gabi-sampaio/teu-toque/',
         linkVideo: 'https://www.youtube.com/watch?v=4-mUSeCl_Js&t=123s',
         linkCifra: 'https://www.cifraclub.com.br/gabi-sampaio/teu-toque/sgphgst.html#instrument=guitar&key=0'
+    },
+    {
+        titulo: 'Tu És Poderoso - Lukas Agustinho [DA]',
+        linkLetra: 'https://www.letras.mus.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/',
+        linkVideo: 'https://www.youtube.com/watch?v=aLHniDx88_w',
+        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/#instrument=guitar'
+    },
+    {
+        titulo: 'Deserto - Maria Marçal [DE]',
+        linkLetra: 'https://www.letras.mus.br/maria-marcal/deserto/',
+        linkVideo: 'https://www.youtube.com/watch?v=0H6WYzM0TMg',
+        linkCifra: 'https://www.cifraclub.com.br/maria-marcal/deserto/simplificada.html'
+    },
+    {
+        titulo: 'Vitorioso És - Sarah Oliveira [DE]',
+        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
+        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
+        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
+    },
+    {
+        titulo: 'Vitorioso És - Sarah Oliveira [DE]',
+        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
+        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
+        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
+    },
+    {
+        titulo: 'Clamo Jesus - Paulo César Baruk',
+        linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
+        linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
+        linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
     }
     ];
 
@@ -180,12 +216,6 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/gabriela-rocha/meu-prazer-meu-respirar/',
         linkVideo: 'https://www.youtube.com/watch?v=hrqfviD97r0',
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/meu-respirar-meu-prazer-pot-pourri/#instrument=guitar&key=7&capo=0'
-    },
-    {
-        titulo: 'Vitorioso És - Gabriel Guedes',
-        linkLetra: 'https://www.letras.mus.br/gabriel-guedes/vitorioso-es/',
-        linkVideo: 'https://www.youtube.com/watch?v=k7tGP-vidwc',
-        linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/vitorioso-es/simplificada.html#instrument=guitar&key=7&capo=0'
     },
     {
         titulo: 'Saudade de Casa - Jefferson & Suellen',
@@ -246,18 +276,6 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
         linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
-    },
-    {
-        titulo: 'Clamo Jesus - Paulo César Baruk',
-        linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
-        linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
-        linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/#instrument=guitar'
-    },
-    {
-        titulo: 'O Fogo Arderá / Reacende a Chama / Acende Outra Vez - Yasmin Teixeira',
-        linkLetra: 'https://www.letras.mus.br/yasmin-teixeira/o-fogo-ardera-reacende-a-chama-acende-outra-vez/',
-        linkVideo: 'https://www.youtube.com/watch?v=zkszWxIkS7Y',
-        linkCifra: 'https://www.cifraclub.com.br/yasmin-teixeira/o-fogo-ardera-reacende-a-chama-acende-outra-vez/#instrument=guitar'
     },
     {
         titulo: 'Se Tua Glória - Samuel Dias',
