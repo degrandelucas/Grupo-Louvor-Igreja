@@ -191,12 +191,6 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
     {
-        titulo: 'Vitorioso És - Sarah Oliveira [DE]',
-        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
-        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
-        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
-    },
-    {
         titulo: 'Clamo Jesus - Paulo César Baruk',
         linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
         linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
