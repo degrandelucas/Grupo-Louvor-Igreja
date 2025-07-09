@@ -62,12 +62,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/sonda-me-usa-me/simplificada.html#instrument=guitar'
     },
     {
-        titulo: 'João 20 / Pra Sempre / Porquê Ele Vive - Josué Freitas',
-        linkLetra: 'https://www.letras.mus.br/josue-freitas/joao-20-pra-sempre/',
-        linkVideo: 'https://www.youtube.com/watch?v=KSXBGjb6TyM',
-        linkCifra: 'https://www.cifraclub.com.br/josue-freitas/joao-20-pra-sempre/#instrument=guitar&key=10'
-    },
-    {
         titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad',
         linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
         linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
@@ -80,7 +74,7 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
     },
     {
-        titulo: 'Santo Pra Sempre - Ana Nóbrega',
+        titulo: 'Santo Pra Sempre - Ana Nóbrega [DA]',
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
         linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30',
         linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/santo-pra-sempre/#instrument=guitar'
@@ -134,12 +128,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/bem-mais-que-tudo/simplificada.html#instrument=guitar'
     },
     {
-        titulo: 'Quem É Esse? - Julliany Souza',
-        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
-        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
-        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=8'
-    },
-    {
         titulo: 'Deus do Impossível - Davi Sacer',
         linkLetra: 'https://www.letras.mus.br/davi-sacer/1129992/',
         linkVideo: 'https://www.youtube.com/watch?v=Apot7wbsO1o',
@@ -160,6 +148,18 @@ export const louvoresEnsaiados = [
 ];
 
 export const louvoresProximoEnsaio = [
+    {
+        titulo: 'João 20 / Pra Sempre / Porquê Ele Vive - Josué Freitas',
+        linkLetra: 'https://www.letras.mus.br/josue-freitas/joao-20-pra-sempre/',
+        linkVideo: 'https://www.youtube.com/watch?v=KSXBGjb6TyM',
+        linkCifra: 'https://www.cifraclub.com.br/josue-freitas/joao-20-pra-sempre/#instrument=guitar&key=10'
+    },
+    {
+        titulo: 'Quem É Esse? - Julliany Souza [DA]',
+        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
+        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
+        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=8'
+    },
     {
         titulo: 'O Fogo Arderá - Alexsander Lúcio [R]',
         linkLetra: 'https://www.letras.mus.br/alexsander-lucio/o-fogo-ardera/',
