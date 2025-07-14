@@ -144,10 +144,7 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/fernandinho/te-adorar/',
         linkVideo: 'https://www.youtube.com/watch?v=9GnhyxvjfdQ',
         linkCifra: 'https://www.cifraclub.com.br/fernandinho/te-adorar/simplificada.html#instrument=guitar&key=2&capo=0'
-    }
-];
-
-export const louvoresProximoEnsaio = [
+    },
     {
         titulo: 'João 20 / Pra Sempre / Porquê Ele Vive - Josué Freitas',
         linkLetra: 'https://www.letras.mus.br/josue-freitas/joao-20-pra-sempre/',
@@ -160,6 +157,9 @@ export const louvoresProximoEnsaio = [
         linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
         linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=8'
     },
+];
+
+export const louvoresProximoEnsaio = [
     {
         titulo: 'O Fogo Arderá - Alexsander Lúcio [R]',
         linkLetra: 'https://www.letras.mus.br/alexsander-lucio/o-fogo-ardera/',
@@ -195,6 +195,24 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
         linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
         linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
+    },
+    {
+        titulo: 'Único - Fernandinho [J]',
+        linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
+        linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
+        linkCifra: 'https://www.cifraclub.com.br/fernandinho/unico/simplificada.html#instrument=guitar&key=7&capo=0'
+    },
+    {
+        titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha [J]',
+        linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
+        linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
+        linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
+    },
+    {
+        titulo: 'Eu Vou Construir - Juliano Son [DA]',
+        linkLetra: 'https://www.letras.mus.br/juliano-son/eu-vou-construir/',
+        linkVideo: 'https://www.youtube.com/watch?v=1htnqzaKLP8',
+        linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
     }
     ];
 
@@ -216,12 +234,6 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/david-quinlan/essencia-da-adoracao-part-lu-alone/',
         linkVideo: 'https://www.youtube.com/watch?v=lxo6Fgm_n38',
         linkCifra: 'https://www.cifraclub.com.br/david-quinlan/essencia-da-adoracao/simplificada.html#instrument=guitar'
-    },
-    {
-        titulo: 'Único - Fernandinho',
-        linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
-        linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
-        linkCifra: 'https://www.cifraclub.com.br/fernandinho/unico/simplificada.html#instrument=guitar&key=7&capo=0'
     },
     {
         titulo: 'Ao Único - Aline Barros',
@@ -248,22 +260,10 @@ export const louvoresFuturo = [
         linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/atos-2-ele-e-exaltado-pot-pourri/#instrument=guitar'
     },
     {
-        titulo: 'Eu Vou Construir - Juliano Son',
-        linkLetra: 'https://www.letras.mus.br/juliano-son/eu-vou-construir/',
-        linkVideo: 'https://www.youtube.com/watch?v=1htnqzaKLP8',
-        linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
-    },
-    {
         titulo: 'Nada Mais - Gabriel Guedes',
         linkLetra: 'https://www.letras.mus.br/gabriel-guedes/nada-mais/',
         linkVideo: 'https://www.youtube.com/watch?v=OUyLQ4LwEBE',
         linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/nada-mais/#instrument=guitar'
-    },
-    {
-        titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha',
-        linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
-        linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
-        linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
     },
     {
         titulo: 'Se Tua Glória - Samuel Dias',
