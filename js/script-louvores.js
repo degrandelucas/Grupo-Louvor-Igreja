@@ -213,6 +213,12 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/juliano-son/eu-vou-construir/',
         linkVideo: 'https://www.youtube.com/watch?v=1htnqzaKLP8',
         linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
+    },
+    {
+        titulo: 'Os Planos de Deus - Samuel Messias [G]',
+        linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html'
     }
     ];
 
