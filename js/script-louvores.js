@@ -217,6 +217,12 @@ export const louvoresProximoEnsaio = [
     {
         titulo: 'Os Planos de Deus - Samuel Messias [G]',
         linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=kWAwtu55i7g',
+        linkCifra: 'https://www.cifraclub.com.br/pra-tua-gloria/me-refaz/'
+    },
+    {
+        titulo: 'Me Refaz - Pra Tua Glória [G]',
+        linkLetra: 'https://www.letras.mus.br/pra-tua-gloria/me-refaz/',
         linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
         linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html'
     }
