@@ -157,6 +157,12 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
         linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=8'
     },
+    {
+        titulo: 'Clamo Jesus - Paulo César Baruk [DE]',
+        linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
+        linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
+        linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
+    }
 ];
 
 export const louvoresProximoEnsaio = [
@@ -191,12 +197,6 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
     {
-        titulo: 'Clamo Jesus - Paulo César Baruk [DE]',
-        linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
-        linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
-        linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
-    },
-    {
         titulo: 'Único - Fernandinho [J]',
         linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
         linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
@@ -217,14 +217,26 @@ export const louvoresProximoEnsaio = [
     {
         titulo: 'Os Planos de Deus - Samuel Messias [G]',
         linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
-        linkVideo: 'https://www.youtube.com/watch?v=kWAwtu55i7g',
-        linkCifra: 'https://www.cifraclub.com.br/pra-tua-gloria/me-refaz/'
+        linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
     },
     {
         titulo: 'Me Refaz - Pra Tua Glória [G]',
         linkLetra: 'https://www.letras.mus.br/pra-tua-gloria/me-refaz/',
-        linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
-        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html'
+        linkVideo: 'https://www.youtube.com/watch?v=kWAwtu55i7g',
+        linkCifra: 'https://www.cifraclub.com.br/pra-tua-gloria/me-refaz/'
+    },
+    {
+        titulo: 'Algo Novo - Lukas Austinho [DA]',
+        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
+        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
+    },
+    {
+        titulo: 'Daniel - Mara Lima [J]',
+        linkLetra: 'https://www.letras.mus.br/mara-lima/652059/',
+        linkVideo: 'https://www.youtube.com/watch?v=S8KmPTrp1hc',
+        linkCifra: 'https://www.cifraclub.com.br/mara-lima/daniel/'
     }
     ];
 
