@@ -162,15 +162,6 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
         linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
         linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
-    }
-];
-
-export const louvoresProximoEnsaio = [
-    {
-        titulo: 'O Fogo Arderá - Alexsander Lúcio [R]',
-        linkLetra: 'https://www.letras.mus.br/alexsander-lucio/o-fogo-ardera/',
-        linkVideo: 'https://www.youtube.com/watch?v=Bqc6B5LzTN0',
-        linkCifra: 'https://www.cifraclub.com.br/alexsander-lucio/o-fogo-ardera/simplificada.html#instrument=guitar'
     },
     {
         titulo: 'Teu Toque - Gabi Sampaio [R]',
@@ -179,10 +170,31 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/gabi-sampaio/teu-toque/sgphgst.html#instrument=guitar&key=0'
     },
     {
+        titulo: 'Único - Fernandinho [J]',
+        linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
+        linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
+        linkCifra: 'https://www.cifraclub.com.br/fernandinho/unico/simplificada.html#instrument=guitar&key=7&capo=0'
+    },
+    {
+        titulo: 'Os Planos de Deus - Samuel Messias [G]',
+        linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
+    }    
+];
+
+export const louvoresProximoEnsaio = [
+    {
         titulo: 'Tu És Poderoso - Lukas Agustinho [DA]',
         linkLetra: 'https://www.letras.mus.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/',
         linkVideo: 'https://www.youtube.com/watch?v=aLHniDx88_w',
         linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/#instrument=guitar'
+    },
+    {
+        titulo: 'O Fogo Arderá - Alexsander Lúcio [R]',
+        linkLetra: 'https://www.letras.mus.br/alexsander-lucio/o-fogo-ardera/',
+        linkVideo: 'https://www.youtube.com/watch?v=Bqc6B5LzTN0',
+        linkCifra: 'https://www.cifraclub.com.br/alexsander-lucio/o-fogo-ardera/simplificada.html#instrument=guitar'
     },
     {
         titulo: 'Deserto - Maria Marçal [DE]',
@@ -197,12 +209,6 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
     {
-        titulo: 'Único - Fernandinho [J]',
-        linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
-        linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
-        linkCifra: 'https://www.cifraclub.com.br/fernandinho/unico/simplificada.html#instrument=guitar&key=7&capo=0'
-    },
-    {
         titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha [J]',
         linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
         linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
@@ -213,12 +219,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/juliano-son/eu-vou-construir/',
         linkVideo: 'https://www.youtube.com/watch?v=1htnqzaKLP8',
         linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
-    },
-    {
-        titulo: 'Os Planos de Deus - Samuel Messias [G]',
-        linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
-        linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
-        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
     },
     {
         titulo: 'Me Refaz - Pra Tua Glória [G]',
