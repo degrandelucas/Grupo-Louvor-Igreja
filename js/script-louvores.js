@@ -221,7 +221,7 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
     },
     {
-        titulo: 'Me Refaz - Pra Tua Glória [G]',
+        titulo: 'Me Refaz - Ministério Pra Tua Glória [G]',
         linkLetra: 'https://www.letras.mus.br/pra-tua-gloria/me-refaz/',
         linkVideo: 'https://www.youtube.com/watch?v=kWAwtu55i7g',
         linkCifra: 'https://www.cifraclub.com.br/pra-tua-gloria/me-refaz/'
@@ -245,10 +245,22 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/davi-sacer/marca-da-promessa/'
     },
     {
-        titulo: 'Aviva-nos/ A Terra Clama - Davi Fernandes [DA]',
+        titulo: 'Aviva-nos / A Terra Clama - Davi Fernandes [DA]',
         linkLetra: 'https://www.letras.mus.br/davi-fernandes/aviva-nos/',
         linkVideo: 'https://www.youtube.com/watch?v=6i058l7_O-w',
         linkCifra: 'https://www.cifraclub.com.br/davi-fernandes/aviva-nos-a-terra-clama-medley/'
+    },
+    {
+        titulo: 'Aviva-nos / A Terra Clama - Davi Fernandes [DA]',
+        linkLetra: 'https://www.letras.mus.br/davi-fernandes/aviva-nos/',
+        linkVideo: 'https://www.youtube.com/watch?v=6i058l7_O-w',
+        linkCifra: 'https://www.cifraclub.com.br/davi-fernandes/aviva-nos-a-terra-clama-medley/'
+    },
+    {
+        titulo: 'Vai Valer a Pena - Livres Para Adorar [DA]',
+        linkLetra: 'https://www.letras.mus.br/livres-para-adorar/vai-valer-a-pena/',
+        linkVideo: 'https://www.youtube.com/watch?v=j5ZCckq4ai0',
+        linkCifra: 'https://www.cifraclub.com.br/livres-para-adorar/vai-valer-apena/'
     }
     ];
 
