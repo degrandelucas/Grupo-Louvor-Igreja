@@ -237,6 +237,18 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/mara-lima/652059/',
         linkVideo: 'https://www.youtube.com/watch?v=S8KmPTrp1hc',
         linkCifra: 'https://www.cifraclub.com.br/mara-lima/daniel/'
+    },
+    {
+        titulo: 'Marca da Promessa - Davi Sacer [DE]',
+        linkLetra: 'https://www.letras.mus.br/davi-sacer/marca-da-promessa/',
+        linkVideo: 'https://www.youtube.com/watch?v=o2wwqLrFe1g',
+        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/marca-da-promessa/'
+    },
+    {
+        titulo: 'Aviva-nos/ A Terra Clama - Davi Fernandes [DA]',
+        linkLetra: 'https://www.letras.mus.br/davi-fernandes/aviva-nos/',
+        linkVideo: 'https://www.youtube.com/watch?v=6i058l7_O-w',
+        linkCifra: 'https://www.cifraclub.com.br/davi-fernandes/aviva-nos-a-terra-clama-medley/'
     }
     ];
 
