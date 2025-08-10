@@ -251,10 +251,22 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/davi-fernandes/aviva-nos-a-terra-clama-medley/'
     },
     {
-        titulo: 'Aviva-nos / A Terra Clama - Davi Fernandes [DA]',
-        linkLetra: 'https://www.letras.mus.br/davi-fernandes/aviva-nos/',
-        linkVideo: 'https://www.youtube.com/watch?v=6i058l7_O-w',
-        linkCifra: 'https://www.cifraclub.com.br/davi-fernandes/aviva-nos-a-terra-clama-medley/'
+        titulo: 'Caia Fogo - Fernandinho [J]',
+        linkLetra: 'https://www.letras.mus.br/fernandinho/caia-fogo/',
+        linkVideo: 'https://www.youtube.com/watch?v=p0N8dsntNDI',
+        linkCifra: 'https://www.cifraclub.com.br/fernandinho/caia-fogo/simplificada.html'
+    },
+    {
+        titulo: 'Todavia Me Alegrarei - Leandro Soares [J]',
+        linkLetra: 'https://www.letras.mus.br/leandro-soares/todavia-me-alegrarei/',
+        linkVideo: 'https://www.youtube.com/watch?v=rNBedSCKwVc',
+        linkCifra: 'https://www.cifraclub.com.br/leandro-soares/todavia-me-alegrarei/#capo=0'
+    },
+    {
+        titulo: 'Sobre As Águas - Davi Sacer [J]',
+        linkLetra: 'https://www.letras.mus.br/davi-sacer/1984478/',
+        linkVideo: 'https://www.youtube.com/watch?v=y2_pxNYbPUA',
+        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/sobre-as-aguas/simplificada.html#capo=0'
     },
     {
         titulo: 'Vai Valer a Pena - Livres Para Adorar [DA]',
