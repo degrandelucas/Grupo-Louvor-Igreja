@@ -74,7 +74,7 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
     },
     {
-        titulo: 'Santo Pra Sempre - Ana Nóbrega [DA]',
+        titulo: 'Santo Pra Sempre - Ana Nóbrega [L]',
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
         linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30',
         linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/santo-pra-sempre/#instrument=guitar'
@@ -269,7 +269,7 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/davi-sacer/sobre-as-aguas/simplificada.html#capo=0'
     },
     {
-        titulo: 'Vai Valer a Pena - Livres Para Adorar [DA]',
+        titulo: 'Vai Valer a Pena - Livres Para Adorar [L]',
         linkLetra: 'https://www.letras.mus.br/livres-para-adorar/vai-valer-a-pena/',
         linkVideo: 'https://www.youtube.com/watch?v=j5ZCckq4ai0',
         linkCifra: 'https://www.cifraclub.com.br/livres-para-adorar/vai-valer-apena/'
