@@ -267,16 +267,16 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/davi-sacer/1984478/',
         linkVideo: 'https://www.youtube.com/watch?v=y2_pxNYbPUA',
         linkCifra: 'https://www.cifraclub.com.br/davi-sacer/sobre-as-aguas/simplificada.html#capo=0'
-    },
+    }
+    ];
+
+export const louvoresFuturo = [
     {
         titulo: 'Vai Valer a Pena - Livres Para Adorar [Lucas]',
         linkLetra: 'https://www.letras.mus.br/livres-para-adorar/vai-valer-a-pena/',
         linkVideo: 'https://www.youtube.com/watch?v=j5ZCckq4ai0',
         linkCifra: 'https://www.cifraclub.com.br/livres-para-adorar/vai-valer-apena/'
-    }
-    ];
-
-export const louvoresFuturo = [
+    },
     {
         titulo: 'Te Louvarei / Aclame Ao Senhor - Guilherme Baptista',
         linkLetra: 'https://www.letras.mus.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/',
