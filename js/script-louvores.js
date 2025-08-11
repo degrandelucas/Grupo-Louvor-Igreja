@@ -180,6 +180,24 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
         linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
         linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
+    },
+    {
+        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
+        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
+    },
+    {
+        titulo: 'Marca da Promessa - Davi Sacer [Deise]',
+        linkLetra: 'https://www.letras.mus.br/davi-sacer/marca-da-promessa/',
+        linkVideo: 'https://www.youtube.com/watch?v=o2wwqLrFe1g',
+        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/marca-da-promessa/'
+    },
+    {
+        titulo: 'Todavia Me Alegrarei - Leandro Soares [Jadson]',
+        linkLetra: 'https://www.letras.mus.br/leandro-soares/todavia-me-alegrarei/',
+        linkVideo: 'https://www.youtube.com/watch?v=rNBedSCKwVc',
+        linkCifra: 'https://www.cifraclub.com.br/leandro-soares/todavia-me-alegrarei/#instrument=guitar&key=3&capo=0'
     }    
 ];
 
@@ -227,22 +245,10 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/pra-tua-gloria/me-refaz/'
     },
     {
-        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
-        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
-        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
-    },
-    {
         titulo: 'Daniel - Mara Lima [Jadson]',
         linkLetra: 'https://www.letras.mus.br/mara-lima/652059/',
         linkVideo: 'https://www.youtube.com/watch?v=S8KmPTrp1hc',
         linkCifra: 'https://www.cifraclub.com.br/mara-lima/daniel/'
-    },
-    {
-        titulo: 'Marca da Promessa - Davi Sacer [Deise]',
-        linkLetra: 'https://www.letras.mus.br/davi-sacer/marca-da-promessa/',
-        linkVideo: 'https://www.youtube.com/watch?v=o2wwqLrFe1g',
-        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/marca-da-promessa/'
     },
     {
         titulo: 'Aviva-nos / A Terra Clama - Davi Fernandes [Danyelle]',
@@ -255,12 +261,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/fernandinho/caia-fogo/',
         linkVideo: 'https://www.youtube.com/watch?v=p0N8dsntNDI',
         linkCifra: 'https://www.cifraclub.com.br/fernandinho/caia-fogo/simplificada.html'
-    },
-    {
-        titulo: 'Todavia Me Alegrarei - Leandro Soares [Jadson]',
-        linkLetra: 'https://www.letras.mus.br/leandro-soares/todavia-me-alegrarei/',
-        linkVideo: 'https://www.youtube.com/watch?v=rNBedSCKwVc',
-        linkCifra: 'https://www.cifraclub.com.br/leandro-soares/todavia-me-alegrarei/#instrument=guitar&key=3&capo=0'
     },
     {
         titulo: 'Sobre As Águas - Davi Sacer [Jadson]',
