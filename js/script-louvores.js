@@ -74,7 +74,7 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
     },
     {
-        titulo: 'Santo Pra Sempre - Ana Nóbrega [L]',
+        titulo: 'Santo Pra Sempre - Ana Nóbrega [Lucas]',
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
         linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30',
         linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/santo-pra-sempre/#instrument=guitar'
@@ -134,13 +134,13 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/davi-sacer/deus-do-impossivel/#instrument=guitar'
     },
     {
-        titulo: 'Você Não Vai Parar - Samuel Messias [R]',
+        titulo: 'Você Não Vai Parar - Samuel Messias [Rafaela]',
         linkLetra: 'https://www.letras.mus.br/samuel-messias/voce-nao-vai-parar/',
         linkVideo: 'https://www.youtube.com/watch?v=ju-VN3hRp7Q&t=115s',
         linkCifra: 'https://www.cifraclub.com.br/samuel-messias/voce-nao-vai-parar/#instrument=guitar'
     },
     {
-        titulo: 'Te Adorar - Fernandinho [G]',
+        titulo: 'Te Adorar - Fernandinho [Gabrielle]',
         linkLetra: 'https://www.letras.mus.br/fernandinho/te-adorar/',
         linkVideo: 'https://www.youtube.com/watch?v=9GnhyxvjfdQ',
         linkCifra: 'https://www.cifraclub.com.br/fernandinho/te-adorar/simplificada.html#instrument=guitar&key=2&capo=0'
@@ -152,31 +152,31 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/josue-freitas/joao-20-pra-sempre/#instrument=guitar&key=10'
     },
     {
-        titulo: 'Quem É Esse? - Julliany Souza [DA]',
+        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
         linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
         linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=8'
     },
     {
-        titulo: 'Clamo Jesus - Paulo César Baruk [DE]',
+        titulo: 'Clamo Jesus - Paulo César Baruk [Deise]',
         linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
         linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
         linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
     },
     {
-        titulo: 'Teu Toque - Gabi Sampaio [R]',
+        titulo: 'Teu Toque - Gabi Sampaio [Rafaela]',
         linkLetra: 'https://www.letras.mus.br/gabi-sampaio/teu-toque/',
         linkVideo: 'https://www.youtube.com/watch?v=4-mUSeCl_Js&t=123s',
         linkCifra: 'https://www.cifraclub.com.br/gabi-sampaio/teu-toque/sgphgst.html#instrument=guitar&key=0'
     },
     {
-        titulo: 'Único - Fernandinho [J]',
+        titulo: 'Único - Fernandinho [Jadson]',
         linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
         linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
         linkCifra: 'https://www.cifraclub.com.br/fernandinho/unico/simplificada.html#instrument=guitar&key=7&capo=0'
     },
     {
-        titulo: 'Os Planos de Deus - Samuel Messias [G]',
+        titulo: 'Os Planos de Deus - Samuel Messias [Gabrielle]',
         linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
         linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
         linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
@@ -185,91 +185,91 @@ export const louvoresEnsaiados = [
 
 export const louvoresProximoEnsaio = [
     {
-        titulo: 'Tu És Poderoso - Lukas Agustinho [DA]',
+        titulo: 'Tu És Poderoso - Lukas Agustinho [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/',
         linkVideo: 'https://www.youtube.com/watch?v=aLHniDx88_w',
         linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/#instrument=guitar'
     },
     {
-        titulo: 'O Fogo Arderá - Alexsander Lúcio [R]',
+        titulo: 'O Fogo Arderá - Alexsander Lúcio [Rafaela]',
         linkLetra: 'https://www.letras.mus.br/alexsander-lucio/o-fogo-ardera/',
         linkVideo: 'https://www.youtube.com/watch?v=Bqc6B5LzTN0',
         linkCifra: 'https://www.cifraclub.com.br/alexsander-lucio/o-fogo-ardera/simplificada.html#instrument=guitar'
     },
     {
-        titulo: 'Deserto - Maria Marçal [DE]',
+        titulo: 'Deserto - Maria Marçal [Deise]',
         linkLetra: 'https://www.letras.mus.br/maria-marcal/deserto/',
         linkVideo: 'https://www.youtube.com/watch?v=0H6WYzM0TMg',
         linkCifra: 'https://www.cifraclub.com.br/maria-marcal/deserto/simplificada.html'
     },
     {
-        titulo: 'Vitorioso És - Sarah Oliveira [DE]',
+        titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
         linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
         linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
     {
-        titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha [J]',
+        titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha [Jadson]',
         linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
         linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
     },
     {
-        titulo: 'Eu Vou Construir - Juliano Son [DA]',
+        titulo: 'Eu Vou Construir - Juliano Son [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/juliano-son/eu-vou-construir/',
         linkVideo: 'https://www.youtube.com/watch?v=1htnqzaKLP8',
         linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
     },
     {
-        titulo: 'Me Refaz - Ministério Pra Tua Glória [G]',
+        titulo: 'Me Refaz - Ministério Pra Tua Glória [Gabrielle]',
         linkLetra: 'https://www.letras.mus.br/pra-tua-gloria/me-refaz/',
         linkVideo: 'https://www.youtube.com/watch?v=kWAwtu55i7g',
         linkCifra: 'https://www.cifraclub.com.br/pra-tua-gloria/me-refaz/'
     },
     {
-        titulo: 'Algo Novo - Lukas Austinho [DA]',
+        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
         linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
         linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
     },
     {
-        titulo: 'Daniel - Mara Lima [J]',
+        titulo: 'Daniel - Mara Lima [Jadson]',
         linkLetra: 'https://www.letras.mus.br/mara-lima/652059/',
         linkVideo: 'https://www.youtube.com/watch?v=S8KmPTrp1hc',
         linkCifra: 'https://www.cifraclub.com.br/mara-lima/daniel/'
     },
     {
-        titulo: 'Marca da Promessa - Davi Sacer [DE]',
+        titulo: 'Marca da Promessa - Davi Sacer [Deise]',
         linkLetra: 'https://www.letras.mus.br/davi-sacer/marca-da-promessa/',
         linkVideo: 'https://www.youtube.com/watch?v=o2wwqLrFe1g',
         linkCifra: 'https://www.cifraclub.com.br/davi-sacer/marca-da-promessa/'
     },
     {
-        titulo: 'Aviva-nos / A Terra Clama - Davi Fernandes [DA]',
+        titulo: 'Aviva-nos / A Terra Clama - Davi Fernandes [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/davi-fernandes/aviva-nos/',
         linkVideo: 'https://www.youtube.com/watch?v=6i058l7_O-w',
         linkCifra: 'https://www.cifraclub.com.br/davi-fernandes/aviva-nos-a-terra-clama-medley/'
     },
     {
-        titulo: 'Caia Fogo - Fernandinho [J]',
+        titulo: 'Caia Fogo - Fernandinho [Jadson]',
         linkLetra: 'https://www.letras.mus.br/fernandinho/caia-fogo/',
         linkVideo: 'https://www.youtube.com/watch?v=p0N8dsntNDI',
         linkCifra: 'https://www.cifraclub.com.br/fernandinho/caia-fogo/simplificada.html'
     },
     {
-        titulo: 'Todavia Me Alegrarei - Leandro Soares [J]',
+        titulo: 'Todavia Me Alegrarei - Leandro Soares [Jadson]',
         linkLetra: 'https://www.letras.mus.br/leandro-soares/todavia-me-alegrarei/',
         linkVideo: 'https://www.youtube.com/watch?v=rNBedSCKwVc',
-        linkCifra: 'https://www.cifraclub.com.br/leandro-soares/todavia-me-alegrarei/#capo=0'
+        linkCifra: 'https://www.cifraclub.com.br/leandro-soares/todavia-me-alegrarei/#instrument=guitar&key=3&capo=0'
     },
     {
-        titulo: 'Sobre As Águas - Davi Sacer [J]',
+        titulo: 'Sobre As Águas - Davi Sacer [Jadson]',
         linkLetra: 'https://www.letras.mus.br/davi-sacer/1984478/',
         linkVideo: 'https://www.youtube.com/watch?v=y2_pxNYbPUA',
         linkCifra: 'https://www.cifraclub.com.br/davi-sacer/sobre-as-aguas/simplificada.html#capo=0'
     },
     {
-        titulo: 'Vai Valer a Pena - Livres Para Adorar [L]',
+        titulo: 'Vai Valer a Pena - Livres Para Adorar [Lucas]',
         linkLetra: 'https://www.letras.mus.br/livres-para-adorar/vai-valer-a-pena/',
         linkVideo: 'https://www.youtube.com/watch?v=j5ZCckq4ai0',
         linkCifra: 'https://www.cifraclub.com.br/livres-para-adorar/vai-valer-apena/'
