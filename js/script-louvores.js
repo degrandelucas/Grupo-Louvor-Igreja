@@ -198,7 +198,13 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/leandro-soares/todavia-me-alegrarei/',
         linkVideo: 'https://www.youtube.com/watch?v=rNBedSCKwVc',
         linkCifra: 'https://www.cifraclub.com.br/leandro-soares/todavia-me-alegrarei/#instrument=guitar&key=3&capo=0'
-    }    
+    },
+    {
+        titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
+        linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
+        linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
+        linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html'
+    }       
 ];
 
 export const louvoresProximoEnsaio = [
@@ -272,7 +278,7 @@ export const louvoresProximoEnsaio = [
 
 export const louvoresFuturo = [
     {
-        titulo: 'Vai Valer a Pena - Livres Para Adorar [Lucas]',
+        titulo: 'Vai Valer a Pena - Livres Para Adorar',
         linkLetra: 'https://www.letras.mus.br/livres-para-adorar/vai-valer-a-pena/',
         linkVideo: 'https://www.youtube.com/watch?v=j5ZCckq4ai0',
         linkCifra: 'https://www.cifraclub.com.br/livres-para-adorar/vai-valer-apena/'
