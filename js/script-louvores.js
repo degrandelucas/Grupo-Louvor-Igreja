@@ -245,16 +245,16 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
     },
     {
-        titulo: 'Me Refaz - Ministério Pra Tua Glória [Gabrielle]',
+        titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
         linkLetra: 'https://www.letras.mus.br/pra-tua-gloria/me-refaz/',
-        linkVideo: 'https://www.youtube.com/watch?v=kWAwtu55i7g',
+        linkVideo: 'https://www.youtube.com/watch?v=QnOQfpjdmng',
         linkCifra: 'https://www.cifraclub.com.br/pra-tua-gloria/me-refaz/'
     },
     {
         titulo: 'Daniel - Mara Lima [Jadson]',
-        linkLetra: 'https://www.letras.mus.br/mara-lima/652059/',
-        linkVideo: 'https://www.youtube.com/watch?v=S8KmPTrp1hc',
-        linkCifra: 'https://www.cifraclub.com.br/mara-lima/daniel/'
+        linkLetra: 'https://www.letras.mus.br/cassiane/com-muito-louvor-part-gabriel-guedes/',
+        linkVideo: 'https://www.youtube.com/watch?v=6qmmG7v1eSk',
+        linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor-part-gabriel-guedes/'
     },
     {
         titulo: 'Aviva-nos / A Terra Clama - Davi Fernandes [Danyelle]',
