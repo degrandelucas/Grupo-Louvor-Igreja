@@ -246,9 +246,9 @@ export const louvoresProximoEnsaio = [
     },
     {
         titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
-        linkLetra: 'https://www.letras.mus.br/pra-tua-gloria/me-refaz/',
-        linkVideo: 'https://www.youtube.com/watch?v=QnOQfpjdmng',
-        linkCifra: 'https://www.cifraclub.com.br/pra-tua-gloria/me-refaz/'
+        linkLetra: 'https://www.letras.mus.br/cassiane/1247638/',
+        linkVideo: 'https://www.youtube.com/watch?v=ir1RbosYcCY&t=288s',
+        linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor/#instrument=guitar&key=10&capo=0'
     },
     {
         titulo: 'Daniel - Mara Lima [Jadson]',
