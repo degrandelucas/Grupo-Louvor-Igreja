@@ -204,6 +204,24 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
         linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html'
+    },
+    {
+        titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
+        linkLetra: 'https://www.letras.mus.br/cassiane/1247638/',
+        linkVideo: 'https://www.youtube.com/watch?v=ir1RbosYcCY&t=288s',
+        linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor/#instrument=guitar&key=10&capo=0'
+    },
+    {
+        titulo: 'O Fogo Arderá - Alexsander Lúcio [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/alexsander-lucio/o-fogo-ardera/',
+        linkVideo: 'https://www.youtube.com/watch?v=Bqc6B5LzTN0',
+        linkCifra: 'https://www.cifraclub.com.br/alexsander-lucio/o-fogo-ardera/simplificada.html#instrument=guitar'
+    },
+    {
+        titulo: 'Sobre As Águas - Davi Sacer [Jadson]',
+        linkLetra: 'https://www.letras.mus.br/davi-sacer/1984478/',
+        linkVideo: 'https://www.youtube.com/watch?v=y2_pxNYbPUA',
+        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/sobre-as-aguas/simplificada.html#capo=0'
     }       
 ];
 
@@ -212,13 +230,7 @@ export const louvoresProximoEnsaio = [
         titulo: 'Tu És Poderoso - Lukas Agustinho [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/',
         linkVideo: 'https://www.youtube.com/watch?v=aLHniDx88_w',
-        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/#instrument=guitar'
-    },
-    {
-        titulo: 'O Fogo Arderá - Alexsander Lúcio [Rafaela]',
-        linkLetra: 'https://www.letras.mus.br/alexsander-lucio/o-fogo-ardera/',
-        linkVideo: 'https://www.youtube.com/watch?v=Bqc6B5LzTN0',
-        linkCifra: 'https://www.cifraclub.com.br/alexsander-lucio/o-fogo-ardera/simplificada.html#instrument=guitar'
+        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/#key=3'
     },
     {
         titulo: 'Deserto - Maria Marçal [Deise]',
@@ -245,12 +257,6 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
     },
     {
-        titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
-        linkLetra: 'https://www.letras.mus.br/cassiane/1247638/',
-        linkVideo: 'https://www.youtube.com/watch?v=ir1RbosYcCY&t=288s',
-        linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor/#instrument=guitar&key=10&capo=0'
-    },
-    {
         titulo: 'Daniel - Mara Lima [Jadson]',
         linkLetra: 'https://www.letras.mus.br/cassiane/com-muito-louvor-part-gabriel-guedes/',
         linkVideo: 'https://www.youtube.com/watch?v=6qmmG7v1eSk',
@@ -267,12 +273,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/fernandinho/caia-fogo/',
         linkVideo: 'https://www.youtube.com/watch?v=p0N8dsntNDI',
         linkCifra: 'https://www.cifraclub.com.br/fernandinho/caia-fogo/simplificada.html'
-    },
-    {
-        titulo: 'Sobre As Águas - Davi Sacer [Jadson]',
-        linkLetra: 'https://www.letras.mus.br/davi-sacer/1984478/',
-        linkVideo: 'https://www.youtube.com/watch?v=y2_pxNYbPUA',
-        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/sobre-as-aguas/simplificada.html#capo=0'
     }
     ];
 
