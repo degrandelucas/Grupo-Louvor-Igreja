@@ -182,12 +182,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
     },
     {
-        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
-        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
-        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
-    },
-    {
         titulo: 'Marca da Promessa - Davi Sacer [Deise]',
         linkLetra: 'https://www.letras.mus.br/davi-sacer/marca-da-promessa/',
         linkVideo: 'https://www.youtube.com/watch?v=o2wwqLrFe1g',
@@ -226,6 +220,12 @@ export const louvoresEnsaiados = [
 ];
 
 export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
+        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
+    },
     {
         titulo: 'Tu És Poderoso - Lukas Agustinho [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/',
@@ -279,6 +279,12 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
         linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
         linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
+    },
+    {
+        titulo: 'Digno de Tudo / Te Exaltamos - Adoração Central [Jadson]',
+        linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
+        linkVideo: 'https://www.youtube.com/watch?v=lSeo5g3u_no',
+        linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/'
     }
     ];
 
@@ -342,12 +348,5 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/samuel-dias/se-tua-gloria/',
         linkVideo: 'https://www.youtube.com/watch?v=ybLwCOpPzDA',
         linkCifra: 'https://www.cifraclub.com.br/samuel-dias/se-tua-gloria/#instrument=guitar'
-    },
-    {
-        titulo: 'Digno de Tudo - Sarah Oliveira',
-        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/digno-de-tudo/',
-        linkVideo: 'https://www.youtube.com/watch?v=OyDKAhdAP9U',
-        linkCifra: 'https://www.cifraclub.com.br/gabi-sampaio/digno-de-tudo-nada-mais-satisfaz-ate-que-nada-mais-importe-pot-pourri/#key=3'
-        // linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/digno-de-tudo/#instrument=guitar'
     }
 ];
