@@ -273,6 +273,12 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/fernandinho/caia-fogo/',
         linkVideo: 'https://www.youtube.com/watch?v=p0N8dsntNDI',
         linkCifra: 'https://www.cifraclub.com.br/fernandinho/caia-fogo/simplificada.html'
+    },
+    {
+        titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
+        linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
     }
     ];
 
