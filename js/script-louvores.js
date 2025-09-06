@@ -285,6 +285,12 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
         linkVideo: 'https://www.youtube.com/watch?v=lSeo5g3u_no',
         linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/'
+    },
+    {
+        titulo: 'Rei e Santo - Canção & Louvor [Deise]',
+        linkLetra: 'https://www.letras.mus.br/cancao-louvor/rei-e-santo/',
+        linkVideo: 'https://www.youtube.com/watch?v=iNpxHRI5sRE',
+        linkCifra: 'https://www.cifraclub.com.br/cancao-louvor/rei-e-santo/#key=5'
     }
     ];
 
