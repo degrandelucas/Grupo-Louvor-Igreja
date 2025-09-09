@@ -216,10 +216,13 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/davi-sacer/1984478/',
         linkVideo: 'https://www.youtube.com/watch?v=y2_pxNYbPUA',
         linkCifra: 'https://www.cifraclub.com.br/davi-sacer/sobre-as-aguas/simplificada.html#capo=0'
-    }       
-];
-
-export const louvoresProximoEnsaio = [
+    },
+    {
+        titulo: 'Deserto - Maria Marçal [Deise]',
+        linkLetra: 'https://www.letras.mus.br/maria-marcal/deserto/',
+        linkVideo: 'https://www.youtube.com/watch?v=0H6WYzM0TMg',
+        linkCifra: 'https://www.cifraclub.com.br/maria-marcal/deserto/simplificada.html'
+    },
     {
         titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
@@ -227,16 +230,19 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
     },
     {
+        titulo: 'Digno de Tudo / Te Exaltamos - Adoração Central [Jadson]',
+        linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
+        linkVideo: 'https://www.youtube.com/watch?v=lSeo5g3u_no',
+        linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/#key=3'
+    }       
+];
+
+export const louvoresProximoEnsaio = [
+    {
         titulo: 'Tu És Poderoso - Lukas Agustinho [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/',
         linkVideo: 'https://www.youtube.com/watch?v=aLHniDx88_w',
         linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/#key=3'
-    },
-    {
-        titulo: 'Deserto - Maria Marçal [Deise]',
-        linkLetra: 'https://www.letras.mus.br/maria-marcal/deserto/',
-        linkVideo: 'https://www.youtube.com/watch?v=0H6WYzM0TMg',
-        linkCifra: 'https://www.cifraclub.com.br/maria-marcal/deserto/simplificada.html'
     },
     {
         titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
@@ -281,16 +287,16 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
     },
     {
-        titulo: 'Digno de Tudo / Te Exaltamos - Adoração Central [Jadson]',
-        linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
-        linkVideo: 'https://www.youtube.com/watch?v=lSeo5g3u_no',
-        linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/'
-    },
-    {
         titulo: 'Rei e Santo - Canção & Louvor [Deise]',
         linkLetra: 'https://www.letras.mus.br/cancao-louvor/rei-e-santo/',
         linkVideo: 'https://www.youtube.com/watch?v=iNpxHRI5sRE',
         linkCifra: 'https://www.cifraclub.com.br/cancao-louvor/rei-e-santo/#key=5'
+    },
+    {
+        titulo: 'Deus, Tu És Santo - Danielle Cristina [Deise]',
+        linkLetra: 'https://www.letras.mus.br/danielle-cristina/345711/',
+        linkVideo: 'https://www.youtube.com/watch?v=OqoKLPJGZ88&feature=shared',
+        linkCifra: 'https://www.cifraclub.com.br/danielle-cristina/deus-tu-es-santo/ao-vivo.html#key=3'
     }
     ];
 
