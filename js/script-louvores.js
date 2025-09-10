@@ -293,10 +293,16 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/cancao-louvor/rei-e-santo/#key=5'
     },
     {
-        titulo: 'Deus, Tu És Santo - Danielle Cristina [Deise]',
+        titulo: 'Deus, Tu És Santo - Danielle Cristina [Rafaela]',
         linkLetra: 'https://www.letras.mus.br/danielle-cristina/345711/',
         linkVideo: 'https://www.youtube.com/watch?v=OqoKLPJGZ88&feature=shared',
         linkCifra: 'https://www.cifraclub.com.br/danielle-cristina/deus-tu-es-santo/ao-vivo.html#key=3'
+    },
+    {
+        titulo: 'O Carpinteiro - Alessandro Vilas Boas [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/alessandro-vilas-boas/carpinteiro/',
+        linkVideo: 'https://www.youtube.com/watch?v=Fjhx4ZIT08c',
+        linkCifra: 'https://www.cifraclub.com.br/alessandro-vilas-boas/o-carpinteiro/simplificada.html#capo=0&key=4'
     }
     ];
 
