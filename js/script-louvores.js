@@ -222,6 +222,12 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
         linkVideo: 'https://www.youtube.com/watch?v=lSeo5g3u_no',
         linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/#key=3'
+    },
+    {
+        titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
+        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
+        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
+        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     }
 ];
 
@@ -243,12 +249,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/',
         linkVideo: 'https://www.youtube.com/watch?v=aLHniDx88_w',
         linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/#key=3'
-    },
-    {
-        titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
-        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
-        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
-        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
     {
         titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha [Jadson]',
@@ -315,12 +315,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/elaine-martins/santificacao/',
         linkVideo: 'https://www.youtube.com/watch?v=GbMJaz3nRoE',
         linkCifra: 'https://www.cifraclub.com.br/elaine-martins/santificacao/simplificada.html#capo=0'
-    },
-    {
-        titulo: '500° Graus - Cassiane [Deise]',
-        linkLetra: 'https://www.letras.mus.br/cassiane/1246736/',
-        linkVideo: 'https://www.youtube.com/watch?v=mGVlRuv_P-c',
-        linkCifra: 'https://www.cifraclub.com.br/cassiane/500-graus/simplificada.html#capo=0'
     },
     {
         titulo: '500° Graus - Cassiane [Deise]',
