@@ -62,7 +62,7 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/sonda-me-usa-me/simplificada.html#instrument=guitar'
     },
     {
-        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad',
+        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad [Lucas]',
         linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
         linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
         linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
@@ -72,12 +72,6 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/saudade-de-casa/',
         linkVideo: 'https://www.youtube.com/watch?v=zB2K6nG8sVw',
         linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
-    },
-    {
-        titulo: 'Santo Pra Sempre - Ana Nóbrega [Lucas]',
-        linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
-        linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30',
-        linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/santo-pra-sempre/#instrument=guitar'
     },
     {
         titulo: 'Liberta-me de Mim - Luma Elpidio',
@@ -144,12 +138,6 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/fernandinho/te-adorar/',
         linkVideo: 'https://www.youtube.com/watch?v=9GnhyxvjfdQ',
         linkCifra: 'https://www.cifraclub.com.br/fernandinho/te-adorar/simplificada.html#instrument=guitar&key=2&capo=0'
-    },
-    {
-        titulo: 'João 20 / Pra Sempre / Porquê Ele Vive - Josué Freitas',
-        linkLetra: 'https://www.letras.mus.br/josue-freitas/joao-20-pra-sempre/',
-        linkVideo: 'https://www.youtube.com/watch?v=KSXBGjb6TyM',
-        linkCifra: 'https://www.cifraclub.com.br/josue-freitas/joao-20-pra-sempre/#instrument=guitar&key=10'
     },
     {
         titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
@@ -234,10 +222,22 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
         linkVideo: 'https://www.youtube.com/watch?v=lSeo5g3u_no',
         linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/#key=3'
-    }       
+    }
 ];
 
 export const louvoresProximoEnsaio = [
+    {
+        titulo: 'João 20 / Pra Sempre / Porquê Ele Vive - Josué Freitas',
+        linkLetra: 'https://www.letras.mus.br/josue-freitas/joao-20-pra-sempre/',
+        linkVideo: 'https://www.youtube.com/watch?v=KSXBGjb6TyM',
+        linkCifra: 'https://www.cifraclub.com.br/josue-freitas/joao-20-pra-sempre/#instrument=guitar&key=10'
+    },
+    {
+        titulo: 'Santo Pra Sempre - Ana Nóbrega [Lucas]',
+        linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
+        linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30',
+        linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/santo-pra-sempre/#instrument=guitar'
+    },
     {
         titulo: 'Tu És Poderoso - Lukas Agustinho [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/',
@@ -303,6 +303,36 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/alessandro-vilas-boas/carpinteiro/',
         linkVideo: 'https://www.youtube.com/watch?v=Fjhx4ZIT08c',
         linkCifra: 'https://www.cifraclub.com.br/alessandro-vilas-boas/o-carpinteiro/simplificada.html#capo=0&key=4'
+    },
+    {
+        titulo: '7 Trombeta - Lauriete [Gabrielle]',
+        linkLetra: 'https://www.letras.mus.br/lauriete/1677193/',
+        linkVideo: 'https://www.youtube.com/watch?v=qKHpwlmQ7g4',
+        linkCifra: 'https://www.cifraclub.com.br/lauriete/sete-trombetas/'
+    },
+    {
+        titulo: 'Santificação - Elaine Martins [Gabrielle]',
+        linkLetra: 'https://www.letras.mus.br/elaine-martins/santificacao/',
+        linkVideo: 'https://www.youtube.com/watch?v=GbMJaz3nRoE',
+        linkCifra: 'https://www.cifraclub.com.br/elaine-martins/santificacao/simplificada.html#capo=0'
+    },
+    {
+        titulo: '500° Graus - Cassiane [Deise]',
+        linkLetra: 'https://www.letras.mus.br/cassiane/1246736/',
+        linkVideo: 'https://www.youtube.com/watch?v=mGVlRuv_P-c',
+        linkCifra: 'https://www.cifraclub.com.br/cassiane/500-graus/simplificada.html#capo=0'
+    },
+    {
+        titulo: '500° Graus - Cassiane [Deise]',
+        linkLetra: 'https://www.letras.mus.br/cassiane/1246736/',
+        linkVideo: 'https://www.youtube.com/watch?v=mGVlRuv_P-c',
+        linkCifra: 'https://www.cifraclub.com.br/cassiane/500-graus/simplificada.html#capo=0'
+    },
+    {
+        titulo: 'Aviva-Nos - Soraya Moraes [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/soraya-moraes/aviva-nos/',
+        linkVideo: 'https://www.youtube.com/watch?v=anmqmjkxrQk',
+        linkCifra: 'hhttps://www.cifraclub.com.br/soraya-moraes/aviva-nos/letra/'
     }
     ];
 
