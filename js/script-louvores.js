@@ -263,12 +263,6 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
     },
     {
-        titulo: 'Daniel - Mara Lima [Jadson]',
-        linkLetra: 'https://www.letras.mus.br/cassiane/com-muito-louvor-part-gabriel-guedes/',
-        linkVideo: 'https://www.youtube.com/watch?v=6qmmG7v1eSk',
-        linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor-part-gabriel-guedes/'
-    },
-    {
         titulo: 'Aviva-nos / A Terra Clama - Davi Fernandes [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/davi-fernandes/aviva-nos/',
         linkVideo: 'https://www.youtube.com/watch?v=6i058l7_O-w',
@@ -326,7 +320,13 @@ export const louvoresProximoEnsaio = [
         titulo: 'Aviva-Nos - Soraya Moraes [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/soraya-moraes/aviva-nos/',
         linkVideo: 'https://www.youtube.com/watch?v=anmqmjkxrQk',
-        linkCifra: 'hhttps://www.cifraclub.com.br/soraya-moraes/aviva-nos/letra/'
+        linkCifra: 'https://www.cifraclub.com.br/soraya-moraes/aviva-nos/letra/'
+    },
+    {
+        titulo: 'Dia Após Dia - Valesca Mayssa [Jadson]',
+        linkLetra: 'https://www.letras.mus.br/valesca-mayssa/dia-apos-dia/',
+        linkVideo: 'https://www.youtube.com/watch?v=hubr58X3WWg',
+        linkCifra: 'https://www.cifraclub.com.br/valesca-mayssa/dia-apos-dia/#key=10'
     }
     ];
 
