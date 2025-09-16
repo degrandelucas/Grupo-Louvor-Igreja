@@ -228,16 +228,16 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
         linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
-    }
-];
-
-export const louvoresProximoEnsaio = [
+    },
     {
         titulo: 'João 20 / Pra Sempre / Porquê Ele Vive - Josué Freitas',
         linkLetra: 'https://www.letras.mus.br/josue-freitas/joao-20-pra-sempre/',
         linkVideo: 'https://www.youtube.com/watch?v=KSXBGjb6TyM',
         linkCifra: 'https://www.cifraclub.com.br/josue-freitas/joao-20-pra-sempre/#instrument=guitar&key=10'
-    },
+    }
+];
+
+export const louvoresProximoEnsaio = [
     {
         titulo: 'Santo Pra Sempre - Ana Nóbrega [Lucas]',
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
@@ -327,6 +327,12 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/valesca-mayssa/dia-apos-dia/',
         linkVideo: 'https://www.youtube.com/watch?v=hubr58X3WWg',
         linkCifra: 'https://www.cifraclub.com.br/valesca-mayssa/dia-apos-dia/#key=10'
+    },
+    {
+        titulo: 'Nada Mais - Gabriel Guedes',
+        linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
+        linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
+        linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
     }
     ];
 
@@ -378,12 +384,6 @@ export const louvoresFuturo = [
         linkLetra: 'https://www.letras.mus.br/gabriel-guedes/atos-2-ele-e-exaltado-medley/',
         linkVideo: 'https://www.youtube.com/watch?v=Stq7QCZT0rY&t=1s',
         linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/atos-2-ele-e-exaltado-pot-pourri/#instrument=guitar'
-    },
-    {
-        titulo: 'Nada Mais - Gabriel Guedes',
-        linkLetra: 'https://www.letras.mus.br/gabriel-guedes/nada-mais/',
-        linkVideo: 'https://www.youtube.com/watch?v=OUyLQ4LwEBE',
-        linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/nada-mais/#instrument=guitar'
     },
     {
         titulo: 'Se Tua Glória - Samuel Dias',
