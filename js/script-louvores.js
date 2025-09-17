@@ -2,12 +2,6 @@
 
 export const louvoresEnsaiados = [
     {
-        titulo: 'Pode Morar Aqui - Theo Rubia',
-        linkLetra: 'https://www.letras.mus.br/theo-rubia/pode-morar-aqui/',
-        linkVideo: 'https://www.youtube.com/watch?v=n0fDvJAyrQ8',
-        linkCifra: 'https://www.cifraclub.com.br/theo-rubia/pode-morar-aqui/simplificada.html#instrument=guitar&key=10'
-    },
-    {
         titulo: 'Oh, Quão Lindo Esse Nome É - Ana Nóbrega',
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/oh-quao-lindo-esse-nome-e-what-a-beautiful-name/',
         linkVideo: 'https://www.youtube.com/watch?v=8XUqcxgH8r4',
@@ -152,12 +146,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
     },
     {
-        titulo: 'Teu Toque - Gabi Sampaio [Rafaela]',
-        linkLetra: 'https://www.letras.mus.br/gabi-sampaio/teu-toque/',
-        linkVideo: 'https://www.youtube.com/watch?v=4-mUSeCl_Js&t=123s',
-        linkCifra: 'https://www.cifraclub.com.br/gabi-sampaio/teu-toque/sgphgst.html#instrument=guitar&key=0'
-    },
-    {
         titulo: 'Único - Fernandinho [Jadson]',
         linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
         linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
@@ -239,10 +227,22 @@ export const louvoresEnsaiados = [
 
 export const louvoresProximoEnsaio = [
     {
+        titulo: 'Pode Morar Aqui - Theo Rubia',
+        linkLetra: 'https://www.letras.mus.br/theo-rubia/pode-morar-aqui/',
+        linkVideo: 'https://www.youtube.com/watch?v=n0fDvJAyrQ8',
+        linkCifra: 'https://www.cifraclub.com.br/theo-rubia/pode-morar-aqui/simplificada.html#instrument=guitar&key=10'
+    },
+    {
         titulo: 'Santo Pra Sempre - Ana Nóbrega [Lucas]',
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
         linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30',
         linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/santo-pra-sempre/#instrument=guitar'
+    },
+    {
+        titulo: 'É Ele - DROPS [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
+        linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
+        linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0'
     },
     {
         titulo: 'Tu És Poderoso - Lukas Agustinho [Danyelle]',
