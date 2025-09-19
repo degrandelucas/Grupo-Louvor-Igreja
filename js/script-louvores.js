@@ -329,7 +329,7 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/valesca-mayssa/dia-apos-dia/#key=10'
     },
     {
-        titulo: 'Nada Mais - Fhop Music',
+        titulo: 'Nada Mais - Fhop Music [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
         linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
         linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
