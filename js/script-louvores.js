@@ -222,6 +222,18 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/josue-freitas/joao-20-pra-sempre/',
         linkVideo: 'https://www.youtube.com/watch?v=KSXBGjb6TyM',
         linkCifra: 'https://www.cifraclub.com.br/josue-freitas/joao-20-pra-sempre/#instrument=guitar&key=10'
+    },
+    {
+        titulo: 'Nada Mais - Fhop Music [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
+        linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
+        linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
+    },
+    {
+        titulo: 'É Ele - DROPS [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
+        linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
+        linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0&key=3'
     }
 ];
 
@@ -237,12 +249,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
         linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30',
         linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/santo-pra-sempre/#instrument=guitar'
-    },
-    {
-        titulo: 'É Ele - DROPS [Rafaela]',
-        linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
-        linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
-        linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0'
     },
     {
         titulo: 'Tu És Poderoso - Lukas Agustinho [Danyelle]',
@@ -327,12 +333,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/valesca-mayssa/dia-apos-dia/',
         linkVideo: 'https://www.youtube.com/watch?v=hubr58X3WWg',
         linkCifra: 'https://www.cifraclub.com.br/valesca-mayssa/dia-apos-dia/#key=10'
-    },
-    {
-        titulo: 'Nada Mais - Fhop Music [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
-        linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
-        linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
     }
     ];
 
