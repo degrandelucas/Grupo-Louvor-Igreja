@@ -333,6 +333,18 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/valesca-mayssa/dia-apos-dia/',
         linkVideo: 'https://www.youtube.com/watch?v=hubr58X3WWg',
         linkCifra: 'https://www.cifraclub.com.br/valesca-mayssa/dia-apos-dia/#key=10'
+    },
+    {
+        titulo: 'Sou Peregrino - Antônia Gomes [Samuel] *Cifra',
+        linkLetra: 'https://www.letras.mus.br/antonia-gomes/sou-peregrino/',
+        linkVideo: 'https://www.youtube.com/watch?v=5gzvmQuGd14',
+        linkCifra: 'https://www.cifraclub.com.br/silvan-santos/sou-peregrino/#key=0'
+    },
+    {
+        titulo: 'Coisa Do Meu Deus - Dalete Hungria e Eliã Oliveira [Carlinhos]',
+        linkLetra: 'https://www.letras.mus.br/dalete-hungria/coisa-do-meu-deus-part-elia-oliveira/',
+        linkVideo: 'https://www.youtube.com/watch?v=s7yk9Swjc_8',
+        linkCifra: 'https://www.cifraclub.com.br/dalete-hungria/coisa-do-meu-deus-part-elia-oliveira/#key=0'
     }
     ];
 
