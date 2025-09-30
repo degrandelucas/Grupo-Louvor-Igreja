@@ -13,12 +13,6 @@ export const louvoresEnsaiados = [
     //     linkVideo: 'https://www.youtube.com/watch?v=VL0cNb_psdw',
     //     linkCifra: 'https://www.cifraclub.com.br/bruna-olly/derrama-o-teu-poder-part-julliany-souza-e-leo-brandao/#instrument=guitar'
     // },
-    {
-        titulo: 'Yahweh Se Manifestará - Marcos Freire',
-        linkLetra: 'https://www.letras.mus.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/',
-        linkVideo: 'https://www.youtube.com/watch?v=EVot5doOp9Q',
-        linkCifra: 'https://www.cifraclub.com.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/simplificada.html#instrument=guitar'
-    },
     // {
     //     titulo: 'Caminho No Deserto - Soraya Moraes',
     //     linkLetra: 'https://www.letras.mus.br/soraya-moraes/caminho-no-deserto-way-maker/',
@@ -43,36 +37,18 @@ export const louvoresEnsaiados = [
     //     linkVideo: 'https://www.youtube.com/watch?v=SKS7zkEEqrM',
     //     linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/cordeiro-e-leao/simplificada.html#instrument=guitar'
     // },
-    {
-        titulo: 'Deus Dos Deuses - Lauriete',
-        linkLetra: 'https://www.letras.mus.br/lauriete/173210/',
-        linkVideo: 'https://www.youtube.com/watch?v=XCir1hpYhn8',
-        linkCifra: 'https://www.cifraclub.com.br/lauriete/deus-dos-deuses/#instrument=guitar&key=3'
-    },
     // {
     //     titulo: 'Sonda-me, Usa-me - Aline Barros',
     //     linkLetra: 'https://www.letras.mus.br/aline-barros/1131959/',
     //     linkVideo: 'https://www.youtube.com/watch?v=1McZiORjlzg',
     //     linkCifra: 'https://www.cifraclub.com.br/aline-barros/sonda-me-usa-me/simplificada.html#instrument=guitar'
     // },
-    {
-        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad [Lucas]',
-        linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
-        linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
-        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
-    },
     // {
     //     titulo: 'Saudade de Casa - Jefferson & Suellen',
     //     linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/saudade-de-casa/',
     //     linkVideo: 'https://www.youtube.com/watch?v=zB2K6nG8sVw',
     //     linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/saudade-de-casa/#instrument=guitar'
     // },
-    {
-        titulo: 'Liberta-me de Mim - Luma Elpidio',
-        linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
-        linkVideo: 'https://www.youtube.com/watch?v=Ot8KIh6-uEU',
-        linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
-    },
     // {
     //     titulo: 'Rendido Estou - Isaías Saad',
     //     linkLetra: 'https://www.letras.mus.br/isaias-saad/rendido-estou-part-debora-buzas/',
@@ -133,30 +109,12 @@ export const louvoresEnsaiados = [
     //     linkVideo: 'https://www.youtube.com/watch?v=9GnhyxvjfdQ',
     //     linkCifra: 'https://www.cifraclub.com.br/fernandinho/te-adorar/simplificada.html#instrument=guitar&key=2&capo=0'
     // },
-    {
-        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
-        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
-        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=8'
-    },
-    {
-        titulo: 'Clamo Jesus - Paulo César Baruk [Deise]',
-        linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
-        linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
-        linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
-    },
     // {
     //     titulo: 'Único - Fernandinho [Jadson]',
     //     linkLetra: 'https://www.letras.mus.br/fernandinho/unico/',
     //     linkVideo: 'https://www.youtube.com/watch?v=xFN1kAW4xqk',
     //     linkCifra: 'https://www.cifraclub.com.br/fernandinho/unico/simplificada.html#instrument=guitar&key=7&capo=0'
     // },
-    {
-        titulo: 'Os Planos de Deus - Samuel Messias [Gabrielle]',
-        linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
-        linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
-        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
-    },
     // {
     //     titulo: 'Marca da Promessa - Davi Sacer [Deise]',
     //     linkLetra: 'https://www.letras.mus.br/davi-sacer/marca-da-promessa/',
@@ -169,18 +127,6 @@ export const louvoresEnsaiados = [
     //     linkVideo: 'https://www.youtube.com/watch?v=rNBedSCKwVc',
     //     linkCifra: 'https://www.cifraclub.com.br/leandro-soares/todavia-me-alegrarei/#instrument=guitar&key=3&capo=0'
     // },
-    {
-        titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
-        linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
-        linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
-        linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html'
-    },
-    {
-        titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
-        linkLetra: 'https://www.letras.mus.br/cassiane/1247638/',
-        linkVideo: 'https://www.youtube.com/watch?v=ir1RbosYcCY&t=288s',
-        linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor/#instrument=guitar&key=10&capo=0'
-    },
     // {
     //     titulo: 'O Fogo Arderá - Alexsander Lúcio [Rafaela]',
     //     linkLetra: 'https://www.letras.mus.br/alexsander-lucio/o-fogo-ardera/',
@@ -205,6 +151,81 @@ export const louvoresEnsaiados = [
     //     linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
     //     linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
     // },
+    // {
+    //     titulo: 'João 20 / Pra Sempre / Porquê Ele Vive - Josué Freitas',
+    //     linkLetra: 'https://www.letras.mus.br/josue-freitas/joao-20-pra-sempre/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=KSXBGjb6TyM',
+    //     linkCifra: 'https://www.cifraclub.com.br/josue-freitas/joao-20-pra-sempre/#instrument=guitar&key=10'
+    // },
+    {
+        titulo: 'Deus Dos Deuses - Lauriete',
+        linkLetra: 'https://www.letras.mus.br/lauriete/173210/',
+        linkVideo: 'https://www.youtube.com/watch?v=XCir1hpYhn8',
+        linkCifra: 'https://www.cifraclub.com.br/lauriete/deus-dos-deuses/#instrument=guitar&key=3'
+    },
+    {
+        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad [Lucas]',
+        linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
+        linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
+    },
+    {
+        titulo: 'Liberta-me de Mim - Luma Elpidio',
+        linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
+        linkVideo: 'https://www.youtube.com/watch?v=Ot8KIh6-uEU',
+        linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
+    },
+    {
+        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
+        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
+        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=8'
+    },
+    {
+        titulo: 'Os Planos de Deus - Samuel Messias [Gabrielle]',
+        linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
+    },
+    {
+        titulo: 'Nada Mais - Fhop Music [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
+        linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
+        linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
+    },
+    {
+        titulo: 'Pode Morar Aqui - Theo Rubia',
+        linkLetra: 'https://www.letras.mus.br/theo-rubia/pode-morar-aqui/',
+        linkVideo: 'https://www.youtube.com/watch?v=n0fDvJAyrQ8',
+        linkCifra: 'https://www.cifraclub.com.br/theo-rubia/pode-morar-aqui/simplificada.html#instrument=guitar&key=10'
+    },
+    {
+        titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
+        linkLetra: 'https://www.letras.mus.br/cassiane/1247638/',
+        linkVideo: 'https://www.youtube.com/watch?v=ir1RbosYcCY&t=288s',
+        linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor/#instrument=guitar&key=10&capo=0'
+    },
+];
+
+export const louvoresProximoEnsaio = [
+    {
+        titulo: 'É Ele - DROPS [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
+        linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
+        linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0&key=3'
+    },
+    {
+        titulo: 'Clamo Jesus - Paulo César Baruk [Deise]',
+        linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
+        linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
+        linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
+    },
+    {
+        titulo: 'Yahweh Se Manifestará - Marcos Freire',
+        linkLetra: 'https://www.letras.mus.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/',
+        linkVideo: 'https://www.youtube.com/watch?v=EVot5doOp9Q',
+        linkCifra: 'https://www.cifraclub.com.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/simplificada.html#instrument=guitar'
+    },
     {
         titulo: 'Digno de Tudo / Te Exaltamos - Adoração Central [Jadson]',
         linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
@@ -217,32 +238,23 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
-    // {
-    //     titulo: 'João 20 / Pra Sempre / Porquê Ele Vive - Josué Freitas',
-    //     linkLetra: 'https://www.letras.mus.br/josue-freitas/joao-20-pra-sempre/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=KSXBGjb6TyM',
-    //     linkCifra: 'https://www.cifraclub.com.br/josue-freitas/joao-20-pra-sempre/#instrument=guitar&key=10'
-    // },
     {
-        titulo: 'Nada Mais - Fhop Music [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
-        linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
-        linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
+        titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
+        linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
     },
     {
-        titulo: 'É Ele - DROPS [Rafaela]',
-        linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
-        linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
-        linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0&key=3'
-    }
-];
-
-export const louvoresProximoEnsaio = [
+        titulo: 'Dia Após Dia - Valesca Mayssa [Jadson]',
+        linkLetra: 'https://www.letras.mus.br/valesca-mayssa/dia-apos-dia/',
+        linkVideo: 'https://www.youtube.com/watch?v=hubr58X3WWg',
+        linkCifra: 'https://www.cifraclub.com.br/valesca-mayssa/dia-apos-dia/#key=10'
+    },
     {
-        titulo: 'Pode Morar Aqui - Theo Rubia',
-        linkLetra: 'https://www.letras.mus.br/theo-rubia/pode-morar-aqui/',
-        linkVideo: 'https://www.youtube.com/watch?v=n0fDvJAyrQ8',
-        linkCifra: 'https://www.cifraclub.com.br/theo-rubia/pode-morar-aqui/simplificada.html#instrument=guitar&key=10'
+        titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
+        linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
+        linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
+        linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html'
     },
     // {
     //     titulo: 'Santo Pra Sempre - Ana Nóbrega [Lucas]',
@@ -280,12 +292,6 @@ export const louvoresProximoEnsaio = [
     //     linkVideo: 'https://www.youtube.com/watch?v=p0N8dsntNDI',
     //     linkCifra: 'https://www.cifraclub.com.br/fernandinho/caia-fogo/simplificada.html'
     // },
-    {
-        titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
-        linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
-        linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
-        linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
-    },
     // {
     //     titulo: 'Rei e Santo - Canção & Louvor [Deise]',
     //     linkLetra: 'https://www.letras.mus.br/cancao-louvor/rei-e-santo/',
@@ -328,12 +334,6 @@ export const louvoresProximoEnsaio = [
     //     linkVideo: 'https://www.youtube.com/watch?v=anmqmjkxrQk',
     //     linkCifra: 'https://www.cifraclub.com.br/soraya-moraes/aviva-nos/letra/'
     // },
-    {
-        titulo: 'Dia Após Dia - Valesca Mayssa [Jadson]',
-        linkLetra: 'https://www.letras.mus.br/valesca-mayssa/dia-apos-dia/',
-        linkVideo: 'https://www.youtube.com/watch?v=hubr58X3WWg',
-        linkCifra: 'https://www.cifraclub.com.br/valesca-mayssa/dia-apos-dia/#key=10'
-    },
     // {
     //     titulo: 'Sou Peregrino - Antônia Gomes [Samuel] *Cifra',
     //     linkLetra: 'https://www.letras.mus.br/antonia-gomes/sou-peregrino/',
