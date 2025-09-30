@@ -188,12 +188,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
     },
     {
-        titulo: 'Nada Mais - Fhop Music [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
-        linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
-        linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
-    },
-    {
         titulo: 'Pode Morar Aqui - Theo Rubia',
         linkLetra: 'https://www.letras.mus.br/theo-rubia/pode-morar-aqui/',
         linkVideo: 'https://www.youtube.com/watch?v=n0fDvJAyrQ8',
@@ -208,6 +202,12 @@ export const louvoresEnsaiados = [
 ];
 
 export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Nada Mais - Fhop Music [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
+        linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
+        linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
+    },
     {
         titulo: 'É Ele - DROPS [Rafaela]',
         linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
