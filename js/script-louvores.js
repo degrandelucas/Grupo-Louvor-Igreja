@@ -323,7 +323,7 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/cassiane/500-graus/simplificada.html#capo=0'
     },
     {
-        titulo: 'Aviva-Nos - Soraya Moraes [Danyelle]',
+        titulo: 'Aviva-Nos - Soraya Moraes [Danyelle] *Cifra',
         linkLetra: 'https://www.letras.mus.br/soraya-moraes/aviva-nos/',
         linkVideo: 'https://www.youtube.com/watch?v=anmqmjkxrQk',
         linkCifra: 'https://www.cifraclub.com.br/soraya-moraes/aviva-nos/letra/'
