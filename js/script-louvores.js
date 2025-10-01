@@ -146,12 +146,6 @@ export const louvoresEnsaiados = [
     //     linkCifra: 'https://www.cifraclub.com.br/maria-marcal/deserto/simplificada.html'
     // },
     // {
-    //     titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
-    //     linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
-    //     linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
-    // },
-    // {
     //     titulo: 'João 20 / Pra Sempre / Porquê Ele Vive - Josué Freitas',
     //     linkLetra: 'https://www.letras.mus.br/josue-freitas/joao-20-pra-sempre/',
     //     linkVideo: 'https://www.youtube.com/watch?v=KSXBGjb6TyM',
@@ -203,12 +197,6 @@ export const louvoresEnsaiados = [
 
 export const louvoresProximoEnsaio = [
     {
-        titulo: 'Nada Mais - Fhop Music [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
-        linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
-        linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
-    },
-    {
         titulo: 'É Ele - DROPS [Rafaela]',
         linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
         linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
@@ -256,6 +244,18 @@ export const louvoresProximoEnsaio = [
         linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html'
     },
+    {
+        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
+        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
+    },
+    // {
+    //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
+    //     linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
+    //     linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
+    // },
     // {
     //     titulo: 'Santo Pra Sempre - Ana Nóbrega [Lucas]',
     //     linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
