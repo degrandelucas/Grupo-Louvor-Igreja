@@ -193,6 +193,12 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=ir1RbosYcCY&t=288s',
         linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor/#instrument=guitar&key=10&capo=0'
     },
+    {
+        titulo: 'Digno de Tudo / Te Exaltamos - Adoração Central [Jadson]',
+        linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
+        linkVideo: 'https://www.youtube.com/watch?v=OyDKAhdAP9U',
+        linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/#key=3'
+    }
 ];
 
 export const louvoresProximoEnsaio = [
@@ -213,12 +219,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/',
         linkVideo: 'https://www.youtube.com/watch?v=EVot5doOp9Q',
         linkCifra: 'https://www.cifraclub.com.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/simplificada.html#instrument=guitar'
-    },
-    {
-        titulo: 'Digno de Tudo / Te Exaltamos - Adoração Central [Jadson]',
-        linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
-        linkVideo: 'https://www.youtube.com/watch?v=lSeo5g3u_no',
-        linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/#key=3'
     },
     {
         titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
