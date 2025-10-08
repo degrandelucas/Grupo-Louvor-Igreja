@@ -194,7 +194,7 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor/#instrument=guitar&key=10&capo=0'
     },
     {
-        titulo: 'Digno de Tudo / Te Exaltamos - Adoração Central [Jadson]',
+        titulo: 'Digno de Tudo / Te Exaltamos - Sarah Oliveira (Adoração Central) [Jadson]',
         linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
         linkVideo: 'https://www.youtube.com/watch?v=OyDKAhdAP9U',
         linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/#key=3'
