@@ -158,24 +158,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/lauriete/deus-dos-deuses/#instrument=guitar&key=3'
     },
     {
-        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad [Lucas]',
-        linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
-        linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
-        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
-    },
-    {
-        titulo: 'Liberta-me de Mim - Luma Elpidio',
-        linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
-        linkVideo: 'https://www.youtube.com/watch?v=Ot8KIh6-uEU',
-        linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
-    },
-    {
-        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
-        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
-        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=8'
-    },
-    {
         titulo: 'Os Planos de Deus - Samuel Messias [Gabrielle]',
         linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
         linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
@@ -198,16 +180,22 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
         linkVideo: 'https://www.youtube.com/watch?v=OyDKAhdAP9U',
         linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/#key=3'
-    }
-];
-
-export const louvoresProximoEnsaio = [
+    },
+    {
+        titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
+        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
+        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
+        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
+    },
     {
         titulo: 'É Ele - DROPS [Rafaela]',
         linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
         linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
         linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0&key=3'
-    },
+    }
+];
+
+export const louvoresProximoEnsaio = [
     {
         titulo: 'Clamo Jesus - Paulo César Baruk [Deise]',
         linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
@@ -219,12 +207,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/',
         linkVideo: 'https://www.youtube.com/watch?v=EVot5doOp9Q',
         linkCifra: 'https://www.cifraclub.com.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/simplificada.html#instrument=guitar'
-    },
-    {
-        titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
-        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
-        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
-        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
     {
         titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
@@ -249,6 +231,24 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
         linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
         linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
+    },
+    {
+        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
+        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
+        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=8'
+    },
+    {
+        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad [Lucas]',
+        linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
+        linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
+    },
+    {
+        titulo: 'Liberta-me de Mim - Luma Elpidio',
+        linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
+        linkVideo: 'https://www.youtube.com/watch?v=Ot8KIh6-uEU',
+        linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
     },
     // {
     //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
