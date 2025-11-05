@@ -164,12 +164,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
     },
     {
-        titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
-        linkLetra: 'https://www.letras.mus.br/cassiane/1247638/',
-        linkVideo: 'https://www.youtube.com/watch?v=ir1RbosYcCY&t=288s',
-        linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor/#instrument=guitar&key=10&capo=0'
-    },
-    {
         titulo: 'Digno de Tudo / Te Exaltamos - Sarah Oliveira (Adoração Central) [Jadson]',
         linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
         linkVideo: 'https://www.youtube.com/watch?v=OyDKAhdAP9U',
@@ -205,14 +199,32 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=Ot8KIh6-uEU',
         linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
     },
-];
-
-export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
+        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
+    },
     {
         titulo: 'Clamo Jesus - Paulo César Baruk [Deise]',
         linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
         linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
         linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
+    },
+    {
+        titulo: 'Dia Após Dia - Valesca Mayssa [Jadson]',
+        linkLetra: 'https://www.letras.mus.br/valesca-mayssa/dia-apos-dia/',
+        linkVideo: 'https://www.youtube.com/watch?v=hubr58X3WWg',
+        linkCifra: 'https://www.cifraclub.com.br/valesca-mayssa/dia-apos-dia/#key=10'
+    },
+];
+
+export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
+        linkLetra: 'https://www.letras.mus.br/cassiane/1247638/',
+        linkVideo: 'https://www.youtube.com/watch?v=ir1RbosYcCY&t=288s',
+        linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor/#instrument=guitar&key=10&capo=0'
     },
     {
         titulo: 'Yahweh Se Manifestará - Marcos Freire',
@@ -227,23 +239,11 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
     },
     {
-        titulo: 'Dia Após Dia - Valesca Mayssa [Jadson]',
-        linkLetra: 'https://www.letras.mus.br/valesca-mayssa/dia-apos-dia/',
-        linkVideo: 'https://www.youtube.com/watch?v=hubr58X3WWg',
-        linkCifra: 'https://www.cifraclub.com.br/valesca-mayssa/dia-apos-dia/#key=10'
-    },
-    {
         titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
         linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
         linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html'
     },
-    {
-        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
-        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
-        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
-    }
     // {
     //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
     //     linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
