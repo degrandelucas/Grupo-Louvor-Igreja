@@ -250,6 +250,30 @@ export const louvoresProximoEnsaio = [
         linkVideo: 'https://www.youtube.com/watch?v=Ot8KIh6-uEU',
         linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
     },
+    {
+        titulo: 'Sou Peregrino - Antônia Gomes [Samuel]*',
+        linkLetra: 'https://www.letras.mus.br/antonia-gomes/sou-peregrino/',
+        linkVideo: 'https://www.youtube.com/watch?v=5gzvmQuGd14',
+        linkCifra: 'https://www.cifraclub.com.br/silvan-santos/sou-peregrino/#key=0'
+    },
+    {
+        titulo: 'Agnus Dei - Sarah Oliveira [Carlinhos]*',
+        linkLetra: 'https://www.letras.mus.br/david-quinlan/1227051/',
+        linkVideo: 'https://www.youtube.com/watch?v=mxuw-a_l9FI',
+        linkCifra: 'https://www.cifraclub.com.br/david-quinlan/agnus-dei/simplificada.html'
+    },
+    {
+        titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha',
+        linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
+        linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
+        linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
+    },
+    // {
+    //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
+    //     linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
+    //     linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
+    // },
     // {
     //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
     //     linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
@@ -267,12 +291,6 @@ export const louvoresProximoEnsaio = [
     //     linkLetra: 'https://www.letras.mus.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/',
     //     linkVideo: 'https://www.youtube.com/watch?v=aLHniDx88_w',
     //     linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/#key=3'
-    // },
-    // {
-    //     titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha [Jadson]',
-    //     linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
-    //     linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
     // },
     // {
     //     titulo: 'Eu Vou Construir - Juliano Son [Danyelle]',
@@ -333,12 +351,6 @@ export const louvoresProximoEnsaio = [
     //     linkLetra: 'https://www.letras.mus.br/soraya-moraes/aviva-nos/',
     //     linkVideo: 'https://www.youtube.com/watch?v=anmqmjkxrQk',
     //     linkCifra: 'https://www.cifraclub.com.br/soraya-moraes/aviva-nos/letra/'
-    // },
-    // {
-    //     titulo: 'Sou Peregrino - Antônia Gomes [Samuel] *Cifra',
-    //     linkLetra: 'https://www.letras.mus.br/antonia-gomes/sou-peregrino/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=5gzvmQuGd14',
-    //     linkCifra: 'https://www.cifraclub.com.br/silvan-santos/sou-peregrino/#key=0'
     // },
     // {
     //     titulo: 'Coisa Do Meu Deus - Dalete Hungria e Eliã Oliveira [Carlinhos]',
