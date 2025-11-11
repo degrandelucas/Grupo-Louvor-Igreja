@@ -194,7 +194,7 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/valesca-mayssa/dia-apos-dia/#key=10'
     },
     {
-        titulo: 'Escape - Valesca Mayssa [Jadson]',
+        titulo: 'Escape - Renascer Praise',
         linkLetra: 'https://www.letras.mus.br/renascer-praise/escape/',
         linkVideo: 'https://www.youtube.com/watch?v=OUSYwGPI26k',
         linkCifra: 'https://www.cifraclub.com.br/renascer-praise/escape/'
