@@ -242,7 +242,7 @@ export const louvoresProximoEnsaio = [
         titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
         linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
         linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
-        linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html'
+        linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html#key=7'
     },
     // {
     //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
