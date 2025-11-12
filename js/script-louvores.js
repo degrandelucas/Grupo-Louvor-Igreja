@@ -199,9 +199,6 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=OUSYwGPI26k',
         linkCifra: 'https://www.cifraclub.com.br/renascer-praise/escape/'
     },
-];
-
-export const louvoresProximoEnsaio = [
     {
         titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
         linkLetra: 'https://www.letras.mus.br/cassiane/1247638/',
@@ -213,12 +210,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/',
         linkVideo: 'https://www.youtube.com/watch?v=EVot5doOp9Q',
         linkCifra: 'https://www.cifraclub.com.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/simplificada.html#instrument=guitar'
-    },
-    {
-        titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
-        linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
-        linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
-        linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
     },
     {
         titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
@@ -233,6 +224,21 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0&key=3'
     },
     {
+        titulo: 'Liberta-me de Mim - Luma Elpidio',
+        linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
+        linkVideo: 'https://www.youtube.com/watch?v=Ot8KIh6-uEU',
+        linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
+    },
+];
+
+export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
+        linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
+    },
+    {
         titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
         linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
         linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
@@ -243,12 +249,6 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
         linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
         linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
-    },
-    {
-        titulo: 'Liberta-me de Mim - Luma Elpidio',
-        linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
-        linkVideo: 'https://www.youtube.com/watch?v=Ot8KIh6-uEU',
-        linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
     },
     {
         titulo: 'Sou Peregrino - Antônia Gomes [Samuel]*',
@@ -267,6 +267,24 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
         linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
+    },
+    {
+        titulo: 'O Rosto de Cristo - Sarah Farias',
+        linkLetra: 'https://www.letras.mus.br/sarah-farias/o-rosto-de-cristo/',
+        linkVideo: 'https://www.youtube.com/watch?v=jty2RJVuW-g',
+        linkCifra: 'https://www.cifraclub.com.br/sarah-farias/o-rosto-de-cristo/'
+    },
+    {
+        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
+        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
+        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
+        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
+    },
+    {
+        titulo: 'Jesus o Bom Amigo - Anna Clara Rocha',
+        linkLetra: 'https://www.letras.mus.br/ana-clara-rocha/jesus-o-bom-amigo/',
+        linkVideo: 'https://www.youtube.com/watch?v=ddB3VVgPCow',
+        linkCifra: 'https://www.cifraclub.com.br/ana-clara-rocha/jesus-o-bom-amigo/'
     },
     // {
     //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
