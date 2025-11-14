@@ -188,12 +188,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
     },
     {
-        titulo: 'Dia Após Dia - Valesca Mayssa [Jadson]',
-        linkLetra: 'https://www.letras.mus.br/valesca-mayssa/dia-apos-dia/',
-        linkVideo: 'https://www.youtube.com/watch?v=hubr58X3WWg',
-        linkCifra: 'https://www.cifraclub.com.br/valesca-mayssa/dia-apos-dia/#key=10'
-    },
-    {
         titulo: 'Escape - Renascer Praise',
         linkLetra: 'https://www.letras.mus.br/renascer-praise/escape/',
         linkVideo: 'https://www.youtube.com/watch?v=OUSYwGPI26k',
