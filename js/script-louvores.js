@@ -223,6 +223,24 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=Ot8KIh6-uEU',
         linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
     },
+    {
+        titulo: 'Agnus Dei - Sarah Oliveira [Carlinhos]*',
+        linkLetra: 'https://www.letras.mus.br/david-quinlan/1227051/',
+        linkVideo: 'https://www.youtube.com/watch?v=mxuw-a_l9FI',
+        linkCifra: 'https://www.cifraclub.com.br/david-quinlan/agnus-dei/simplificada.html'
+    },
+    {
+        titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha',
+        linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
+        linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
+        linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
+    },
+    {
+        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
+        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
+        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
+        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
+    },
 ];
 
 export const louvoresProximoEnsaio = [
@@ -251,34 +269,10 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/silvan-santos/sou-peregrino/#key=0'
     },
     {
-        titulo: 'Agnus Dei - Sarah Oliveira [Carlinhos]*',
-        linkLetra: 'https://www.letras.mus.br/david-quinlan/1227051/',
-        linkVideo: 'https://www.youtube.com/watch?v=mxuw-a_l9FI',
-        linkCifra: 'https://www.cifraclub.com.br/david-quinlan/agnus-dei/simplificada.html'
-    },
-    {
-        titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha',
-        linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
-        linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
-        linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
-    },
-    {
         titulo: 'O Rosto de Cristo - Sarah Farias',
         linkLetra: 'https://www.letras.mus.br/sarah-farias/o-rosto-de-cristo/',
         linkVideo: 'https://www.youtube.com/watch?v=jty2RJVuW-g',
         linkCifra: 'https://www.cifraclub.com.br/sarah-farias/o-rosto-de-cristo/'
-    },
-    {
-        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
-        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
-        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
-        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
-    },
-    {
-        titulo: 'Jesus o Bom Amigo - Anna Clara Rocha',
-        linkLetra: 'https://www.letras.mus.br/ana-clara-rocha/jesus-o-bom-amigo/',
-        linkVideo: 'https://www.youtube.com/watch?v=ddB3VVgPCow',
-        linkCifra: 'https://www.cifraclub.com.br/ana-clara-rocha/jesus-o-bom-amigo/'
     },
     // {
     //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
