@@ -241,6 +241,12 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
         linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
     },
+    {
+        titulo: 'Sobre as Águas - Trazendo a Arca',
+        linkLetra: 'https://www.letras.mus.br/trazendo-arca/1327890/',
+        linkVideo: 'https://www.youtube.com/watch?v=SdlSIpcV8rA',
+        linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/sobre-as-aguas/simplificada.html'
+    },
 ];
 
 export const louvoresProximoEnsaio = [
