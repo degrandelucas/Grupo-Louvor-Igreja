@@ -225,7 +225,7 @@ export const louvoresEnsaiados = [
     },
     {
         titulo: 'Agnus Dei - Sarah Oliveira [Carlinhos]*',
-        linkLetra: 'https://www.letras.mus.br/david-quinlan/1227051/',
+        linkLetra: 'https://www.letras.mus.br/agnus-dei/agnus-dei/',
         linkVideo: 'https://www.youtube.com/watch?v=mxuw-a_l9FI',
         linkCifra: 'https://www.cifraclub.com.br/david-quinlan/agnus-dei/simplificada.html'
     },
