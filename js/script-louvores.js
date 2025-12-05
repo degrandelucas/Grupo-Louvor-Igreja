@@ -261,8 +261,8 @@ export const louvoresEnsaiados = [
     },
     {
         titulo: 'Sou Peregrino - Silvan Santos [Samuel]*',
-        linkLetra: 'https://www.letras.mus.br/antonia-gomes/sou-peregrino/',
-        linkVideo: 'https://www.youtube.com/watch?v=5gzvmQuGd14',
+        linkLetra: 'https://www.letras.mus.br/silvan-santos/sou-peregrino/',
+        linkVideo: 'https://www.youtube.com/watch?v=KAMk9_iK5dc',
         linkCifra: 'https://www.cifraclub.com.br/silvan-santos/sou-peregrino/#key=0'
     },
     {
