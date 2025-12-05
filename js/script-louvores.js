@@ -301,7 +301,7 @@ export const louvoresProximoEnsaio = [
     {
         titulo: 'Me Ajuda Deus - Silvan Santos [Jadson]',
         linkLetra: 'https://www.letras.mus.br/silvan-santos/me-ajuda-deus/',
-        linkVideo: 'https://www.youtube.com/watch?v=fgIfJTUjN90',
+        linkVideo: 'https://www.youtube.com/watch?v=XO3J2hYw8z4',
         linkCifra: 'https://www.cifraclub.com.br/silvan-santos/me-ajuda-deus/'
     }
     // {
