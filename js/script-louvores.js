@@ -248,12 +248,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/sobre-as-aguas/simplificada.html'
     },
     {
-        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
-        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
-        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=4'
-    },
-    {
         titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad [Lucas]',
         linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
         linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
@@ -266,44 +260,44 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/silvan-santos/sou-peregrino/#key=0'
     },
     {
-        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
-        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
-        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
-        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
-    }
-];
-
-export const louvoresProximoEnsaio = [
-    {
         titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
         linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
         linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
         linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
     },
     {
-        titulo: 'Deus Dos Deuses - Lauriete',
-        linkLetra: 'https://www.letras.mus.br/lauriete/173210/',
-        linkVideo: 'https://www.youtube.com/watch?v=XCir1hpYhn8',
-        linkCifra: 'https://www.cifraclub.com.br/lauriete/deus-dos-deuses/#instrument=guitar&key=3'
-    },
-    {
-        titulo: 'Sobre as Águas - Trazendo a Arca',
-        linkLetra: 'https://www.letras.mus.br/trazendo-arca/1327890/',
-        linkVideo: 'https://www.youtube.com/watch?v=SdlSIpcV8rA',
-        linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/sobre-as-aguas/simplificada.html'
-    },
-    {
         titulo: 'Tua Graça Me Basta - Davi Sacer [Ageu]',
         linkLetra: 'https://www.letras.mus.br/davi-sacer/1984483/',
         linkVideo: 'https://www.youtube.com/watch?v=4y0_rOSnb_g',
         linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html'
+    }
+];
+
+export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Escape - Renascer Praise',
+        linkLetra: 'https://www.letras.mus.br/renascer-praise/escape/',
+        linkVideo: 'https://www.youtube.com/watch?v=OUSYwGPI26k',
+        linkCifra: 'https://www.cifraclub.com.br/renascer-praise/escape/'
+    },
+    {
+        titulo: 'Em Teus Braços - Laura Souguellis [Jefferson]',
+        linkLetra: 'https://www.letras.mus.br/laura-souguellis/em-teus-bracos/',
+        linkVideo: 'https://www.youtube.com/watch?v=IxpWNuxGmzc',
+        linkCifra: 'https://www.cifraclub.com.br/laura-souguellis/em-teus-bracos/simplificada.html'
     },
     {
         titulo: 'Me Ajuda Deus - Silvan Santos [Jadson]',
         linkLetra: 'https://www.letras.mus.br/silvan-santos/me-ajuda-deus/',
         linkVideo: 'https://www.youtube.com/watch?v=XO3J2hYw8z4',
         linkCifra: 'https://www.cifraclub.com.br/silvan-santos/me-ajuda-deus/'
-    }
+    },
+    {
+        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
+        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
+        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=4'
+    }    
     // {
     //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
     //     linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
