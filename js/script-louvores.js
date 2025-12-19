@@ -206,30 +206,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/simplificada.html#instrument=guitar'
     },
     {
-        titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
-        linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
-        linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
-        linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html#key=7'
-    },
-    {
-        titulo: 'É Ele - DROPS [Rafaela]',
-        linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
-        linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
-        linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0&key=3'
-    },
-    {
-        titulo: 'Liberta-me de Mim - Luma Elpidio',
-        linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
-        linkVideo: 'https://www.youtube.com/watch?v=Ot8KIh6-uEU',
-        linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
-    },
-    {
-        titulo: 'Agnus Dei - Sarah Oliveira [Carlinhos]*',
-        linkLetra: 'https://www.letras.mus.br/agnus-dei/agnus-dei/',
-        linkVideo: 'https://www.youtube.com/watch?v=mxuw-a_l9FI',
-        linkCifra: 'https://www.cifraclub.com.br/david-quinlan/agnus-dei/simplificada.html'
-    },
-    {
         titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha',
         linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
         linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
@@ -270,21 +246,12 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/davi-sacer/1984483/',
         linkVideo: 'https://www.youtube.com/watch?v=4y0_rOSnb_g',
         linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html'
-    }
-];
-
-export const louvoresProximoEnsaio = [
+    },
     {
         titulo: 'Escape - Renascer Praise',
         linkLetra: 'https://www.letras.mus.br/renascer-praise/escape/',
         linkVideo: 'https://www.youtube.com/watch?v=OUSYwGPI26k',
         linkCifra: 'https://www.cifraclub.com.br/renascer-praise/escape/'
-    },
-    {
-        titulo: 'Em Teus Braços - Laura Souguellis [Jefferson]',
-        linkLetra: 'https://www.letras.mus.br/laura-souguellis/em-teus-bracos/',
-        linkVideo: 'https://www.youtube.com/watch?v=IxpWNuxGmzc',
-        linkCifra: 'https://www.cifraclub.com.br/laura-souguellis/em-teus-bracos/simplificada.html'
     },
     {
         titulo: 'Me Ajuda Deus - Silvan Santos [Jadson]',
@@ -297,7 +264,34 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
         linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
         linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=4'
-    }    
+    }
+];
+
+export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
+        linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
+        linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
+        linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html#key=7'
+    },
+    {
+        titulo: 'É Ele - DROPS [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
+        linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
+        linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0&key=3'
+    },
+    {
+        titulo: 'Liberta-me de Mim - Luma Elpidio',
+        linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
+        linkVideo: 'https://www.youtube.com/watch?v=4vkhEgq3WvQ',
+        linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
+    },
+    {
+        titulo: 'Agnus Dei - Sarah Oliveira [Carlinhos]*',
+        linkLetra: 'https://www.letras.mus.br/agnus-dei/agnus-dei/',
+        linkVideo: 'https://www.youtube.com/watch?v=mxuw-a_l9FI',
+        linkCifra: 'https://www.cifraclub.com.br/david-quinlan/agnus-dei/simplificada.html'
+    },    
     // {
     //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
     //     linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
