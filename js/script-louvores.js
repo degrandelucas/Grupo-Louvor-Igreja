@@ -151,12 +151,12 @@ export const louvoresEnsaiados = [
     //     linkVideo: 'https://www.youtube.com/watch?v=KSXBGjb6TyM',
     //     linkCifra: 'https://www.cifraclub.com.br/josue-freitas/joao-20-pra-sempre/#instrument=guitar&key=10'
     // },
-    {
-        titulo: 'Deus Dos Deuses - Lauriete',
-        linkLetra: 'https://www.letras.mus.br/lauriete/173210/',
-        linkVideo: 'https://www.youtube.com/watch?v=XCir1hpYhn8',
-        linkCifra: 'https://www.cifraclub.com.br/lauriete/deus-dos-deuses/#instrument=guitar&key=3'
-    },
+    // {
+    //     titulo: 'Deus Dos Deuses - Lauriete',
+    //     linkLetra: 'https://www.letras.mus.br/lauriete/173210/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=XCir1hpYhn8',
+    //     linkCifra: 'https://www.cifraclub.com.br/lauriete/deus-dos-deuses/#instrument=guitar&key=3'
+    // },
     {
         titulo: 'Os Planos de Deus - Samuel Messias [Gabrielle]',
         linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
@@ -168,12 +168,6 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
         linkVideo: 'https://www.youtube.com/watch?v=OyDKAhdAP9U',
         linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/#key=3'
-    },
-    {
-        titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
-        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
-        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
-        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
     {
         titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
@@ -291,6 +285,12 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/agnus-dei/agnus-dei/',
         linkVideo: 'https://www.youtube.com/watch?v=mxuw-a_l9FI',
         linkCifra: 'https://www.cifraclub.com.br/david-quinlan/agnus-dei/simplificada.html'
+    },
+    {
+        titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
+        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
+        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
+        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },    
     // {
     //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
@@ -337,7 +337,7 @@ export const louvoresProximoEnsaio = [
     // {
     //     titulo: 'Rei e Santo - Canção & Louvor [Deise]',
     //     linkLetra: 'https://www.letras.mus.br/cancao-louvor/rei-e-santo/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=iNpxHRI5sRE',
+    //     linkVideo: 'https://www.youtube.com/watch?v=fyblc48YVh8',
     //     linkCifra: 'https://www.cifraclub.com.br/cancao-louvor/rei-e-santo/#key=5'
     // },
     // {
