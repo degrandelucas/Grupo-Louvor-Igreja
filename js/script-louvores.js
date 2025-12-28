@@ -116,10 +116,10 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
     {
-        titulo: 'Oh, Quão Lindo Esse Nome É - Ana Nóbrega',
-        linkLetra: 'https://www.letras.mus.br/ana-nobrega/oh-quao-lindo-esse-nome-e-what-a-beautiful-name/',
-        linkVideo: 'https://www.youtube.com/watch?v=8XUqcxgH8r4',
-        linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/oh-quao-lindo-esse-nome-/simplificada.html#instrument=guitar'
+        titulo: 'Nada Além do Sangue - Fernandinho, Paula Santos e Isaías Saad',
+        linkLetra: 'https://www.letras.mus.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/',
+        linkVideo: 'https://youtu.be/_nEBkb-iyN8?list=RD_nEBkb-iyN8',
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/#key=3'
     },
 ];
 
