@@ -2,18 +2,6 @@
 
 export const louvoresEnsaiados = [
     {
-        titulo: 'Os Planos de Deus - Samuel Messias [Gabrielle]',
-        linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
-        linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
-        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
-    },
-    {
-        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
-        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
-        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
-    },
-    {
         titulo: 'Clamo Jesus - Paulo César Baruk [Deise]',
         linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
         linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
@@ -119,10 +107,16 @@ export const louvoresEnsaiados = [
 
 export const louvoresProximoEnsaio = [
     {
-        titulo: 'Santo Pra Sempre - Ana Nóbrega',
-        linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
-        linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30',
-        linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/santo-pra-sempre/#instrument=guitar'
+        titulo: 'Os Planos de Deus - Samuel Messias [Gabrielle]',
+        linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
+    },
+    {
+        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
+        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
     },
     {
         titulo: 'Digno de Tudo / Te Exaltamos - Sarah Oliveira (Adoração Central) [Jadson]',
@@ -145,6 +139,12 @@ export const louvoresProximoEnsaio = [
 ];
 
 export const louvoresFuturo = [
+    // {
+    //     titulo: 'Santo Pra Sempre - Ana Nóbrega',
+    //     linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30',
+    //     linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/santo-pra-sempre/#instrument=guitar'
+    // },
     // {
     //     titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
     //     linkLetra: 'https://www.letras.mus.br/cassiane/1247638/',
