@@ -1,5 +1,4 @@
 // script-louvores.js
-
 export const louvoresEnsaiados = [
     {
         titulo: 'Clamo Jesus - Paulo César Baruk [Deise]',
