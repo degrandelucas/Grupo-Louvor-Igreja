@@ -90,7 +90,7 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
         linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
         linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=4'
-    }
+    },
     {
         titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
         linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
