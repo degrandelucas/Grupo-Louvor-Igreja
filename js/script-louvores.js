@@ -74,12 +74,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html'
     },
     {
-        titulo: 'Escape - Renascer Praise',
-        linkLetra: 'https://www.letras.mus.br/renascer-praise/escape/',
-        linkVideo: 'https://www.youtube.com/watch?v=OUSYwGPI26k',
-        linkCifra: 'https://www.cifraclub.com.br/renascer-praise/escape/'
-    },
-    {
         titulo: 'Me Ajuda Deus - Silvan Santos [Jadson]',
         linkLetra: 'https://www.letras.mus.br/silvan-santos/me-ajuda-deus/',
         linkVideo: 'https://www.youtube.com/watch?v=XO3J2hYw8z4',
