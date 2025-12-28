@@ -1,11 +1,293 @@
 // script-louvores.js
 
 export const louvoresEnsaiados = [
+    {
+        titulo: 'Os Planos de Deus - Samuel Messias [Gabrielle]',
+        linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
+    },
+    {
+        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
+        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
+    },
+    {
+        titulo: 'Clamo Jesus - Paulo César Baruk [Deise]',
+        linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
+        linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
+        linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
+    },
+    {
+        titulo: 'Escape - Renascer Praise',
+        linkLetra: 'https://www.letras.mus.br/renascer-praise/escape/',
+        linkVideo: 'https://www.youtube.com/watch?v=OUSYwGPI26k',
+        linkCifra: 'https://www.cifraclub.com.br/renascer-praise/escape/'
+    },
+    {
+        titulo: 'Yahweh Se Manifestará - Marcos Freire',
+        linkLetra: 'https://www.letras.mus.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/',
+        linkVideo: 'https://www.youtube.com/watch?v=EVot5doOp9Q',
+        linkCifra: 'https://www.cifraclub.com.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/simplificada.html#instrument=guitar'
+    },
+    {
+        titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha',
+        linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
+        linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
+        linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
+    },
+    {
+        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
+        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
+        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
+        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
+    },
+    {
+        titulo: 'Sobre as Águas - Trazendo a Arca',
+        linkLetra: 'https://www.letras.mus.br/trazendo-arca/1327890/',
+        linkVideo: 'https://www.youtube.com/watch?v=SdlSIpcV8rA',
+        linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/sobre-as-aguas/simplificada.html'
+    },
+    {
+        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad [Lucas]',
+        linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
+        linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
+    },
+    {
+        titulo: 'Sou Peregrino - Silvan Santos [Samuel]*',
+        linkLetra: 'https://www.letras.mus.br/silvan-santos/sou-peregrino/',
+        linkVideo: 'https://www.youtube.com/watch?v=KAMk9_iK5dc',
+        linkCifra: 'https://www.cifraclub.com.br/silvan-santos/sou-peregrino/#key=0'
+    },
+    {
+        titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
+        linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
+    },
+    {
+        titulo: 'Tua Graça Me Basta - Davi Sacer [Ageu]',
+        linkLetra: 'https://www.letras.mus.br/davi-sacer/1984483/',
+        linkVideo: 'https://www.youtube.com/watch?v=4y0_rOSnb_g',
+        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html'
+    },
+    {
+        titulo: 'Escape - Renascer Praise',
+        linkLetra: 'https://www.letras.mus.br/renascer-praise/escape/',
+        linkVideo: 'https://www.youtube.com/watch?v=OUSYwGPI26k',
+        linkCifra: 'https://www.cifraclub.com.br/renascer-praise/escape/'
+    },
+    {
+        titulo: 'Me Ajuda Deus - Silvan Santos [Jadson]',
+        linkLetra: 'https://www.letras.mus.br/silvan-santos/me-ajuda-deus/',
+        linkVideo: 'https://www.youtube.com/watch?v=XO3J2hYw8z4',
+        linkCifra: 'https://www.cifraclub.com.br/silvan-santos/me-ajuda-deus/'
+    },
+    {
+        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
+        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
+        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=4'
+    }
+    {
+        titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
+        linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
+        linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
+        linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html#key=7'
+    },
+    {
+        titulo: 'É Ele - DROPS [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
+        linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
+        linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0&key=3'
+    },
+    {
+        titulo: 'Liberta-me de Mim - Luma Elpidio',
+        linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
+        linkVideo: 'https://www.youtube.com/watch?v=4vkhEgq3WvQ',
+        linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
+    },
+    {
+        titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
+        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
+        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
+        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
+    },
+    {
+        titulo: 'Oh, Quão Lindo Esse Nome É - Ana Nóbrega',
+        linkLetra: 'https://www.letras.mus.br/ana-nobrega/oh-quao-lindo-esse-nome-e-what-a-beautiful-name/',
+        linkVideo: 'https://www.youtube.com/watch?v=8XUqcxgH8r4',
+        linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/oh-quao-lindo-esse-nome-/simplificada.html#instrument=guitar'
+    },
+];
+
+export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Santo Pra Sempre - Ana Nóbrega',
+        linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
+        linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30',
+        linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/santo-pra-sempre/#instrument=guitar'
+    },
+    {
+        titulo: 'Digno de Tudo / Te Exaltamos - Sarah Oliveira (Adoração Central) [Jadson]',
+        linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
+        linkVideo: 'https://www.youtube.com/watch?v=OyDKAhdAP9U',
+        linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/#key=3'
+    },
+    {
+        titulo: 'Gratidão - Bruna Olly',
+        linkLetra: 'https://www.letras.mus.br/bruna-olly/gratidao/',
+        linkVideo: 'https://www.youtube.com/watch?v=WLM7GbpHj8U',
+        linkCifra: 'https://www.cifraclub.com.br/bruna-olly/gratidao/'
+    },
+    {
+        titulo: 'Oh, Quão Lindo Esse Nome É - Ana Nóbrega',
+        linkLetra: 'https://www.letras.mus.br/ana-nobrega/oh-quao-lindo-esse-nome-e-what-a-beautiful-name/',
+        linkVideo: 'https://www.youtube.com/watch?v=8XUqcxgH8r4',
+        linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/oh-quao-lindo-esse-nome-/simplificada.html#instrument=guitar'
+    },
+];
+
+export const louvoresFuturo = [
     // {
-    //     titulo: 'Oh, Quão Lindo Esse Nome É - Ana Nóbrega',
-    //     linkLetra: 'https://www.letras.mus.br/ana-nobrega/oh-quao-lindo-esse-nome-e-what-a-beautiful-name/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=8XUqcxgH8r4',
-    //     linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/oh-quao-lindo-esse-nome-/simplificada.html#instrument=guitar'
+    //     titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
+    //     linkLetra: 'https://www.letras.mus.br/cassiane/1247638/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=ir1RbosYcCY&t=288s',
+    //     linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor/#instrument=guitar&key=10&capo=0'
+    // },    
+    // {
+    //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
+    //     linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
+    //     linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
+    // },
+    // {
+    //     titulo: 'Tu És Poderoso - Lukas Agustinho [Danyelle]',
+    //     linkLetra: 'https://www.letras.mus.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=aLHniDx88_w',
+    //     linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/#key=3'
+    // },
+    // {
+    //     titulo: 'Eu Vou Construir - Juliano Son [Danyelle]',
+    //     linkLetra: 'https://www.letras.mus.br/juliano-son/eu-vou-construir/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=1htnqzaKLP8',
+    //     linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
+    // },
+    // {
+    //     titulo: 'Aviva-nos / A Terra Clama - Davi Fernandes [Danyelle]',
+    //     linkLetra: 'https://www.letras.mus.br/davi-fernandes/aviva-nos/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=6i058l7_O-w',
+    //     linkCifra: 'https://www.cifraclub.com.br/davi-fernandes/aviva-nos-a-terra-clama-medley/'
+    // },
+    // {
+    //     titulo: 'Caia Fogo - Fernandinho [Jadson]',
+    //     linkLetra: 'https://www.letras.mus.br/fernandinho/caia-fogo/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=p0N8dsntNDI',
+    //     linkCifra: 'https://www.cifraclub.com.br/fernandinho/caia-fogo/simplificada.html'
+    // },
+    // {
+    //     titulo: 'Rei e Santo - Canção & Louvor [Deise]',
+    //     linkLetra: 'https://www.letras.mus.br/cancao-louvor/rei-e-santo/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=fyblc48YVh8',
+    //     linkCifra: 'https://www.cifraclub.com.br/cancao-louvor/rei-e-santo/#key=5'
+    // },
+    // {
+    //     titulo: 'Deus, Tu És Santo - Danielle Cristina [Rafaela]',
+    //     linkLetra: 'https://www.letras.mus.br/danielle-cristina/345711/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=OqoKLPJGZ88&feature=shared',
+    //     linkCifra: 'https://www.cifraclub.com.br/danielle-cristina/deus-tu-es-santo/ao-vivo.html#key=3'
+    // },
+    // {
+    //     titulo: 'O Carpinteiro - Alessandro Vilas Boas [Rafaela]',
+    //     linkLetra: 'https://www.letras.mus.br/alessandro-vilas-boas/carpinteiro/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=Fjhx4ZIT08c',
+    //     linkCifra: 'https://www.cifraclub.com.br/alessandro-vilas-boas/o-carpinteiro/simplificada.html#capo=0&key=4'
+    // },
+    // {
+    //     titulo: '7 Trombeta - Lauriete [Gabrielle]',
+    //     linkLetra: 'https://www.letras.mus.br/lauriete/1677193/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=qKHpwlmQ7g4',
+    //     linkCifra: 'https://www.cifraclub.com.br/lauriete/sete-trombetas/'
+    // },
+    // {
+    //     titulo: 'Santificação - Elaine Martins [Gabrielle]',
+    //     linkLetra: 'https://www.letras.mus.br/elaine-martins/santificacao/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=GbMJaz3nRoE',
+    //     linkCifra: 'https://www.cifraclub.com.br/elaine-martins/santificacao/simplificada.html#capo=0'
+    // },
+    // {
+    //     titulo: 'Aviva-Nos - Soraya Moraes [Danyelle] *Cifra',
+    //     linkLetra: 'https://www.letras.mus.br/soraya-moraes/aviva-nos/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=anmqmjkxrQk',
+    //     linkCifra: 'https://www.cifraclub.com.br/soraya-moraes/aviva-nos/letra/'
+    // },
+    // {
+    //     titulo: 'Coisa Do Meu Deus - Dalete Hungria e Eliã Oliveira [Carlinhos]',
+    //     linkLetra: 'https://www.letras.mus.br/dalete-hungria/coisa-do-meu-deus-part-elia-oliveira/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=s7yk9Swjc_8',
+    //     linkCifra: 'https://www.cifraclub.com.br/dalete-hungria/coisa-do-meu-deus-part-elia-oliveira/#key=0'
+    // }
+    // {
+    //     titulo: 'Agnus Dei - Sarah Oliveira [Carlinhos]*',
+    //     linkLetra: 'https://www.letras.mus.br/agnus-dei/agnus-dei/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=mxuw-a_l9FI',
+    //     linkCifra: 'https://www.cifraclub.com.br/david-quinlan/agnus-dei/simplificada.html'
+    // },
+    // {
+    //     titulo: 'Vai Valer a Pena - Livres Para Adorar',
+    //     linkLetra: 'https://www.letras.mus.br/livres-para-adorar/vai-valer-a-pena/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=j5ZCckq4ai0',
+    //     linkCifra: 'https://www.cifraclub.com.br/livres-para-adorar/vai-valer-apena/'
+    // },
+    // {
+    //     titulo: 'Te Louvarei / Aclame Ao Senhor - Guilherme Baptista',
+    //     linkLetra: 'https://www.letras.mus.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=doA85EYrfPc',
+    //     linkCifra: 'https://www.cifraclub.com.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/#instrument=guitar&key=10&capo=0'
+    // },
+    // {
+    //     titulo: 'Meu Respirar / Meu Prazer - Gabriela Rocha',
+    //     linkLetra: 'https://www.letras.mus.br/gabriela-rocha/meu-prazer-meu-respirar/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=hrqfviD97r0',
+    //     linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/meu-respirar-meu-prazer-pot-pourri/#instrument=guitar&key=7&capo=0'
+    // },
+    // {
+    //     titulo: 'Essência da Adoração - David Quinlan',
+    //     linkLetra: 'https://www.letras.mus.br/david-quinlan/essencia-da-adoracao-part-lu-alone/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=lxo6Fgm_n38',
+    //     linkCifra: 'https://www.cifraclub.com.br/david-quinlan/essencia-da-adoracao/simplificada.html#instrument=guitar'
+    // },
+    // {
+    //     titulo: 'Ao Único - Aline Barros',
+    //     linkLetra: 'https://www.letras.mus.br/aline-barros/178166/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=60CuZyzGf5U',
+    //     linkCifra: 'https://www.cifraclub.com.br/aline-barros/ao-unico/#instrument=guitar'
+    // },
+    // {
+    //     titulo: 'Eu vou Clamar (Multidão) - Oséas Silva',
+    //     linkLetra: 'https://www.letras.mus.br/oseas-silva/multidao/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=026Ejys6Uzw&t=2s',
+    //     linkCifra: 'https://www.cifraclub.com.br/oseas-silva/multidao/#instrument=guitar'
+    // },
+    // {
+    //     titulo: 'Deus Está Aqui / O Espírito de Deus / Manancial - Gabriela Rocha',
+    //     linkLetra: 'https://www.letras.mus.br/gabriela-rocha/deus-esta-aqui/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=2Xs4Qq_wr3k',
+    //     linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/deus-esta-aqui-o-espirito-de-deus-manancial-medley/#instrument=guitar'
+    // },
+    // {
+    //     titulo: 'Atos 2 / Ele É Exaltado - Gabriel Guedes',
+    //     linkLetra: 'https://www.letras.mus.br/gabriel-guedes/atos-2-ele-e-exaltado-medley/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=Stq7QCZT0rY&t=1s',
+    //     linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/atos-2-ele-e-exaltado-pot-pourri/#instrument=guitar'
+    // },
+    // {
+    //     titulo: 'Se Tua Glória - Samuel Dias',
+    //     linkLetra: 'https://www.letras.mus.br/samuel-dias/se-tua-gloria/',
+    //     linkVideo: 'https://www.youtube.com/watch?v=ybLwCOpPzDA',
+    //     linkCifra: 'https://www.cifraclub.com.br/samuel-dias/se-tua-gloria/#instrument=guitar'
     // },
     // {
     //     titulo: 'Derrama o Teu Poder - Bruna Olly',
@@ -157,286 +439,4 @@ export const louvoresEnsaiados = [
     //     linkVideo: 'https://www.youtube.com/watch?v=XCir1hpYhn8',
     //     linkCifra: 'https://www.cifraclub.com.br/lauriete/deus-dos-deuses/#instrument=guitar&key=3'
     // },
-    {
-        titulo: 'Os Planos de Deus - Samuel Messias [Gabrielle]',
-        linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
-        linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
-        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
-    },
-    {
-        titulo: 'Digno de Tudo / Te Exaltamos - Sarah Oliveira (Adoração Central) [Jadson]',
-        linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
-        linkVideo: 'https://www.youtube.com/watch?v=OyDKAhdAP9U',
-        linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/#key=3'
-    },
-    {
-        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
-        linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
-        linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
-    },
-    {
-        titulo: 'Clamo Jesus - Paulo César Baruk [Deise]',
-        linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
-        linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
-        linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
-    },
-    {
-        titulo: 'Escape - Renascer Praise',
-        linkLetra: 'https://www.letras.mus.br/renascer-praise/escape/',
-        linkVideo: 'https://www.youtube.com/watch?v=OUSYwGPI26k',
-        linkCifra: 'https://www.cifraclub.com.br/renascer-praise/escape/'
-    },
-    {
-        titulo: 'Com Muito Louvor - Cassiane [Gabrielle]',
-        linkLetra: 'https://www.letras.mus.br/cassiane/1247638/',
-        linkVideo: 'https://www.youtube.com/watch?v=ir1RbosYcCY&t=288s',
-        linkCifra: 'https://www.cifraclub.com.br/cassiane/com-muito-louvor/#instrument=guitar&key=10&capo=0'
-    },
-    {
-        titulo: 'Yahweh Se Manifestará - Marcos Freire',
-        linkLetra: 'https://www.letras.mus.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/',
-        linkVideo: 'https://www.youtube.com/watch?v=EVot5doOp9Q',
-        linkCifra: 'https://www.cifraclub.com.br/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao/simplificada.html#instrument=guitar'
-    },
-    {
-        titulo: 'Poderoso Deus / O Que Tua Glória Fez Comigo / Preciso de Ti - Gabriela Rocha',
-        linkLetra: 'https://www.letras.mus.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo-preciso-de-ti-medley/',
-        linkVideo: 'https://www.youtube.com/watch?v=_L6a96-XOyI',
-        linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
-    },
-    {
-        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
-        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
-        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
-        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
-    },
-    {
-        titulo: 'Sobre as Águas - Trazendo a Arca',
-        linkLetra: 'https://www.letras.mus.br/trazendo-arca/1327890/',
-        linkVideo: 'https://www.youtube.com/watch?v=SdlSIpcV8rA',
-        linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/sobre-as-aguas/simplificada.html'
-    },
-    {
-        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad [Lucas]',
-        linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
-        linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
-        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
-    },
-    {
-        titulo: 'Sou Peregrino - Silvan Santos [Samuel]*',
-        linkLetra: 'https://www.letras.mus.br/silvan-santos/sou-peregrino/',
-        linkVideo: 'https://www.youtube.com/watch?v=KAMk9_iK5dc',
-        linkCifra: 'https://www.cifraclub.com.br/silvan-santos/sou-peregrino/#key=0'
-    },
-    {
-        titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
-        linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
-        linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
-        linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
-    },
-    {
-        titulo: 'Tua Graça Me Basta - Davi Sacer [Ageu]',
-        linkLetra: 'https://www.letras.mus.br/davi-sacer/1984483/',
-        linkVideo: 'https://www.youtube.com/watch?v=4y0_rOSnb_g',
-        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html'
-    },
-    {
-        titulo: 'Escape - Renascer Praise',
-        linkLetra: 'https://www.letras.mus.br/renascer-praise/escape/',
-        linkVideo: 'https://www.youtube.com/watch?v=OUSYwGPI26k',
-        linkCifra: 'https://www.cifraclub.com.br/renascer-praise/escape/'
-    },
-    {
-        titulo: 'Me Ajuda Deus - Silvan Santos [Jadson]',
-        linkLetra: 'https://www.letras.mus.br/silvan-santos/me-ajuda-deus/',
-        linkVideo: 'https://www.youtube.com/watch?v=XO3J2hYw8z4',
-        linkCifra: 'https://www.cifraclub.com.br/silvan-santos/me-ajuda-deus/'
-    },
-    {
-        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
-        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
-        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=4'
-    }
-];
-
-export const louvoresProximoEnsaio = [
-    {
-        titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
-        linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
-        linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
-        linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html#key=7'
-    },
-    {
-        titulo: 'É Ele - DROPS [Rafaela]',
-        linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
-        linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
-        linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0&key=3'
-    },
-    {
-        titulo: 'Liberta-me de Mim - Luma Elpidio',
-        linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
-        linkVideo: 'https://www.youtube.com/watch?v=4vkhEgq3WvQ',
-        linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
-    },
-    {
-        titulo: 'Agnus Dei - Sarah Oliveira [Carlinhos]*',
-        linkLetra: 'https://www.letras.mus.br/agnus-dei/agnus-dei/',
-        linkVideo: 'https://www.youtube.com/watch?v=mxuw-a_l9FI',
-        linkCifra: 'https://www.cifraclub.com.br/david-quinlan/agnus-dei/simplificada.html'
-    },
-    {
-        titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
-        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
-        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
-        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
-    },    
-    // {
-    //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
-    //     linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
-    //     linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
-    // },
-    // {
-    //     titulo: 'Nada Mais - Fhop Music [Danyelle]',
-    //     linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
-    //     linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
-    // },
-    // {
-    //     titulo: 'Santo Pra Sempre - Ana Nóbrega [Lucas]',
-    //     linkLetra: 'https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=-841Zit4t30',
-    //     linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/santo-pra-sempre/#instrument=guitar'
-    // },
-    // {
-    //     titulo: 'Tu És Poderoso - Lukas Agustinho [Danyelle]',
-    //     linkLetra: 'https://www.letras.mus.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=aLHniDx88_w',
-    //     linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/tu-es-poderoso-part-gabriela-rocha/#key=3'
-    // },
-    // {
-    //     titulo: 'Eu Vou Construir - Juliano Son [Danyelle]',
-    //     linkLetra: 'https://www.letras.mus.br/juliano-son/eu-vou-construir/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=1htnqzaKLP8',
-    //     linkCifra: 'https://www.cifraclub.com.br/juliano-son/eu-vou-construir/#instrument=guitar'
-    // },
-    // {
-    //     titulo: 'Aviva-nos / A Terra Clama - Davi Fernandes [Danyelle]',
-    //     linkLetra: 'https://www.letras.mus.br/davi-fernandes/aviva-nos/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=6i058l7_O-w',
-    //     linkCifra: 'https://www.cifraclub.com.br/davi-fernandes/aviva-nos-a-terra-clama-medley/'
-    // },
-    // {
-    //     titulo: 'Caia Fogo - Fernandinho [Jadson]',
-    //     linkLetra: 'https://www.letras.mus.br/fernandinho/caia-fogo/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=p0N8dsntNDI',
-    //     linkCifra: 'https://www.cifraclub.com.br/fernandinho/caia-fogo/simplificada.html'
-    // },
-    // {
-    //     titulo: 'Rei e Santo - Canção & Louvor [Deise]',
-    //     linkLetra: 'https://www.letras.mus.br/cancao-louvor/rei-e-santo/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=fyblc48YVh8',
-    //     linkCifra: 'https://www.cifraclub.com.br/cancao-louvor/rei-e-santo/#key=5'
-    // },
-    // {
-    //     titulo: 'Deus, Tu És Santo - Danielle Cristina [Rafaela]',
-    //     linkLetra: 'https://www.letras.mus.br/danielle-cristina/345711/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=OqoKLPJGZ88&feature=shared',
-    //     linkCifra: 'https://www.cifraclub.com.br/danielle-cristina/deus-tu-es-santo/ao-vivo.html#key=3'
-    // },
-    // {
-    //     titulo: 'O Carpinteiro - Alessandro Vilas Boas [Rafaela]',
-    //     linkLetra: 'https://www.letras.mus.br/alessandro-vilas-boas/carpinteiro/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=Fjhx4ZIT08c',
-    //     linkCifra: 'https://www.cifraclub.com.br/alessandro-vilas-boas/o-carpinteiro/simplificada.html#capo=0&key=4'
-    // },
-    // {
-    //     titulo: '7 Trombeta - Lauriete [Gabrielle]',
-    //     linkLetra: 'https://www.letras.mus.br/lauriete/1677193/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=qKHpwlmQ7g4',
-    //     linkCifra: 'https://www.cifraclub.com.br/lauriete/sete-trombetas/'
-    // },
-    // {
-    //     titulo: 'Santificação - Elaine Martins [Gabrielle]',
-    //     linkLetra: 'https://www.letras.mus.br/elaine-martins/santificacao/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=GbMJaz3nRoE',
-    //     linkCifra: 'https://www.cifraclub.com.br/elaine-martins/santificacao/simplificada.html#capo=0'
-    // },
-    // {
-    //     titulo: '500° Graus - Cassiane [Deise]',
-    //     linkLetra: 'https://www.letras.mus.br/cassiane/1246736/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=mGVlRuv_P-c',
-    //     linkCifra: 'https://www.cifraclub.com.br/cassiane/500-graus/simplificada.html#capo=0'
-    // },
-    // {
-    //     titulo: 'Aviva-Nos - Soraya Moraes [Danyelle] *Cifra',
-    //     linkLetra: 'https://www.letras.mus.br/soraya-moraes/aviva-nos/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=anmqmjkxrQk',
-    //     linkCifra: 'https://www.cifraclub.com.br/soraya-moraes/aviva-nos/letra/'
-    // },
-    // {
-    //     titulo: 'Coisa Do Meu Deus - Dalete Hungria e Eliã Oliveira [Carlinhos]',
-    //     linkLetra: 'https://www.letras.mus.br/dalete-hungria/coisa-do-meu-deus-part-elia-oliveira/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=s7yk9Swjc_8',
-    //     linkCifra: 'https://www.cifraclub.com.br/dalete-hungria/coisa-do-meu-deus-part-elia-oliveira/#key=0'
-    // }
-    ];
-
-export const louvoresFuturo = [
-    // {
-    //     titulo: 'Vai Valer a Pena - Livres Para Adorar',
-    //     linkLetra: 'https://www.letras.mus.br/livres-para-adorar/vai-valer-a-pena/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=j5ZCckq4ai0',
-    //     linkCifra: 'https://www.cifraclub.com.br/livres-para-adorar/vai-valer-apena/'
-    // },
-    // {
-    //     titulo: 'Te Louvarei / Aclame Ao Senhor - Guilherme Baptista',
-    //     linkLetra: 'https://www.letras.mus.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=doA85EYrfPc',
-    //     linkCifra: 'https://www.cifraclub.com.br/guilherme-baptista/te-louvarei-aclame-ao-senhor-medley/#instrument=guitar&key=10&capo=0'
-    // },
-    // {
-    //     titulo: 'Meu Respirar / Meu Prazer - Gabriela Rocha',
-    //     linkLetra: 'https://www.letras.mus.br/gabriela-rocha/meu-prazer-meu-respirar/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=hrqfviD97r0',
-    //     linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/meu-respirar-meu-prazer-pot-pourri/#instrument=guitar&key=7&capo=0'
-    // },
-    // {
-    //     titulo: 'Essência da Adoração - David Quinlan',
-    //     linkLetra: 'https://www.letras.mus.br/david-quinlan/essencia-da-adoracao-part-lu-alone/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=lxo6Fgm_n38',
-    //     linkCifra: 'https://www.cifraclub.com.br/david-quinlan/essencia-da-adoracao/simplificada.html#instrument=guitar'
-    // },
-    // {
-    //     titulo: 'Ao Único - Aline Barros',
-    //     linkLetra: 'https://www.letras.mus.br/aline-barros/178166/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=60CuZyzGf5U',
-    //     linkCifra: 'https://www.cifraclub.com.br/aline-barros/ao-unico/#instrument=guitar'
-    // },
-    // {
-    //     titulo: 'Eu vou Clamar (Multidão) - Oséas Silva',
-    //     linkLetra: 'https://www.letras.mus.br/oseas-silva/multidao/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=026Ejys6Uzw&t=2s',
-    //     linkCifra: 'https://www.cifraclub.com.br/oseas-silva/multidao/#instrument=guitar'
-    // },
-    // {
-    //     titulo: 'Deus Está Aqui / O Espírito de Deus / Manancial - Gabriela Rocha',
-    //     linkLetra: 'https://www.letras.mus.br/gabriela-rocha/deus-esta-aqui/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=2Xs4Qq_wr3k',
-    //     linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/deus-esta-aqui-o-espirito-de-deus-manancial-medley/#instrument=guitar'
-    // },
-    // {
-    //     titulo: 'Atos 2 / Ele É Exaltado - Gabriel Guedes',
-    //     linkLetra: 'https://www.letras.mus.br/gabriel-guedes/atos-2-ele-e-exaltado-medley/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=Stq7QCZT0rY&t=1s',
-    //     linkCifra: 'https://www.cifraclub.com.br/gabriel-guedes/atos-2-ele-e-exaltado-pot-pourri/#instrument=guitar'
-    // },
-    // {
-    //     titulo: 'Se Tua Glória - Samuel Dias',
-    //     linkLetra: 'https://www.letras.mus.br/samuel-dias/se-tua-gloria/',
-    //     linkVideo: 'https://www.youtube.com/watch?v=ybLwCOpPzDA',
-    //     linkCifra: 'https://www.cifraclub.com.br/samuel-dias/se-tua-gloria/#instrument=guitar'
-    // }
 ];
