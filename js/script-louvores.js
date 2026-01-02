@@ -49,28 +49,10 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/silvan-santos/sou-peregrino/#key=0'
     },
     {
-        titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
-        linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
-        linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
-        linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
-    },
-    {
-        titulo: 'Tua Graça Me Basta - Davi Sacer [Ageu]',
-        linkLetra: 'https://www.letras.mus.br/davi-sacer/1984483/',
-        linkVideo: 'https://www.youtube.com/watch?v=4y0_rOSnb_g',
-        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html'
-    },
-    {
         titulo: 'Me Ajuda Deus - Silvan Santos [Jadson]',
         linkLetra: 'https://www.letras.mus.br/silvan-santos/me-ajuda-deus/',
         linkVideo: 'https://www.youtube.com/watch?v=XO3J2hYw8z4',
         linkCifra: 'https://www.cifraclub.com.br/silvan-santos/me-ajuda-deus/'
-    },
-    {
-        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
-        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
-        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=4'
     },
     {
         titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
@@ -96,15 +78,6 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
-    {
-        titulo: 'Nada Além do Sangue - Fernandinho, Paula Santos e Isaías Saad',
-        linkLetra: 'https://www.letras.mus.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/',
-        linkVideo: 'https://youtu.be/_nEBkb-iyN8?list=RD_nEBkb-iyN8',
-        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/#key=3'
-    },
-];
-
-export const louvoresProximoEnsaio = [
     {
         titulo: 'Os Planos de Deus - Samuel Messias [Gabrielle]',
         linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
@@ -134,7 +107,40 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/oh-quao-lindo-esse-nome-e-what-a-beautiful-name/',
         linkVideo: 'https://www.youtube.com/watch?v=8XUqcxgH8r4',
         linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/oh-quao-lindo-esse-nome-/simplificada.html#instrument=guitar'
+    }
+];
+
+export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Nada Além do Sangue - Fernandinho, Paula Santos e Isaías Saad',
+        linkLetra: 'https://www.letras.mus.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/',
+        linkVideo: 'https://youtu.be/_nEBkb-iyN8?list=RD_nEBkb-iyN8',
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/#key=3'
     },
+    {
+        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
+        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
+        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=4'
+    },
+        {
+        titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
+        linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
+        linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
+    },
+    {
+        titulo: 'Tua Graça Me Basta - Davi Sacer [Ageu]',
+        linkLetra: 'https://www.letras.mus.br/davi-sacer/1984483/',
+        linkVideo: 'https://www.youtube.com/watch?v=4y0_rOSnb_g',
+        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html'
+    },
+    {
+        titulo: 'Jesus, O Plano Perfeito - IEP Music / Renascer Praise',
+        linkLetra: 'https://www.letras.mus.br/renascer-praise/plano-perfeito/',
+        linkVideo: 'https://www.youtube.com/watch?v=j-szA1o4Q7o',
+        linkCifra: 'https://www.cifraclub.com.br/renascer-praise/plano-perfeito/'
+    }
 ];
 
 export const louvoresFuturo = [
