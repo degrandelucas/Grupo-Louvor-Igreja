@@ -108,13 +108,10 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=8XUqcxgH8r4',
         linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/oh-quao-lindo-esse-nome-/simplificada.html#instrument=guitar'
     }
-];
-
-export const louvoresProximoEnsaio = [
-    {
+        {
         titulo: 'Nada Além do Sangue - Fernandinho, Paula Santos e Isaías Saad',
         linkLetra: 'https://www.letras.mus.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/',
-        linkVideo: 'https://youtu.be/_nEBkb-iyN8?list=RD_nEBkb-iyN8',
+        linkVideo: 'https://www.youtube.com/watch?v=_nEBkb-iyN8',
         linkCifra: 'https://www.cifraclub.com.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/#key=3'
     },
     {
@@ -141,6 +138,10 @@ export const louvoresProximoEnsaio = [
         linkVideo: 'https://www.youtube.com/watch?v=j-szA1o4Q7o',
         linkCifra: 'https://www.cifraclub.com.br/renascer-praise/plano-perfeito/'
     }
+];
+
+export const louvoresProximoEnsaio = [
+
 ];
 
 export const louvoresFuturo = [
