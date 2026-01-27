@@ -148,10 +148,10 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
     },
     {
-        titulo: 'Eu Só Quero Adorar - Gerson Rufino',
-        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
-        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
-        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
+        titulo: 'Lugar Seguro - Aline Barros',
+        linkLetra: 'https://www.letras.mus.br/aline-barros/lugar-seguro/',
+        linkVideo: 'https://www.youtube.com/watch?v=bJxgWOC6b3U',
+        linkCifra: 'https://www.cifraclub.com.br/aline-barros/lugar-seguro/'
     }
 ];
 
