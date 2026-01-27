@@ -119,7 +119,13 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/renascer-praise/plano-perfeito/',
         linkVideo: 'https://www.youtube.com/watch?v=j-szA1o4Q7o',
         linkCifra: 'https://www.cifraclub.com.br/renascer-praise/plano-perfeito/'
-    }
+    },
+    {
+        titulo: 'Nada Mais - Fhop Music [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
+        linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
+        linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
+    },
 ];
 
 export const louvoresProximoEnsaio = [
@@ -146,8 +152,7 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
         linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
         linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
-    },
-
+    }
 ];
 
 export const harpaCrista = [
