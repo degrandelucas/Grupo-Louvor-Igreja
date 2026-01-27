@@ -88,7 +88,7 @@ export const louvoresEnsaiados = [
         titulo: 'Gratidão - Bruna Olly',
         linkLetra: 'https://www.letras.mus.br/bruna-olly/gratidao/',
         linkVideo: 'https://www.youtube.com/watch?v=WLM7GbpHj8U',
-        linkCifra: 'https://www.cifraclub.com.br/bruna-olly/gratidao/'
+        linkCifra: 'https://www.cifraclub.com.br/bruna-olly/gratidao/simplificada.html#capo=0&key=7'
     },
     {
         titulo: 'Oh, Quão Lindo Esse Nome É - Ana Nóbrega',
@@ -100,7 +100,7 @@ export const louvoresEnsaiados = [
         titulo: 'Nada Além do Sangue - Fernandinho, Paula Santos e Isaías Saad',
         linkLetra: 'https://www.letras.mus.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/',
         linkVideo: 'https://www.youtube.com/watch?v=_nEBkb-iyN8',
-        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/#key=3'
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/#key=0'
     },
     {
         titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
@@ -152,9 +152,15 @@ export const louvoresProximoEnsaio = [
 
 export const harpaCrista = [
     {
-        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
-        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
-        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
-        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
+        titulo: '509 - Ao Passar o Jordão - Harpa Cristã',
+        linkLetra: 'https://www.letras.mus.br/harpa-crista/456351/',
+        linkVideo: 'https://www.youtube.com/watch?v=5jUld6IrT_g',
+        linkCifra: 'https://www.cifraclub.com.br/harpa-crista/ao-passar-jordao/#key=0'
+    },
+    {
+        titulo: '300 - Ao Passar o Jordão - Harpa Cristã',
+        linkLetra: 'https://www.letras.mus.br/harpa-crista/452069/',
+        linkVideo: 'https://www.youtube.com/watch?v=Wxm5UrrLwDI',
+        linkCifra: 'https://www.cifraclub.com.br/harpa-crista/300-nossa-esperanca-/#key=0'
     },
 ];
