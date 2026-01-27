@@ -1,17 +1,17 @@
 // main.js
 
-import {louvoresEnsaiados, louvoresProximoEnsaio, louvoresFuturo} from './script-louvores.js';
+import {louvoresEnsaiados, louvoresProximoEnsaio, harpaCrista} from './script-louvores.js';
 import {ordenarLouvores} from './ordenacao.js';
 import {renderizarLouvores} from './renderizacao.js';
 import {atualizarAnoCopyright} from './utilidades.js';
 
 ordenarLouvores(louvoresEnsaiados);
 ordenarLouvores(louvoresProximoEnsaio);
-ordenarLouvores(louvoresFuturo);
+ordenarLouvores(harpaCrista);
 
 renderizarLouvores(louvoresEnsaiados, 'lista-louvores-ensaidos');
 renderizarLouvores(louvoresProximoEnsaio, 'lista-proximo-ensaio');
-renderizarLouvores(louvoresFuturo, 'lista-louvores-futuro');
+renderizarLouvores(harpaCrista, 'lista-louvores-harpa-crista');
 
 atualizarAnoCopyright('ano-copyright');
 

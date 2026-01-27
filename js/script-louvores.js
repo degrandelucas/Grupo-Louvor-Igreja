@@ -25,12 +25,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
     },
     {
-        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
-        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
-        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
-        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
-    },
-    {
         titulo: 'Sobre as Águas - Trazendo a Arca',
         linkLetra: 'https://www.letras.mus.br/trazendo-arca/1327890/',
         linkVideo: 'https://www.youtube.com/watch?v=SdlSIpcV8rA',
@@ -53,12 +47,6 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/silvan-santos/me-ajuda-deus/',
         linkVideo: 'https://www.youtube.com/watch?v=XO3J2hYw8z4',
         linkCifra: 'https://www.cifraclub.com.br/silvan-santos/me-ajuda-deus/'
-    },
-    {
-        titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
-        linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
-        linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
-        linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html#key=7'
     },
     {
         titulo: 'É Ele - DROPS [Rafaela]',
@@ -115,12 +103,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/#key=3'
     },
     {
-        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
-        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
-        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
-        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=4'
-    },
-        {
         titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
         linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
         linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
@@ -141,9 +123,38 @@ export const louvoresEnsaiados = [
 ];
 
 export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
+        linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
+        linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
+        linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=4'
+    },
+    {
+        titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
+        linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
+        linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
+        linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html#key=7'
+    },
+    {
+        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
+        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
+        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
+        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
+    },
+    {
+        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
+        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
+        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
+        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
+    },
 
 ];
 
-export const louvoresFuturo = [
-
+export const harpaCrista = [
+    {
+        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
+        linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
+        linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
+        linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
+    },
 ];

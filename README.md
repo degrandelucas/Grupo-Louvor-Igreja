@@ -1,6 +1,6 @@
 # Grupo Renascer - Lista de Louvores
 
-Este projeto é uma aplicação web que facilita o acesso aos louvores do Grupo Renascer da Igreja Assembléia de Deus Belém em Extrema/MG. Ele organiza os louvores em diferentes categorias (ensaiados, próximo ensaio e futuros louvores para ensaio) e fornece links para letras, vídeos e cifras.
+Este projeto é uma aplicação web que facilita o acesso aos louvores do Grupo Renascer da Igreja Assembléia de Deus Belém em Extrema/MG. Ele organiza os louvores em diferentes categorias (ensaiados, próximo ensaio e Harpa Cristã) e fornece links para letras, vídeos e cifras.
 
 ## Funcionalidades Principais
 
