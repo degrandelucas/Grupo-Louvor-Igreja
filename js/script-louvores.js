@@ -1,7 +1,7 @@
 // script-louvores.js
 export const louvoresEnsaiados = [
     {
-        titulo: 'Clamo Jesus - Paulo César Baruk [Deise]',
+        titulo: 'Clamo Jesus - Paulo César Baruk',
         linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
         linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
         linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
@@ -31,19 +31,19 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/sobre-as-aguas/simplificada.html'
     },
     {
-        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad [Lucas]',
+        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad',
         linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
         linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
         linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
     },
     {
-        titulo: 'Sou Peregrino - Silvan Santos [Samuel]*',
+        titulo: 'Sou Peregrino - Silvan Santos',
         linkLetra: 'https://www.letras.mus.br/silvan-santos/sou-peregrino/',
         linkVideo: 'https://www.youtube.com/watch?v=KAMk9_iK5dc',
         linkCifra: 'https://www.cifraclub.com.br/silvan-santos/sou-peregrino/#key=0'
     },
     {
-        titulo: 'Me Ajuda Deus - Silvan Santos [Jadson]',
+        titulo: 'Me Ajuda Deus - Silvan Santos',
         linkLetra: 'https://www.letras.mus.br/silvan-santos/me-ajuda-deus/',
         linkVideo: 'https://www.youtube.com/watch?v=XO3J2hYw8z4',
         linkCifra: 'https://www.cifraclub.com.br/silvan-santos/me-ajuda-deus/'
@@ -61,25 +61,25 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
     },
     {
-        titulo: 'Vitorioso És - Sarah Oliveira [Deise]',
+        titulo: 'Vitorioso És - Sarah Oliveira',
         linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
         linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
     {
-        titulo: 'Os Planos de Deus - Samuel Messias [Gabrielle]',
+        titulo: 'Os Planos de Deus - Samuel Messias',
         linkLetra: 'https://www.letras.mus.br/samuel-messias/os-planos-de-deus-barquinho/',
         linkVideo: 'https://www.youtube.com/watch?v=xYUhVwl5Qew',
         linkCifra: 'https://www.cifraclub.com.br/samuel-messias/os-planos-de-deus-barquinho/simplificada.html#instrument=guitar'
     },
     {
-        titulo: 'Algo Novo - Lukas Austinho [Danyelle]',
+        titulo: 'Algo Novo - Lukas Austinho',
         linkLetra: 'https://www.letras.mus.br/coral-kemuel/algo-novo-part-lukas-agustinho/',
         linkVideo: 'https://www.youtube.com/watch?v=wWU1Bn6wy9o',
         linkCifra: 'https://www.cifraclub.com.br/lukas-agustinho/algo-novo/#instrument=guitar'
     },
     {
-        titulo: 'Digno de Tudo / Te Exaltamos - Sarah Oliveira (Adoração Central) [Jadson]',
+        titulo: 'Digno de Tudo / Te Exaltamos - Sarah Oliveira (Adoração Central)',
         linkLetra: 'https://www.letras.mus.br/adoracao-central/digno-de-tudo-te-exaltamos-ao-vivo/',
         linkVideo: 'https://www.youtube.com/watch?v=OyDKAhdAP9U',
         linkCifra: 'https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/#key=3'
@@ -103,13 +103,13 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/#key=0'
     },
     {
-        titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima [Rafaela]',
+        titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima',
         linkLetra: 'https://www.letras.mus.br/samuel-tayrone/que-presenca-e-essa/',
         linkVideo: 'https://www.youtube.com/watch?v=-qgpGxj0fZA',
         linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
     },
     {
-        titulo: 'Tua Graça Me Basta - Davi Sacer [Ageu]',
+        titulo: 'Tua Graça Me Basta - Davi Sacer',
         linkLetra: 'https://www.letras.mus.br/davi-sacer/1984483/',
         linkVideo: 'https://www.youtube.com/watch?v=4y0_rOSnb_g',
         linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html'
@@ -121,7 +121,7 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/renascer-praise/plano-perfeito/'
     },
     {
-        titulo: 'Nada Mais - Fhop Music [Danyelle]',
+        titulo: 'Nada Mais - Fhop Music',
         linkLetra: 'https://www.letras.mus.br/florianopolis-house-of-prayer/nada-mais-espontaneo/',
         linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
         linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
@@ -130,25 +130,25 @@ export const louvoresEnsaiados = [
 
 export const louvoresProximoEnsaio = [
     {
-        titulo: 'Quem É Esse? - Julliany Souza [Danyelle]',
+        titulo: 'Quem É Esse? - Julliany Souza',
         linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
         linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
         linkCifra: 'https://www.cifraclub.com.br/julliany-souza/quem-e-esse/#instrument=guitar&key=4'
     },
     {
-        titulo: 'Jeová Jireh - Aline Barros [Pr. Ronny]',
+        titulo: 'Jeová Jireh - Aline Barros',
         linkLetra: 'https://www.letras.mus.br/aline-barros/jeova-jireh/',
         linkVideo: 'https://www.youtube.com/watch?v=YyFd_dXy494&t=31s',
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/jeova-jireh/simplificada.html#key=7'
     },
     {
-        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
+        titulo: 'Eu Só Quero Adorar - Gerson Rufino',
         linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
         linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
         linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
     },
     {
-        titulo: 'Eu Só Quero Adorar - Gerson Rufino *G',
+        titulo: 'Eu Só Quero Adorar - Gerson Rufino',
         linkLetra: 'https://www.letras.mus.br/gerson-rufino/eu-so-quero-adorar/',
         linkVideo: 'https://www.youtube.com/watch?v=zjhlfaT1YO8',
         linkCifra: 'https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/simplificada.html'
