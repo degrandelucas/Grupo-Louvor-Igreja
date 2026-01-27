@@ -158,7 +158,7 @@ export const harpaCrista = [
         linkCifra: 'https://www.cifraclub.com.br/harpa-crista/ao-passar-jordao/#key=0'
     },
     {
-        titulo: '300 - Ao Passar o Jordão - Harpa Cristã',
+        titulo: '300 - Nossa Esperança - Harpa Cristã',
         linkLetra: 'https://www.letras.mus.br/harpa-crista/452069/',
         linkVideo: 'https://www.youtube.com/watch?v=Wxm5UrrLwDI',
         linkCifra: 'https://www.cifraclub.com.br/harpa-crista/300-nossa-esperanca-/#key=0'
