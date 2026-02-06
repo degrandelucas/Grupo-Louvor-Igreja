@@ -25,18 +25,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/poderoso-deus-o-que-tua-gloria-fez-comigo/#instrument=guitar'
     },
     {
-        titulo: 'Sobre as Águas - Trazendo a Arca',
-        linkLetra: 'https://www.letras.mus.br/trazendo-arca/1327890/',
-        linkVideo: 'https://www.youtube.com/watch?v=SdlSIpcV8rA',
-        linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/sobre-as-aguas/simplificada.html'
-    },
-    {
-        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad',
-        linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
-        linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
-        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
-    },
-    {
         titulo: 'Sou Peregrino - Silvan Santos',
         linkLetra: 'https://www.letras.mus.br/silvan-santos/sou-peregrino/',
         linkVideo: 'https://www.youtube.com/watch?v=KAMk9_iK5dc',
@@ -109,12 +97,6 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/samuel-tayrone/que-presenca-e-essa-part-vitoria-lima/'
     },
     {
-        titulo: 'Tua Graça Me Basta - Davi Sacer',
-        linkLetra: 'https://www.letras.mus.br/davi-sacer/1984483/',
-        linkVideo: 'https://www.youtube.com/watch?v=4y0_rOSnb_g',
-        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html'
-    },
-    {
         titulo: 'Jesus, O Plano Perfeito - IEP Music / Renascer Praise',
         linkLetra: 'https://www.letras.mus.br/renascer-praise/plano-perfeito/',
         linkVideo: 'https://www.youtube.com/watch?v=j-szA1o4Q7o',
@@ -126,10 +108,7 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=N5AMmLZjaaM',
         linkCifra: 'https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/'
     },
-];
-
-export const louvoresProximoEnsaio = [
-    {
+        {
         titulo: 'Quem É Esse? - Julliany Souza',
         linkLetra: 'https://www.letras.mus.br/julliany-souza/quem-e-esse/',
         linkVideo: 'https://www.youtube.com/watch?v=0ZF5em0MTwY',
@@ -153,6 +132,33 @@ export const louvoresProximoEnsaio = [
         linkVideo: 'https://www.youtube.com/watch?v=bJxgWOC6b3U',
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/lugar-seguro/'
     }
+];
+
+export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Tua Graça Me Basta - Davi Sacer',
+        linkLetra: 'https://www.letras.mus.br/davi-sacer/1984483/',
+        linkVideo: 'https://www.youtube.com/watch?v=4y0_rOSnb_g',
+        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html'
+    },
+    {
+        titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad',
+        linkLetra: 'https://www.letras.mus.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/',
+        linkVideo: 'https://www.youtube.com/watch?v=gTRFVMkMajw',
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/#instrument=guitar'
+    },
+    {
+        titulo: 'Sobre as Águas - Trazendo a Arca',
+        linkLetra: 'https://www.letras.mus.br/trazendo-arca/1327890/',
+        linkVideo: 'https://www.youtube.com/watch?v=SdlSIpcV8rA',
+        linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/sobre-as-aguas/simplificada.html'
+    },
+    {
+        titulo: 'Sou Um Milagre - Voz da Verdade',
+        linkLetra: 'https://www.letras.mus.br/voz-da-verdade/213372/',
+        linkVideo: 'https://www.youtube.com/watch?v=9PFNOyxackI',
+        linkCifra: 'https://www.cifraclub.com/voz-da-verdade/sou-um-milagre/simplificada.html'
+    },
 ];
 
 export const harpaCrista = [
