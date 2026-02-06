@@ -133,7 +133,7 @@ export const louvoresProximoEnsaio = [
         titulo: 'Tua Graça Me Basta - Davi Sacer',
         linkLetra: 'https://www.letras.mus.br/davi-sacer/1984483/',
         linkVideo: 'https://www.youtube.com/watch?v=4y0_rOSnb_g',
-        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html'
+        linkCifra: 'https://www.cifraclub.com.br/davi-sacer/tua-graca-me-basta/simplificada.html#capo=0'
     },
     {
         titulo: 'Ruja o Leão / Que Se Abram Os Céus - Isaías Saad',
