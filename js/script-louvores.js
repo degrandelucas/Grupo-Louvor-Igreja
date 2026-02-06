@@ -152,13 +152,7 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/trazendo-arca/1327890/',
         linkVideo: 'https://www.youtube.com/watch?v=SdlSIpcV8rA',
         linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/sobre-as-aguas/simplificada.html'
-    },
-    {
-        titulo: 'Sou Um Milagre - Voz da Verdade',
-        linkLetra: 'https://www.letras.mus.br/voz-da-verdade/213372/',
-        linkVideo: 'https://www.youtube.com/watch?v=9PFNOyxackI',
-        linkCifra: 'https://www.cifraclub.com/voz-da-verdade/sou-um-milagre/simplificada.html'
-    },
+    }
 ];
 
 export const harpaCrista = [
