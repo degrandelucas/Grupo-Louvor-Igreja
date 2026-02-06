@@ -37,7 +37,7 @@ export const louvoresEnsaiados = [
         linkCifra: 'https://www.cifraclub.com.br/silvan-santos/me-ajuda-deus/'
     },
     {
-        titulo: 'É Ele - DROPS [Rafaela]',
+        titulo: 'É Ele - DROPS',
         linkLetra: 'https://www.letras.mus.br/drops-ina/e-ele/',
         linkVideo: 'https://www.youtube.com/watch?v=L3b2gRB7YVc',
         linkCifra: 'https://www.cifraclub.com.br/drops-ina/e-ele/simplificada.html#capo=0&key=3'
@@ -47,12 +47,6 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/luma-elpidio/liberta-me-de-mim/',
         linkVideo: 'https://www.youtube.com/watch?v=4vkhEgq3WvQ',
         linkCifra: 'https://www.cifraclub.com.br/luma-elpidio/liberta-me-de-mim/simplificada.html#instrument=guitar&capo=0'
-    },
-    {
-        titulo: 'Vitorioso És - Sarah Oliveira',
-        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
-        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
-        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
     {
         titulo: 'Os Planos de Deus - Samuel Messias',
@@ -152,7 +146,13 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/trazendo-arca/1327890/',
         linkVideo: 'https://www.youtube.com/watch?v=SdlSIpcV8rA',
         linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/sobre-as-aguas/simplificada.html'
-    }
+    },
+    {
+        titulo: 'Vitorioso És - Sarah Oliveira',
+        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
+        linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
+        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
+    },
 ];
 
 export const harpaCrista = [
