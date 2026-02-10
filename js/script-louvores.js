@@ -125,6 +125,24 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/aline-barros/lugar-seguro/',
         linkVideo: 'https://www.youtube.com/watch?v=bJxgWOC6b3U',
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/lugar-seguro/'
+    },
+        {
+        titulo: 'O Carpinteiro - Alessandro Vilas Boas',
+        linkLetra: 'https://www.letras.mus.br/alessandro-vilas-boas/carpinteiro/',
+        linkVideo: 'https://www.youtube.com/watch?v=Fjhx4ZIT08c',
+        linkCifra: 'https://www.cifraclub.com.br/alessandro-vilas-boas/o-carpinteiro/simplificada.html#instrument=guitar&capo=0&key=4'
+    },
+    {
+        titulo: 'Rendido Estou - Isaías Saad (part. Débora Buzas)',
+        linkLetra: 'https://www.letras.mus.br/isaias-saad/rendido-estou-part-debora-buzas/',
+        linkVideo: 'https://www.youtube.com/watch?v=EhRoefQgV_U',
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/rendido-estou/#instrument=guitar&capo=0&key=3'
+    },
+    {
+        titulo: 'Marca da Promessa - Trazendo a Arca (part. Bruna Karla)',
+        linkLetra: 'https://www.letras.mus.br/bruna-karla/marca-da-promessa-part-trazendo-a-arca/significado.html',
+        linkVideo: 'https://www.youtube.com/watch?v=_McJlYPhY2Y',
+        linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/marca-da-promessa/simplificada.html#instrument=guitar&key=3'
     }
 ];
 
