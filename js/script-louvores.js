@@ -126,12 +126,6 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=bJxgWOC6b3U',
         linkCifra: 'https://www.cifraclub.com.br/aline-barros/lugar-seguro/'
     },
-        {
-        titulo: 'O Carpinteiro - Alessandro Vilas Boas',
-        linkLetra: 'https://www.letras.mus.br/alessandro-vilas-boas/carpinteiro/',
-        linkVideo: 'https://www.youtube.com/watch?v=Fjhx4ZIT08c',
-        linkCifra: 'https://www.cifraclub.com.br/alessandro-vilas-boas/o-carpinteiro/simplificada.html#instrument=guitar&capo=0&key=4'
-    },
     {
         titulo: 'Rendido Estou - Isaías Saad (part. Débora Buzas)',
         linkLetra: 'https://www.letras.mus.br/isaias-saad/rendido-estou-part-debora-buzas/',
@@ -143,11 +137,8 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/bruna-karla/marca-da-promessa-part-trazendo-a-arca/significado.html',
         linkVideo: 'https://www.youtube.com/watch?v=_McJlYPhY2Y',
         linkCifra: 'https://www.cifraclub.com.br/trazendo-arca/marca-da-promessa/simplificada.html#instrument=guitar&key=3'
-    }
-];
-
-export const louvoresProximoEnsaio = [
-    {
+    },
+        {
         titulo: 'Tua Graça Me Basta - Davi Sacer',
         linkLetra: 'https://www.letras.mus.br/davi-sacer/1984483/',
         linkVideo: 'https://www.youtube.com/watch?v=4y0_rOSnb_g',
@@ -170,6 +161,21 @@ export const louvoresProximoEnsaio = [
         linkLetra: 'https://www.letras.mus.br/sarah-oliveira/vitorioso-es/',
         linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
+    },
+];
+
+export const louvoresProximoEnsaio = [
+    {
+        titulo: 'O Carpinteiro - Alessandro Vilas Boas',
+        linkLetra: 'https://www.letras.mus.br/alessandro-vilas-boas/carpinteiro/',
+        linkVideo: 'https://www.youtube.com/watch?v=Fjhx4ZIT08c',
+        linkCifra: 'https://www.cifraclub.com.br/alessandro-vilas-boas/o-carpinteiro/simplificada.html#instrument=guitar&capo=0&key=4'
+    },
+    {
+        titulo: 'Se Eu Não Te Ouvir - Sarah Farias',
+        linkLetra: 'https://www.letras.mus.br/sarah-farias/se-eu-nao-te-ouvir/', 
+        linkVideo: 'https://www.youtube.com/watch?v=KXJpP0jd9Lk',
+        linkCifra: 'https://www.cifraclub.com.br/sarah-farias/se-eu-nao-te-ouvir/'
     },
 ];
 
