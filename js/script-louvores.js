@@ -162,9 +162,6 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=huvIJiV9YDI',
         linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/vitorioso-es/'
     },
-];
-
-export const louvoresProximoEnsaio = [
     {
         titulo: 'O Carpinteiro - Alessandro Vilas Boas',
         linkLetra: 'https://www.letras.mus.br/alessandro-vilas-boas/carpinteiro/',
@@ -175,8 +172,12 @@ export const louvoresProximoEnsaio = [
         titulo: 'Se Eu Não Te Ouvir - Sarah Farias',
         linkLetra: 'https://www.letras.mus.br/sarah-farias/se-eu-nao-te-ouvir/', 
         linkVideo: 'https://www.youtube.com/watch?v=KXJpP0jd9Lk',
-        linkCifra: 'https://www.cifraclub.com.br/sarah-farias/se-eu-nao-te-ouvir/'
+        linkCifra: 'https://www.cifraclub.com.br/sarah-farias/se-eu-nao-te-ouvir/simplificada.html'
     },
+];
+
+export const louvoresProximoEnsaio = [
+
 ];
 
 export const harpaCrista = [
@@ -191,5 +192,17 @@ export const harpaCrista = [
         linkLetra: 'https://www.letras.mus.br/harpa-crista/452069/',
         linkVideo: 'https://www.youtube.com/watch?v=Wxm5UrrLwDI',
         linkCifra: 'https://www.cifraclub.com.br/harpa-crista/300-nossa-esperanca-/#key=0'
+    },
+    {
+        titulo: '301 - Vem Cear - Harpa Cristã',
+        linkLetra: 'https://www.letras.mus.br/harpa-crista/452119/',
+        linkVideo: 'https://www.youtube.com/watch?v=-fZA3JyELk8',
+        linkCifra: 'https://www.cifraclub.com.br/harpa-crista/vem-cear/#key=10'
+    },
+    {
+        titulo: '39 - Alvo Mais Que a Neve - Harpa Cristã',
+        linkLetra: 'https://www.letras.mus.br/harpa-crista/345619/',
+        linkVideo: 'https://www.youtube.com/watch?v=3wVaDeVWI5k',
+        linkCifra: 'https://www.cifraclub.com.br/harpa-crista/alvo-mais-que-a-neve/#instrument=guitar&key=0'
     },
 ];
