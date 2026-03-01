@@ -177,7 +177,30 @@ export const louvoresEnsaiados = [
 ];
 
 export const louvoresProximoEnsaio = [
-
+    {
+        titulo: 'Braço de Ferro - Elaine de Jesus',
+        linkLetra: 'https://www.letras.mus.br/elaine-de-jesus/148340/', 
+        linkVideo: 'https://www.youtube.com/watch?v=Lvkn73eu-W0',
+        linkCifra: 'https://www.cifraclub.com.br/elaine-de-jesus/braco-de-ferro/'
+    },
+    {
+        titulo: 'Deus dos Deuses - Lauriete',
+        linkLetra: 'https://www.letras.mus.br/lauriete/173210/', 
+        linkVideo: 'https://www.youtube.com/watch?v=dKT91t7_TRc',
+        linkCifra: 'https://www.cifraclub.com.br/lauriete/deus-dos-deuses/simplificada.html#capo=0'
+    },
+    {
+        titulo: 'Como Flecha - Samuel Dias',
+        linkLetra: 'https://www.letras.mus.br/samuel-dias/como-flecha/', 
+        linkVideo: 'https://www.youtube.com/watch?v=lIBPtB0DS4M',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-dias/como-flecha/#key=0'
+    },
+    {
+        titulo: 'Rei e Santo - Canção e Louvor',
+        linkLetra: 'https://www.letras.mus.br/cancao-e-louvor/rei-e-santo/', 
+        linkVideo: 'https://www.youtube.com/watch?v=iNpxHRI5sRE',
+        linkCifra: 'https://www.cifraclub.com.br/cancao-louvor/rei-e-santo/#key=7'
+    },
 ];
 
 export const harpaCrista = [
@@ -204,5 +227,11 @@ export const harpaCrista = [
         linkLetra: 'https://www.letras.mus.br/harpa-crista/345619/',
         linkVideo: 'https://www.youtube.com/watch?v=3wVaDeVWI5k',
         linkCifra: 'https://www.cifraclub.com.br/harpa-crista/alvo-mais-que-a-neve/#instrument=guitar&key=0'
+    },
+    {
+        titulo: '491 - Há Poder Sim - Harpa Cristã',
+        linkLetra: 'https://www.letras.mus.br/harpa-crista/450174/',
+        linkVideo: 'https://www.youtube.com/watch?v=m7zMAQCpjEM',
+        linkCifra: 'https://www.cifraclub.com.br/harpa-crista/ha-poder-sim/#key=10'
     },
 ];
