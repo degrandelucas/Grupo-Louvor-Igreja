@@ -1,12 +1,6 @@
 // script-louvores.js
 export const louvoresEnsaiados = [
     {
-        titulo: 'Clamo Jesus - Paulo César Baruk',
-        linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
-        linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
-        linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
-    },
-    {
         titulo: 'Escape - Renascer Praise',
         linkLetra: 'https://www.letras.mus.br/renascer-praise/escape/',
         linkVideo: 'https://www.youtube.com/watch?v=OUSYwGPI26k',
@@ -77,12 +71,6 @@ export const louvoresEnsaiados = [
         linkLetra: 'https://www.letras.mus.br/ana-nobrega/oh-quao-lindo-esse-nome-e-what-a-beautiful-name/',
         linkVideo: 'https://www.youtube.com/watch?v=8XUqcxgH8r4',
         linkCifra: 'https://www.cifraclub.com.br/ana-nobrega/oh-quao-lindo-esse-nome-/simplificada.html#instrument=guitar'
-    },
-    {
-        titulo: 'Nada Além do Sangue - Fernandinho, Paula Santos e Isaías Saad',
-        linkLetra: 'https://www.letras.mus.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/',
-        linkVideo: 'https://www.youtube.com/watch?v=_nEBkb-iyN8',
-        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/#key=0'
     },
     {
         titulo: 'Que Presença é Essa? - Samuel Tayrone e Vitória Lima',
@@ -174,9 +162,6 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=KXJpP0jd9Lk',
         linkCifra: 'https://www.cifraclub.com.br/sarah-farias/se-eu-nao-te-ouvir/simplificada.html'
     },
-];
-
-export const louvoresProximoEnsaio = [
     {
         titulo: 'Braço de Ferro - Elaine de Jesus',
         linkLetra: 'https://www.letras.mus.br/elaine-de-jesus/148340/', 
@@ -189,6 +174,15 @@ export const louvoresProximoEnsaio = [
         linkVideo: 'https://www.youtube.com/watch?v=dKT91t7_TRc',
         linkCifra: 'https://www.cifraclub.com.br/lauriete/deus-dos-deuses/simplificada.html#capo=0'
     },
+];
+
+export const louvoresProximoEnsaio = [
+    {
+        titulo: 'Rei e Santo - Canção e Louvor',
+        linkLetra: 'https://www.letras.mus.br/cancao-e-louvor/rei-e-santo/', 
+        linkVideo: 'https://www.youtube.com/watch?v=iNpxHRI5sRE',
+        linkCifra: 'https://www.cifraclub.com.br/cancao-louvor/rei-e-santo/#key=7'
+    },
     {
         titulo: 'Como Flecha - Samuel Dias',
         linkLetra: 'https://www.letras.mus.br/samuel-dias/como-flecha/', 
@@ -196,10 +190,22 @@ export const louvoresProximoEnsaio = [
         linkCifra: 'https://www.cifraclub.com.br/samuel-dias/como-flecha/#key=0'
     },
     {
-        titulo: 'Rei e Santo - Canção e Louvor',
-        linkLetra: 'https://www.letras.mus.br/cancao-e-louvor/rei-e-santo/', 
-        linkVideo: 'https://www.youtube.com/watch?v=iNpxHRI5sRE',
-        linkCifra: 'https://www.cifraclub.com.br/cancao-louvor/rei-e-santo/#key=7'
+        titulo: 'Clamo Jesus - Paulo César Baruk',
+        linkLetra: 'https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/',
+        linkVideo: 'https://www.youtube.com/watch?v=ye9caqETC0A',
+        linkCifra: 'https://www.cifraclub.com.br/paulo-cesar-baruk/clamo-jesus/simplificada.html#capo=0'
+    },
+    {
+        titulo: 'Nada Além do Sangue - Fernandinho, Paula Santos e Isaías Saad',
+        linkLetra: 'https://www.letras.mus.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/',
+        linkVideo: 'https://www.youtube.com/watch?v=_nEBkb-iyN8',
+        linkCifra: 'https://www.cifraclub.com.br/isaias-saad/nada-alem-do-sangue-part-fernandinho-e-paula-santos/#key=0'
+    },    
+    {
+        titulo: 'Eu Não Perdi o Controle - Samuel Messias',
+        linkLetra: 'https://www.letras.mus.br/samuel-messias/eu-nao-perdi-o-controle/',
+        linkVideo: 'https://www.youtube.com/watch?v=3zGJWKk0D64&t=46s',
+        linkCifra: 'https://www.cifraclub.com.br/samuel-messias/eu-nao-perdi-o-controle/simplificada.html#capo=0&key=0'
     },
 ];
 
