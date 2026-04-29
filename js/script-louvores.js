@@ -252,6 +252,18 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=jApvWOGhKyo',
         linkCifra: 'https://www.cifraclub.com.br/sarah-farias/renovo/'
     },
+    {
+        titulo: 'Fidelidade - Danielle Cristina',
+        linkLetra: 'https://www.letras.mus.br/danielle-cristina/1569450/',
+        linkVideo: 'https://www.youtube.com/watch?v=UjQp5oQdKLg&t=302s',
+        linkCifra: 'https://www.cifraclub.com.br/danielle-cristina/fidelidade/simplificada.html#capo=0'
+    },
+    {
+        titulo: 'Identidade - Anderson Freire, Bruna Karla',
+        linkLetra: 'https://www.letras.mus.br/anderson-freire/1786766/',
+        linkVideo: 'https://www.youtube.com/watch?v=kxH_vPSo7KI',
+        linkCifra: 'https://www.cifraclub.com.br/bruna-karla/identidade-part-anderson-freire/'
+    },
 ];
 
 export const louvoresProximoEnsaio = [
