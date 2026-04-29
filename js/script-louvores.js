@@ -174,10 +174,7 @@ export const louvoresEnsaiados = [
         linkVideo: 'https://www.youtube.com/watch?v=dKT91t7_TRc',
         linkCifra: 'https://www.cifraclub.com.br/lauriete/deus-dos-deuses/simplificada.html#capo=0'
     },
-];
-
-export const louvoresProximoEnsaio = [
-    {
+        {
         titulo: 'Rei e Santo - Canção e Louvor',
         linkLetra: 'https://www.letras.mus.br/cancao-e-louvor/rei-e-santo/', 
         linkVideo: 'https://www.youtube.com/watch?v=iNpxHRI5sRE',
@@ -207,6 +204,58 @@ export const louvoresProximoEnsaio = [
         linkVideo: 'https://www.youtube.com/watch?v=3zGJWKk0D64&t=46s',
         linkCifra: 'https://www.cifraclub.com.br/samuel-messias/eu-nao-perdi-o-controle/simplificada.html#capo=0&key=0'
     },
+    {
+        titulo: 'Cadeias Quebras - Sarah Oliveira',
+        linkLetra: 'https://www.letras.mus.br/sarah-oliveira/cadeias-quebrar/',
+        linkVideo: 'https://www.youtube.com/watch?v=OfWszjc6LC8',
+        linkCifra: 'https://www.cifraclub.com.br/sarah-oliveira/cadeias-quebrar/#key=0'
+    },
+    {
+        titulo: 'Ele Reina - Jefferson e Suellen',
+        linkLetra: 'https://www.letras.mus.br/jefferson-e-suellen/ele-reina/',
+        linkVideo: 'https://www.youtube.com/watch?v=ILXEWsYRCj4',
+        linkCifra: 'https://www.cifraclub.com.br/jefferson-e-suellen/ele-reina/#key=10'
+    },
+    {
+        titulo: 'Agnus Dei - Gabriela Rocha',
+        linkLetra: 'https://www.letras.mus.br/gabriela-rocha/agnus-dei/',
+        linkVideo: 'https://www.youtube.com/watch?v=ag1StnggWkM',
+        linkCifra: 'https://www.cifraclub.com.br/gabriela-rocha/agnus-dei/'
+    },
+    {
+        titulo: 'Uma Nova História - Fernandinho',
+        linkLetra: 'https://www.letras.mus.br/fernandinho/1446830/',
+        linkVideo: 'https://www.youtube.com/watch?v=SdkWBHLHTgg&t=1s',
+        linkCifra: 'https://www.cifraclub.com.br/fernandinho/uma-nova-historia/'
+    },
+    {
+        titulo: 'Pode Morar Aqui - Theo Rubia',
+        linkLetra: 'https://www.letras.mus.br/theo-rubia/pode-morar-aqui/',
+        linkVideo: 'https://www.youtube.com/watch?v=n0fDvJAyrQ8',
+        linkCifra: 'https://www.cifraclub.com.br/theo-rubia/pode-morar-aqui/simplificada.html#key=10'
+    },
+    {
+        titulo: 'Pra Sempre - Fernandinho',
+        linkLetra: 'https://www.letras.mus.br/fernandinho/pra-sempre/',
+        linkVideo: 'https://www.youtube.com/watch?v=3zGJWKk0D64&t=46s',
+        linkCifra: 'https://www.cifraclub.com.br/fernandinho/pra-sempre/'
+    },
+    {
+        titulo: 'Vida - Bianca Azevedo, Fernandninho',
+        linkLetra: 'https://www.letras.mus.br/bianca-azevedo/vida-feat-fernandinho/',
+        linkVideo: 'https://www.youtube.com/watch?v=IRSuZ57j7yU',
+        linkCifra: 'https://www.cifraclub.com.br/bianca-azevedo/vida/#capo=0'
+    },
+    {
+        titulo: 'Renovo - Sarah Farias',
+        linkLetra: 'https://www.letras.mus.br/sarah-farias/renovo/',
+        linkVideo: 'https://www.youtube.com/watch?v=jApvWOGhKyo',
+        linkCifra: 'https://www.cifraclub.com.br/sarah-farias/renovo/'
+    },
+];
+
+export const louvoresProximoEnsaio = [
+
 ];
 
 export const harpaCrista = [
